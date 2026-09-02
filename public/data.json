@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-01T06:09:20.988012",
-  "totalChanged": 0,
+  "generatedAt": "2026-09-02T05:34:33.302112",
+  "totalChanged": 43,
   "countries": {
     "DZ": {
       "iso": "DZ",
       "name": "Algérie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-001-DZ-V8",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 9,
+      "ref": "FRP-001-DZ-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -135,7 +135,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -370,17 +370,17 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-09-01T06:06:45.150133"
+      "scrapedAt": "2026-09-02T05:32:11.165158"
     },
     "AO": {
       "iso": "AO",
       "name": "Angola",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-002-AO-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-002-AO-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -389,7 +389,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l'indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -510,7 +510,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -668,17 +668,17 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-09-01T06:06:48.376333"
+      "scrapedAt": "2026-09-02T05:32:13.838720"
     },
     "BJ": {
       "iso": "BJ",
       "name": "Bénin",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-003-BJ-V8",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 9,
+      "ref": "FRP-003-BJ-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -687,7 +687,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -996,7 +996,7 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-09-01T06:06:51.475906"
+      "scrapedAt": "2026-09-02T05:32:16.457932"
     },
     "BW": {
       "iso": "BW",
@@ -1015,7 +1015,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1253,17 +1253,17 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-09-01T06:06:54.519241"
+      "scrapedAt": "2026-09-02T05:32:19.102919"
     },
     "BF": {
       "iso": "BF",
       "name": "Burkina Faso",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-005-BF-V6",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 7,
+      "ref": "FRP-005-BF-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1272,7 +1272,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1358,7 +1358,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -1537,17 +1537,17 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-09-01T06:06:57.777114"
+      "scrapedAt": "2026-09-02T05:32:21.657041"
     },
     "BI": {
       "iso": "BI",
       "name": "Burundi",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-006-BI-V8",
-      "sourceDateStr": "25 Aug 2026",
-      "dateMAJInterne": "26 Aug 2026",
+      "version": 9,
+      "ref": "FRP-006-BI-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1556,7 +1556,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent tre affectées par des débordements de conflits en cours en République démocrati",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1880,17 +1880,17 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-09-01T06:07:00.760589"
+      "scrapedAt": "2026-09-02T05:32:24.475070"
     },
     "CM": {
       "iso": "CM",
       "name": "Cameroun",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-007-CM-V11",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 12,
+      "ref": "FRP-007-CM-V12",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1899,7 +1899,7 @@
         "niveau": "eleve",
         "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2050,7 +2050,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -2060,7 +2060,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La polio (poliomyélite) est une maladie infectieuse qui peut tre prévenue par la vaccination. Elle est causée par le poliovirus de type 1, 2 ou 3. Le poliovirus sauvage (WPV1) et/ou le poliovirus circulant dérivé d'un vaccin (cVDPV1 ou cVDPV3) est/sont présent(s) dans cette destination."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -2249,7 +2249,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-09-01T06:07:03.765323"
+      "scrapedAt": "2026-09-02T05:32:27.254774"
     },
     "CV": {
       "iso": "CV",
@@ -2268,7 +2268,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2313,17 +2313,17 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-09-01T06:07:06.627740"
+      "scrapedAt": "2026-09-02T05:32:29.538845"
     },
     "CF": {
       "iso": "CF",
       "name": "Centrafrique",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-009-CF-V8",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 9,
+      "ref": "FRP-009-CF-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -2332,7 +2332,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d'organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2428,7 +2428,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -2611,17 +2611,17 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-09-01T06:07:09.563391"
+      "scrapedAt": "2026-09-02T05:32:32.288813"
     },
     "KM": {
       "iso": "KM",
       "name": "Comores",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-010-KM-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-010-KM-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -2630,7 +2630,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s'imposent. Carte en direct sur la p",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2731,7 +2731,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -2893,7 +2893,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-09-01T06:07:12.233614"
+      "scrapedAt": "2026-09-02T05:32:34.510105"
     },
     "CG": {
       "iso": "CG",
@@ -2912,7 +2912,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2965,7 +2965,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-09-01T06:07:15.140057"
+      "scrapedAt": "2026-09-02T05:32:36.899832"
     },
     "CD": {
       "iso": "CD",
@@ -2984,7 +2984,7 @@
         "niveau": "eleve",
         "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3057,7 +3057,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-09-01T06:07:18.238456"
+      "scrapedAt": "2026-09-02T05:32:39.401348"
     },
     "CI": {
       "iso": "CI",
@@ -3076,7 +3076,7 @@
         "niveau": "eleve",
         "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3139,17 +3139,17 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-09-01T06:07:21.075926"
+      "scrapedAt": "2026-09-02T05:32:41.780395"
     },
     "DJ": {
       "iso": "DJ",
       "name": "Djibouti",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 5,
-      "ref": "FRP-014-DJ-V5",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 6,
+      "ref": "FRP-014-DJ-V6",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3158,7 +3158,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3264,7 +3264,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -3432,17 +3432,17 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-09-01T06:07:24.253482"
+      "scrapedAt": "2026-09-02T05:32:44.200584"
     },
     "EG": {
       "iso": "EG",
       "name": "Égypte",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-015-EG-V7",
-      "sourceDateStr": "21 Aug 2026",
-      "dateMAJInterne": "22 Aug 2026",
+      "version": 8,
+      "ref": "FRP-015-EG-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3451,7 +3451,7 @@
         "niveau": "eleve",
         "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3602,7 +3602,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -3815,17 +3815,17 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-09-01T06:07:27.269175"
+      "scrapedAt": "2026-09-02T05:32:56.133394"
     },
     "ER": {
       "iso": "ER",
       "name": "Érythrée",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-016-ER-V7",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 8,
+      "ref": "FRP-016-ER-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3834,7 +3834,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4163,7 +4163,7 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-09-01T06:07:30.116082"
+      "scrapedAt": "2026-09-02T05:33:01.549520"
     },
     "SZ": {
       "iso": "SZ",
@@ -4182,7 +4182,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu'aucun attentat n'ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4435,17 +4435,17 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-09-01T06:07:32.664177"
+      "scrapedAt": "2026-09-02T05:33:04.011263"
     },
     "ET": {
       "iso": "ET",
       "name": "Éthiopie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-018-ET-V8",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 9,
+      "ref": "FRP-018-ET-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -4454,7 +4454,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4643,11 +4643,6 @@
           "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
-          "cat": "Surveillance de l'éclosion",
-          "niveau": "faible",
-          "texte": "Une augmentation des cas de paludisme est signalée dans toute l'&Eacute;thiopie. Le paludisme est une maladie grave qui peut tre mortelle et qui se transmet par les piqres de moustiques infectés. Selon la destination de votre voyage, des médicaments antipaludiques peuvent tre recommandés. Il est important de consulter un professionnel de la santé ou de vous rendre dans une clinique de santé pour les voyageurs avant votre voyage pour discuter de vos options. Bien qu'il soit préférable de le faire au moins 6 semaines avant le voyage, il est toujours judicieux de prendre rendez-vous à tout moment avant votre départ. Pour vous protéger pendant votre voyage, évitez les piqres de moustiques et prenez tout médicament antipaludique qui vous est prescrit."
-        },
-        {
           "cat": "Vaccins de routine",
           "niveau": "faible",
           "texte": "Assurez-vous que vos vaccins de routine sont à jour avant de partir en voyage, quelle que soit votre destination. Il peut s'agir de vaccins contre la rougeole, les oreillons et la rubéole (ROR), la diphtérie, le tétanos, la coqueluche, la polio, la varicelle, la méningococcie, la grippe saisonnière, et d'autres maladies. Renseignements sur l'immunisation - provinces et territoires"
@@ -4655,7 +4650,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La polio (poliomyélite) est une maladie infectieuse qui peut tre prévenue par la vaccination. Elle est causée par le poliovirus de type 1, 2 ou 3. Le poliovirus circulant dérivé d'une souche vaccinale 2 (cVDPV2) est présent dans ce pays. La polio se transmet d'une personne à l'autre et par l'intermédiaire d'aliments et d'eau contaminés. L'infection par le poliovirus peut provoquer la paralysie et la mort chez les personnes de tout ge qui ne sont pas immunisées. Recommandations :"
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -4883,17 +4878,17 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-09-01T06:07:35.626608"
+      "scrapedAt": "2026-09-02T05:33:06.676644"
     },
     "GA": {
       "iso": "GA",
       "name": "Gabon",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-019-GA-V6",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 7,
+      "ref": "FRP-019-GA-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -4902,7 +4897,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie Intern",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5130,17 +5125,17 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-09-01T06:07:38.362585"
+      "scrapedAt": "2026-09-02T05:33:09.113441"
     },
     "GM": {
       "iso": "GM",
       "name": "Gambie",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-020-GM-V7",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 8,
+      "ref": "FRP-020-GM-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5149,7 +5144,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5382,17 +5377,17 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-09-01T06:07:41.060658"
+      "scrapedAt": "2026-09-02T05:33:11.466492"
     },
     "GH": {
       "iso": "GH",
       "name": "Ghana",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-021-GH-V7",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 8,
+      "ref": "FRP-021-GH-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5401,7 +5396,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - &Eacute;vitez tout voyage non essentiel",
         "texte": "&Eacute;vitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l'activité terroriste.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5730,17 +5725,17 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-09-01T06:07:44.045114"
+      "scrapedAt": "2026-09-02T05:33:13.998300"
     },
     "GN": {
       "iso": "GN",
       "name": "Guinée",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-022-GN-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-022-GN-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5749,7 +5744,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de tr",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6049,17 +6044,17 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-09-01T06:07:47.043100"
+      "scrapedAt": "2026-09-02T05:33:16.322795"
     },
     "GQ": {
       "iso": "GQ",
       "name": "Guinée Éq.",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-023-GQ-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-023-GQ-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6068,7 +6063,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui ",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6174,7 +6169,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. L'Organisation mondiale de la santé (OMS), lors de son dernier rapport, a identifié ce pays comme n'étant plus infecté par le poliovirus, mais comme ayant déjà été infecté au cours des 24 derniers mois."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6327,17 +6322,17 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-09-01T06:07:49.853800"
+      "scrapedAt": "2026-09-02T05:33:18.878018"
     },
     "GW": {
       "iso": "GW",
       "name": "Guinée-Bissau",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 5,
-      "ref": "FRP-024-GW-V5",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 6,
+      "ref": "FRP-024-GW-V6",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6346,7 +6341,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6563,17 +6558,17 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-09-01T06:07:52.280908"
+      "scrapedAt": "2026-09-02T05:33:20.745525"
     },
     "KE": {
       "iso": "KE",
       "name": "Kenya",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-025-KE-V10",
-      "sourceDateStr": "21 Aug 2026",
-      "dateMAJInterne": "22 Aug 2026",
+      "version": 11,
+      "ref": "FRP-025-KE-V11",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6582,7 +6577,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6778,7 +6773,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. L'Organisation mondiale de la santé (OMS), lors de son dernier rapport, a identifié ce pays comme n'étant plus infecté par le poliovirus, mais comme ayant déjà été infecté au cours des 24 derniers mois."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6986,7 +6981,7 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-09-01T06:07:55.391179"
+      "scrapedAt": "2026-09-02T05:33:23.196642"
     },
     "LS": {
       "iso": "LS",
@@ -7005,7 +7000,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7214,17 +7209,17 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-09-01T06:07:58.004289"
+      "scrapedAt": "2026-09-02T05:33:25.437180"
     },
     "LR": {
       "iso": "LR",
       "name": "Libéria",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-027-LR-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-027-LR-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7233,7 +7228,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de transport;",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7518,17 +7513,17 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-09-01T06:08:00.719598"
+      "scrapedAt": "2026-09-02T05:33:28.083907"
     },
     "LY": {
       "iso": "LY",
       "name": "Libye",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-028-LY-V7",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 8,
+      "ref": "FRP-028-LY-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7537,7 +7532,7 @@
         "niveau": "eleve",
         "titre": "en Libye : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7868,17 +7863,17 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-09-01T06:08:03.556483"
+      "scrapedAt": "2026-09-02T05:33:30.729161"
     },
     "MG": {
       "iso": "MG",
       "name": "Madagascar",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-029-MG-V7",
-      "sourceDateStr": "06 Aug 2026",
-      "dateMAJInterne": "07 Aug 2026",
+      "version": 8,
+      "ref": "FRP-029-MG-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7887,7 +7882,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie ",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7973,7 +7968,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Mpox : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Mpox : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -8160,17 +8155,17 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-09-01T06:08:06.413158"
+      "scrapedAt": "2026-09-02T05:33:33.179589"
     },
     "MW": {
       "iso": "MW",
       "name": "Malawi",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-030-MW-V6",
-      "sourceDateStr": "06 Aug 2026",
-      "dateMAJInterne": "07 Aug 2026",
+      "version": 7,
+      "ref": "FRP-030-MW-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8179,7 +8174,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8452,17 +8447,17 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-09-01T06:08:09.224120"
+      "scrapedAt": "2026-09-02T05:33:35.455581"
     },
     "ML": {
       "iso": "ML",
       "name": "Mali",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-031-ML-V11",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 12,
+      "ref": "FRP-031-ML-V12",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8471,7 +8466,7 @@
         "niveau": "modere",
         "titre": "MALI - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité ",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8587,7 +8582,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -8745,17 +8740,17 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-09-01T06:08:11.935764"
+      "scrapedAt": "2026-09-02T05:33:37.801697"
     },
     "MA": {
       "iso": "MA",
       "name": "Maroc",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-032-MA-V6",
-      "sourceDateStr": "21 Aug 2026",
-      "dateMAJInterne": "22 Aug 2026",
+      "version": 7,
+      "ref": "FRP-032-MA-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8764,7 +8759,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8890,7 +8885,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -9077,17 +9072,17 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-09-01T06:08:14.726092"
+      "scrapedAt": "2026-09-02T05:33:40.259620"
     },
     "MR": {
       "iso": "MR",
       "name": "Mauritanie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-033-MR-V11",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 12,
+      "ref": "FRP-033-MR-V12",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9096,7 +9091,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9197,7 +9192,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -9390,17 +9385,17 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-09-01T06:08:17.531328"
+      "scrapedAt": "2026-09-02T05:33:42.593150"
     },
     "MU": {
       "iso": "MU",
       "name": "Maurice",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-034-MU-V7",
-      "sourceDateStr": "06 Aug 2026",
-      "dateMAJInterne": "07 Aug 2026",
+      "version": 8,
+      "ref": "FRP-034-MU-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9409,7 +9404,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie In",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9500,7 +9495,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Chikungunya : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Chikungunya : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -9669,17 +9664,17 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-09-01T06:08:20.273033"
+      "scrapedAt": "2026-09-02T05:33:44.736513"
     },
     "MZ": {
       "iso": "MZ",
       "name": "Mozambique",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-035-MZ-V9",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 10,
+      "ref": "FRP-035-MZ-V10",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9688,7 +9683,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10041,7 +10036,7 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-09-01T06:08:23.901520"
+      "scrapedAt": "2026-09-02T05:33:47.299399"
     },
     "NA": {
       "iso": "NA",
@@ -10060,7 +10055,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10368,17 +10363,17 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-09-01T06:08:27.050531"
+      "scrapedAt": "2026-09-02T05:33:49.513343"
     },
     "NE": {
       "iso": "NE",
       "name": "Niger",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-037-NE-V7",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 8,
+      "ref": "FRP-037-NE-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10387,7 +10382,7 @@
         "niveau": "modere",
         "titre": "NIGER - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d'enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez ",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10493,7 +10488,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs"
+          "texte": "Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs"
         },
         {
           "cat": "Vaccins de routine",
@@ -10685,17 +10680,17 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-09-01T06:08:29.949488"
+      "scrapedAt": "2026-09-02T05:33:51.807120"
     },
     "NG": {
       "iso": "NG",
       "name": "Nigéria",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-038-NG-V11",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 12,
+      "ref": "FRP-038-NG-V12",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10704,7 +10699,7 @@
         "niveau": "eleve",
         "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10875,7 +10870,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs"
+          "texte": "Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs"
         },
         {
           "cat": "Vaccins de routine",
@@ -11108,17 +11103,17 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-09-01T06:08:33.220401"
+      "scrapedAt": "2026-09-02T05:33:54.509889"
     },
     "UG": {
       "iso": "UG",
       "name": "Ouganda",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 13,
-      "ref": "FRP-039-UG-V13",
-      "sourceDateStr": "28 Aug 2026",
-      "dateMAJInterne": "29 Aug 2026",
+      "version": 14,
+      "ref": "FRP-039-UG-V14",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11127,7 +11122,7 @@
         "niveau": "modere",
         "titre": "Ouganda - &Eacute;VITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "&Eacute;vitez tout voyage non essentiel en Ouganda en raison de l'impact régional de l'éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11162,73 +11157,68 @@
         },
         {
           "cat": "Frontière avec la République démocratique du Congo",
-          "niveau": "faible",
-          "texte": "La situation demeure instable dans la partie est de la République démocratique du Congo (RDC) voisine, ce qui peut donner lieu à d'éventuelles incursions de groupes rebelles armés de la RDC dans l'ouest de l'Ouganda. Fin novembre 2021, l'Ouganda et la République démocratique du Congo ont lancé une opération militaire conjointe contre les Forces démocratiques alliées (ADF) dans les provinces du Nord-Kivu et de l'Ituri de la RDC, près du parc national des Virunga. Des troupes militaires ougandaises sont présentes des deux ctés de la frontière. Il existe également un risque de banditisme dans cette région."
+          "niveau": "modere",
+          "texte": "La situation volatile en matière de sécurité dans l'est de la République démocratique du Congo (RDC) voisine pourrait entraner de possibles incursions de groupes rebelles armés en provenance de la RDC dans l'ouest de l'Ouganda. L'Ouganda et la RDC mènent régulièrement des opérations militaires conjointes contre des groupes armés dans les provinces du Nord-Kivu et de l'Ituri en RDC, à proximité du parc national des Virunga. Des troupes militaires ougandaises sont présentes des deux ctés de la frontière. Il existe également un risque de banditisme et de violence interethnique dans cette zone."
         },
         {
           "cat": "Frontière avec le Soudan du Sud",
           "niveau": "faible",
-          "texte": "La frontière avec le Soudan du Sud est poreuse et le banditisme et la criminalité sont préoccupants. Les tensions et les affrontements intercommunautaires sont fréquents dans cette région. Compte tenu de la situation en matière de sécurité au Soudan du Sud, nous vous recommandons d'éviter de vous rendre dans les zones situées à moins de 50 km de la frontière."
+          "texte": "La frontière avec le Soudan du Sud est poreuse, permettant à des groupes criminels et armés d'opérer dans la zone. Les tensions et les affrontements intercommunautaires sont également fréquents dans cette région."
         },
         {
           "cat": "Province de Karamoja",
           "niveau": "faible",
-          "texte": "Des affrontements entre groupes tribaux se produisent, surtout dans les districts au nord de Kate Kyoga. Il y a également un risque de banditisme."
-        },
-        {
-          "cat": "Ouest de l'Ouganda",
-          "niveau": "faible",
-          "texte": "Il existe des antécédents de violence interethnique dans l'ouest de l'Ouganda. En raison des tensions politiques entre l'Ouganda et le Rwanda, la frontière terrestre pourrait tre fermée sans préavis. Assurez-vous de vérifier qu'elle est ouverte avant d'essayer de la traverser."
+          "texte": "Des affrontements entre communautés locales se produisent, surtout dans les districts au nord du lac Kyoga. Il y a également un risque de banditisme."
         },
         {
           "cat": "Terrorisme",
           "niveau": "eleve",
-          "texte": "Des terroristes ont déjà mené des attaques, notamment en juin 2023 contre une école à Mpondwe, près de la frontière avec la République démocratique du Congo, faisant plusieurs victimes. Des attaques additionnelles ne peuvent tre exclues. Bien que les attaques ne semblent pas avoir visé des étrangers, faites preuve d'une prudence accrue à Kampala et dans ses environs. Les endroits suivants pourraient tre ciblés :"
+          "texte": "Il existe une menace terroriste en Ouganda, y compris à Kampala. Des attaques terroristes ont eu lieu dans le passé : dans les districts de Kamwenge, Kasese, Kyankwanzi et Buikwe;"
         },
         {
-          "cat": "Parcs nationaux",
+          "cat": "Parcs nationaux et réserves fauniques",
           "niveau": "faible",
-          "texte": "L'Ouganda compte plusieurs parcs nationaux, notamment près de la frontière avec la République démocratique du Congo. Les autorités locales ont renforcé les mesures de sécurité dans ces régions, mais des touristes ont déjà été impliqués dans des incidents de sécurité par le passé. ne faites appel qu'à des guides ou des voyagistes réputés et professionnels; ne participez pas à des excursions qui vous amèneraient en République démocratique du Congo;"
-        },
-        {
-          "cat": "Crime",
-          "niveau": "eleve",
-          "texte": "Il se produit un peu partout dans le pays des actes de banditisme armé, des vols de voiture, des vols avec agression ainsi que des enlèvements et il arrive que des étrangers en soient ciblés. Il se commet souvent des crimes mineurs, comme des vols à la tire, des vols de sacs à main et de bijoux à l'arraché ainsi que des vols dans les chambres d'htel et les véhicules. Si l'on vous attaque, ne résistez pas à vos agresseurs, car ceux-ci risquent de recourir à la violence. Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
-        },
-        {
-          "cat": "Manifestations",
-          "niveau": "modere",
-          "texte": "&Eacute;vitez les endroits o se tiennent des manifestations et de grands rassemblements Attendez-vous à une présence accrue des forces de l'ordre et à des mesures de sécurité supplémentaires; Suivez les directives des autorités locales, y compris les ordres relatifs aux restrictions de déplacement;"
-        },
-        {
-          "cat": "Sécurité des femmes",
-          "niveau": "faible",
-          "texte": "Les femmes qui voyagent seules pourraient tre victimes de certaines formes de harcèlement et de violence verbale."
-        },
-        {
-          "cat": "Aliments et boissons contenant des drogues",
-          "niveau": "modere",
-          "texte": "Ne laissez jamais vos aliments ou vos boissons sans surveillance, et ne les confiez pas à des inconnus. Méfiez-vous des collations, boissons, gommes à mcher ou cigarettes offertes par de nouvelles connaissances. Ces produits peuvent contenir de la drogue et vous exposer au risque d'tre victime de vol ou d'agression sexuelle."
-        },
-        {
-          "cat": "Contrles d'identité",
-          "niveau": "faible",
-          "texte": "Ayez sur vous une photocopie de la page de renseignements de votre passeport et de la page o se trouve votre visa, et rangez l'original en lieu sr. Les installations et infrastructures touristiques sont adéquates à Kampala, à Jinja et dans les grands parcs nationaux, mais limitées dans le reste du pays."
+          "texte": "L'Ouganda compte plusieurs parcs nationaux, notamment près de la frontière avec la République démocratique du Congo. Les autorités locales ont renforcé les mesures de sécurité dans ces régions, mais des touristes ont déjà été victimes d'incidents de sécurité par le passé. Les parcs nationaux et les réserves fauniques sont situés dans des zones éloignées o les services d'urgence sont limités. Les animaux sauvages s'aventurent souvent dans le périmètre des camps. Si vous décidez de visiter des parcs et des réserves :"
         },
         {
           "cat": "Observation d'animaux sauvages",
           "niveau": "faible",
-          "texte": "L'observation d'animaux sauvages est risquée, surtout si vous tes à pied ou près des animaux. Ne traitez qu'avec une agence de voyages réputée pour visiter les réserves de chasse et autres réserves Tenez-vous toujours à une bonne distance des animaux"
+          "texte": "Les animaux sauvages représentent un danger, surtout si vous tes à pied ou à proximité d'eux. Tenez-vous toujours à bonne distance lorsque vous observez des animaux sauvages Ne sortez d'un véhicule que lorsqu'un guide ou un gardien professionnel juge que vous pouvez le faire en toute sécurité"
         },
         {
-          "cat": "Sécurité routière",
+          "cat": "Criminalité",
+          "niveau": "modere",
+          "texte": "Le taux de criminalité est élevé en Ouganda, particulièrement dans les zones urbaines et frontalières. Des crimes mineurs, tels que des vols à la tire et des vols de sacs à l'arraché, ainsi que des vols dans les chambres d'htel, surviennent fréquemment. Le risque augmente considérablement à la tombée de la nuit. Rangez en lieu sr vos effets personnels, y compris votre passeport et vos autres documents de voyage"
+        },
+        {
+          "cat": "Manifestations",
+          "niveau": "modere",
+          "texte": "Des manifestations peuvent survenir, particulièrement pendant les périodes électorales. Mme les manifestations pacifiques peuvent devenir violentes à tout moment. Elles peuvent également perturber la circulation et les transports publics. &Eacute;vitez les endroits o se tiennent des manifestations et des grands rassemblements Suivez les directives des autorités locales"
+        },
+        {
+          "cat": "Sécurité des femmes",
           "niveau": "faible",
-          "texte": "Si vous vous rendez en Ouganda par voie terrestre, renseignez-vous auprès des postes de police frontaliers sur les conditions de sécurité dans les endroits o vous comptez vous rendre."
+          "texte": "Les femmes voyageant seules peuvent subir certaines formes de harcèlement et de violence verbale."
+        },
+        {
+          "cat": "Mariage forcé",
+          "niveau": "faible",
+          "texte": "Contrainte de voyager et de rester à l'étranger Si vous tes en Tunisie et pensez tre une personne contrainte de voyager en Ouganda pour vous marier et/ou tre retenue à l'étranger contre votre gré, vous pouvez envisager les mesures de sécurité suivantes : essayez d'éviter ou de retarder votre voyage;"
+        },
+        {
+          "cat": "Nourriture, boissons et autres articles pouvant contenir des drogues",
+          "niveau": "modere",
+          "texte": "Ne laissez jamais votre nourriture ou vos boissons sans surveillance et ne les confiez pas à des inconnus. &Eacute;vitez d'accepter des collations, des boissons, de la gomme ou des cigarettes offertes par de nouvelles connaissances, car ces items pourraient contenir de la drogue qui vous expose à des risques d'agression sexuelle et des vols avec agression."
+        },
+        {
+          "cat": "Routes",
+          "niveau": "modere",
+          "texte": "Il y a des enjeux majeurs de sécurité routière en Ouganda. Les accidents mortels sont fréquents et impliquent souvent des motocyclistes ainsi que des piétons. L'assistance de la police et les services d'urgence sont limités, voire inexistants dans les zones rurales. L'état des routes varie à travers le pays et selon les périodes de l'année. Les conditions de conduite peuvent tre dangereuses pendant les saisons des pluies, de mars à mai et de septembre à novembre. Vous pourriez avoir besoin d'un véhicule à quatre roues motrices pour voyager en dehors des villes, hors des grands axes routiers et pendant la saison des pluies. Les routes sont mal entretenues et peuvent tre dangereuses en raison :"
         },
         {
           "cat": "Transports publics",
-          "niveau": "modere",
-          "texte": "&Eacute;vitez les autobus interurbains (surtout pour de longs trajets de nuit) ainsi que les fourgonnettes, car il est déjà arrivé que des accidents mortels soient causés par le mauvais état de ces véhicules, par l'imprudence de leurs chauffeurs ou par des excès de vitesse. Si vous recourez à d'autres modes de transport public, comme les matatus ou les boda-bodas (taxis cyclomoteurs), faites preuve de prudence et assurez-vous, avant le départ, que le véhicule est en bon état. Si vous empruntez les boda-bodas, portez un casque protecteur en tout temps. Les accidents de traversier ne sont pas rares, car ces embarcations sont souvent surchargées et mal entretenues. Ne montez pas à bord d'un bateau qui semble tre surchargé ou ne pas tre en état de naviguer."
+          "niveau": "faible",
+          "texte": "&Eacute;vitez les autobus interurbains, surtout pour de longs trajets de nuit, ainsi que les minivans appelés localement « matatus », car ils sont souvent impliqués dans des accidents mortels. La disponibilité des taxis peut tre limitée en dehors des centres-villes. &Eacute;vitez d'utiliser les taxis-motos, connus localement sous le nom de « boda boda » ou les taxis à trois roues nommés « tuk-tuks », car ils sont souvent impliqués dans des accidents"
         },
         {
           "cat": "Transport aérien",
@@ -11247,13 +11237,13 @@
         },
         {
           "cat": "Visas",
-          "niveau": "faible",
-          "texte": "Visa de touriste : exigé Visa d'affaires : exigé Permis de travail : exigé Visa de transit : exigé Mme s'il est possible d'obtenir un visa à l'arrivée, vous devriez d'abord tenter de l'obtenir en ligne. Présentez votre demande bien à l'avance, car des retards sont possibles. Si vous demandez un visa à votre arrivée en Ouganda, les autorités pourraient vous demander de prouver que vous avez d'abord essayé de l'obtenir en ligne. Certains voyageurs sans visa électronique se sont vu refuser l'entrée dans le pays, mme si, techniquement, ils répondaient aux critères d'obtention d'un visa à l'arrivée."
+          "niveau": "modere",
+          "texte": "Vous devez faire une demande de visa électronique avant de vous rendre en Ouganda. Visa de touriste : exigé Visa d'affaires : exigé Permis de travail : exigé Visa de transit : exigé Vous ne pouvez exercer aucun type de travail, y compris bénévole, avec un visa de touriste. Si vous prévoyez vous rendre en Ouganda pour y faire du bénévolat, communiquez avec le haut-commissariat de l'Ouganda en Tunisie pour obtenir des renseignements sur les exigences particulières."
         },
         {
-          "cat": "Articles soumis à des restrictions",
+          "cat": "Postes frontaliers terrestres",
           "niveau": "faible",
-          "texte": "L'importation d'équipements électroniques est strictement contrlée en Ouganda. Les terminaux Starlink sont interdits, et certains autres appareils électroniques, tels que les drones, peuvent nécessiter un permis avant d'tre importés dans le pays. Si vous tentez d'entrer en Ouganda avec des articles interdits ou sans autorisation officielle, les douaniers pourraient confisquer vos biens. Vous pourriez également tre arrté et détenu. Les articles confisqués à l'entrée pourraient ne pas tre restitués."
+          "texte": "En raison des tensions politiques entre l'Ouganda et le Rwanda, les postes frontaliers terrestres peuvent fermer sans préavis. Vérifiez leur statut avant de vous y rendre."
         },
         {
           "cat": "Enfants et voyages",
@@ -11303,12 +11293,12 @@
         {
           "cat": "Services et établissements médicaux",
           "niveau": "faible",
-          "texte": "Les établissements médicaux sont très peu nombreux à l'extérieur de Kampala. Une maladie grave ou une situation d'urgence peut nécessiter l'évacuation par ambulance aérienne, aux frais du patient. Souscrivez une assurance voyage qui couvre les frais d'hospitalisation à l'étranger et l'évacuation médicale."
+          "texte": "Les services et les établissements médicaux sont limités et ne répondent pas aux normes canadiennes. Il peut tre difficile d'obtenir des soins adéquats auprès des professionnels de la santé. Les établissements médicaux publics et privés exigent généralement un dépt initial en argent comptant, une garantie de paiement ou la confirmation que vous possédez une assurance médicale. La sortie de l'hpital pourrait vous tre refusée jusqu'à ce que la totalité de la facture soit payée. L'évacuation médicale peut tre très coteuse et vous pourriez en avoir besoin en cas de maladie ou de blessure grave."
         },
         {
           "cat": "Médicaments",
           "niveau": "faible",
-          "texte": "Assurez-vous d'avoir une réserve suffisante de médicaments sur ordonnance et de fournitures médicales pour toute la durée de votre séjour."
+          "texte": "Certains médicaments sur ordonnance pourraient ne pas tre disponibles en Ouganda. Si vous prenez des médicaments sur ordonnance, vous tes responsable de déterminer leur légalité en Ouganda. Apportez suffisamment de médicaments pour votre séjour"
         },
         {
           "cat": "&Agrave; retenir...",
@@ -11318,17 +11308,37 @@
         {
           "cat": "Drogues",
           "niveau": "faible",
-          "texte": "La possession, l'usage et le trafic de stupéfiants sont sévèrement punis. Les personnes reconnues coupables de ces délits sont passibles de peines d'emprisonnement ou de lourdes amendes."
+          "texte": "Les peines pour la possession, l'usage ou le trafic de drogues illicites sont sévères. Les personnes reconnues coupables peuvent s'attendre à des peines d'emprisonnement et de lourdes amendes. Faites vos propres bagages et surveillez-les de près en tout temps Ne transportez jamais les paquets, sacs ou valises d'autres personnes"
         },
         {
-          "cat": "Photographies",
+          "cat": "Tabagisme et interdiction des cigarettes électroniques",
           "niveau": "faible",
-          "texte": "Il est interdit de photographier les membres des forces de l'ordre, les sites diplomatiques, les installations gouvernementales, les aéroports et le barrage Owen Falls à la source du Nil, près de Jinja. Demandez toujours la permission aux gens avant de les photographier."
+          "texte": "Il est strictement interdit de fumer dans les lieux suivants : espaces extérieurs situés à moins de 50 m d'un édifice public. L'utilisation de cigarettes électroniques et de chichas (pipe à eau) est illégale. Toute infraction à ces lois est passible d'une amende et d'une détention."
         },
         {
-          "cat": "Vtements de camouflage",
+          "cat": "Identification",
           "niveau": "faible",
-          "texte": "Le port de vtements de style militaire ou de camouflage est interdit et passible d'une peine d'emprisonnement."
+          "texte": "Les autorités locales peuvent demander à voir votre pièce d'identité à tout moment. Ayez toujours une pièce d'identité valide avec photo sur vous Gardez une photocopie de votre passeport et de votre visa en lieu sr en cas de perte ou de saisie"
+        },
+        {
+          "cat": "Photographie",
+          "niveau": "faible",
+          "texte": "Il est interdit de photographier les installations sensibles et les membres des forces de l'ordre. Cela inclut : les barrages, y compris le celui d'Owen Falls; Demandez toujours la permission avant de prendre des photos de personnes."
+        },
+        {
+          "cat": "Drones",
+          "niveau": "faible",
+          "texte": "Vous devez obtenir un permis auprès de l'Autorité de l'aviation civile ougandaise pour importer et utiliser un drone en Ouganda. Informations sur les permis pour drones Autorité de l'aviation civile ougandaise (en anglais seulement)"
+        },
+        {
+          "cat": "Vtements de style militaire",
+          "niveau": "faible",
+          "texte": "Il est illégal de porter, d'acheter, de vendre ou de distribuer des vtements de style militaire en Ouganda. Les personnes reconnues coupables peuvent s'attendre à des amendes et à des détentions."
+        },
+        {
+          "cat": "Tenue vestimentaire et comportement",
+          "niveau": "faible",
+          "texte": "Pour éviter d'offenser les sensibilités locales : habillez-vous sobrement lorsque vous voyagez en dehors des centres urbains; respectez les traditions religieuses et sociales."
         },
         {
           "cat": "Double citoyenneté",
@@ -11343,22 +11353,27 @@
         {
           "cat": "Conduite automobile",
           "niveau": "faible",
-          "texte": "Il est conseillé d'tre muni d'un permis de conduire international. Les conducteurs doivent tre munis en tout temps : d'un permis de conduire valide en anglais ou accompagné d'une traduction certifiée conforme;"
+          "texte": "Pour conduire en Ouganda, vous devez toujours avoir sur vous : un permis de conduire valide en anglais ou accompagné d'une traduction certifiée conforme si votre permis est en franais; les documents d'immatriculation du véhicule;"
         },
         {
           "cat": "Argent",
           "niveau": "faible",
-          "texte": "La devise est le shilling ougandais (UGX). Les cartes de crédit ne sont acceptées que par les grands htels, les compagnies aériennes et certaines agences de location de voitures. On trouve des bureaux de change (forex) à presque tous les postes frontaliers et dans toutes les grandes villes. La plupart des magasins, banques et bureaux de change n'acceptent ou n'échangent pas les dollars américains émis avant 2007."
+          "texte": "La devise de l'Ouganda est le shilling ougandais (UGX). Les cartes de crédit ne sont acceptées que par les grands htels, les compagnies aériennes et certaines agences de location de voitures. Il y a des bureaux de change dans la plupart des postes frontaliers et des grandes villes."
+        },
+        {
+          "cat": "Changements climatiques",
+          "niveau": "faible",
+          "texte": "Les changements climatiques affectent l'Ouganda. Les phénomènes météorologiques extrmes et inhabituels sont de plus en plus fréquents et peuvent affecter vos plans de voyage. Surveillez les médias locaux pour obtenir les dernières informations."
         },
         {
           "cat": "Activité sismique",
           "niveau": "faible",
-          "texte": "L'Ouganda est situé dans une zone d'activité sismique."
+          "texte": "L'Ouganda est situé dans une zone sismique active. Mme les séismes mineurs de terre peuvent causer des dommages importants."
         },
         {
-          "cat": "La saison de la mousson",
+          "cat": "Saisons des pluies",
           "niveau": "faible",
-          "texte": "La saison des pluies (ou mousson) s'étend de mars à mai et d'octobre à novembre. Il peut alors se produire partout dans le pays des incidents météorologiques tels que des inondations et des glissements de terrain. Tenez-vous au courant des prévisions météorologiques régionales et portez attention aux avertissements diffusés."
+          "texte": "Les saisons des pluies s'étendent habituellement de mars à mai et de septembre à novembre. Cela peut varier d'une année à l'autre en raison des changements climatiques. Les inondations saisonnières peuvent entraver les déplacements terrestres et réduire la prestation des services essentiels, particulièrement dans les régions rurales. Les routes peuvent devenir impraticables en raison des coulées de boue et des glissements de terrain. Les infrastructures peuvent tre endommagées. Surveillez les médias locaux pour obtenir les dernières informations, y compris celles concernant l'état des routes Surveillez les bulletins météorologiques"
         },
         {
           "cat": "Services locaux",
@@ -11446,17 +11461,17 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-09-01T06:08:36.569657"
+      "scrapedAt": "2026-09-02T05:33:56.953271"
     },
     "RW": {
       "iso": "RW",
       "name": "Rwanda",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-040-RW-V9",
-      "sourceDateStr": "27 Aug 2026",
-      "dateMAJInterne": "28 Aug 2026",
+      "version": 10,
+      "ref": "FRP-040-RW-V10",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11465,7 +11480,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11586,7 +11601,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -11758,17 +11773,17 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-09-01T06:08:39.363681"
+      "scrapedAt": "2026-09-02T05:33:59.231389"
     },
     "ST": {
       "iso": "ST",
       "name": "São Tomé",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 5,
-      "ref": "FRP-041-ST-V5",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 6,
+      "ref": "FRP-041-ST-V6",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11777,7 +11792,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux ctières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessair",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11888,7 +11903,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -12044,17 +12059,17 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-09-01T06:08:42.460306"
+      "scrapedAt": "2026-09-02T05:34:01.556915"
     },
     "SN": {
       "iso": "SN",
       "name": "Sénégal",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-042-SN-V7",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 8,
+      "ref": "FRP-042-SN-V8",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12063,7 +12078,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d'attaque terroriste ne peut tre exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pour",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12174,7 +12189,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -12385,17 +12400,17 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-09-01T06:08:45.764229"
+      "scrapedAt": "2026-09-02T05:34:03.996124"
     },
     "SL": {
       "iso": "SL",
       "name": "Sierra Leone",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-043-SL-V8",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 9,
+      "ref": "FRP-043-SL-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12404,7 +12419,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12703,17 +12718,17 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-09-01T06:08:48.912088"
+      "scrapedAt": "2026-09-02T05:34:06.339512"
     },
     "SO": {
       "iso": "SO",
       "name": "Somalie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-044-SO-V8",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 9,
+      "ref": "FRP-044-SO-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12722,7 +12737,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12833,7 +12848,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs"
+          "texte": "Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs"
         },
         {
           "cat": "Vaccins de routine",
@@ -12843,7 +12858,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -13026,17 +13041,17 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-09-01T06:08:51.716268"
+      "scrapedAt": "2026-09-02T05:34:08.752553"
     },
     "SD": {
       "iso": "SD",
       "name": "Soudan",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-045-SD-V8",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 9,
+      "ref": "FRP-045-SD-V9",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13045,7 +13060,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13191,7 +13206,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
         },
         {
           "cat": "Vaccins de routine",
@@ -13399,7 +13414,7 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-09-01T06:08:54.666897"
+      "scrapedAt": "2026-09-02T05:34:10.996448"
     },
     "SS": {
       "iso": "SS",
@@ -13418,7 +13433,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13471,17 +13486,17 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-09-01T06:08:57.659674"
+      "scrapedAt": "2026-09-02T05:34:13.422724"
     },
     "TZ": {
       "iso": "TZ",
       "name": "Tanzanie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 13,
-      "ref": "FRP-047-TZ-V13",
-      "sourceDateStr": "27 Aug 2026",
-      "dateMAJInterne": "28 Aug 2026",
+      "version": 14,
+      "ref": "FRP-047-TZ-V14",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13490,7 +13505,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13874,17 +13889,17 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-09-01T06:09:00.907459"
+      "scrapedAt": "2026-09-02T05:34:16.010200"
     },
     "TD": {
       "iso": "TD",
       "name": "Tchad",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-048-TD-V9",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 10,
+      "ref": "FRP-048-TD-V10",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13893,7 +13908,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14019,7 +14034,7 @@
         {
           "cat": "Conseils de santé aux voyageurs pertinents",
           "niveau": "faible",
-          "texte": "Rougeole: Conseils à l'intention des voyageurs Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs"
+          "texte": "Polio : Conseils à l'intention des voyageurs La diphtérie: Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs"
         },
         {
           "cat": "Vaccins de routine",
@@ -14197,17 +14212,17 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-09-01T06:09:03.989917"
+      "scrapedAt": "2026-09-02T05:34:18.383665"
     },
     "TG": {
       "iso": "TG",
       "name": "Togo",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-049-TG-V6",
-      "sourceDateStr": "20 Aug 2026",
-      "dateMAJInterne": "21 Aug 2026",
+      "version": 7,
+      "ref": "FRP-049-TG-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -14216,7 +14231,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - &Eacute;vitez tout voyage",
         "texte": "&Eacute;vitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d'enlèvement. Cet avertissement inclus la ville ainsi q",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14526,17 +14541,17 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-09-01T06:09:06.794329"
+      "scrapedAt": "2026-09-02T05:34:20.793952"
     },
     "TN": {
       "iso": "TN",
       "name": "Tunisie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-050-TN-V6",
-      "sourceDateStr": "17 Aug 2026",
-      "dateMAJInterne": "18 Aug 2026",
+      "version": 7,
+      "ref": "FRP-050-TN-V7",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -14545,7 +14560,7 @@
         "niveau": "eleve",
         "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14867,7 +14882,7 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-09-01T06:09:09.551736"
+      "scrapedAt": "2026-09-02T05:34:23.078295"
     },
     "ZA": {
       "iso": "ZA",
@@ -14886,7 +14901,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour ranons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres en",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15209,17 +15224,17 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-09-01T06:09:12.504043"
+      "scrapedAt": "2026-09-02T05:34:25.646228"
     },
     "ZM": {
       "iso": "ZM",
       "name": "Zambie",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-052-ZM-V11",
-      "sourceDateStr": "21 Aug 2026",
-      "dateMAJInterne": "22 Aug 2026",
+      "version": 12,
+      "ref": "FRP-052-ZM-V12",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -15228,7 +15243,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15359,7 +15374,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est courante dans cette région et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -15543,7 +15558,7 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-09-01T06:09:15.576455"
+      "scrapedAt": "2026-09-02T05:34:28.473115"
     },
     "ZW": {
       "iso": "ZW",
@@ -15562,7 +15577,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15856,17 +15871,17 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-09-01T06:09:18.346860"
+      "scrapedAt": "2026-09-02T05:34:31.035177"
     },
     "SC": {
       "iso": "SC",
       "name": "Seychelles",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 3,
-      "ref": "FRP-054-SC-V3",
-      "sourceDateStr": "29 Jul 2026",
-      "dateMAJInterne": "30 Jul 2026",
+      "version": 4,
+      "ref": "FRP-054-SC-V4",
+      "sourceDateStr": "01 Sep 2026",
+      "dateMAJInterne": "02 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -15875,7 +15890,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ait",
-        "date": "01 Sep 2026"
+        "date": "02 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -16119,7 +16134,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-09-01T06:09:20.987973"
+      "scrapedAt": "2026-09-02T05:34:33.302067"
     }
   }
 }
