@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T06:02:22.299579",
-  "totalChanged": 0,
+  "generatedAt": "2026-09-22T05:58:04.653692",
+  "totalChanged": 3,
   "countries": {
     "DZ": {
       "iso": "DZ",
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -370,7 +370,7 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-09-21T05:59:35.904484"
+      "scrapedAt": "2026-09-22T05:56:00.934206"
     },
     "AO": {
       "iso": "AO",
@@ -389,7 +389,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l'indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -668,7 +668,7 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-09-21T05:59:39.460753"
+      "scrapedAt": "2026-09-22T05:56:03.574003"
     },
     "BJ": {
       "iso": "BJ",
@@ -687,7 +687,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -996,7 +996,7 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-09-21T05:59:42.668814"
+      "scrapedAt": "2026-09-22T05:56:06.337855"
     },
     "BW": {
       "iso": "BW",
@@ -1015,7 +1015,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1253,7 +1253,7 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-09-21T05:59:45.547441"
+      "scrapedAt": "2026-09-22T05:56:08.792583"
     },
     "BF": {
       "iso": "BF",
@@ -1272,7 +1272,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1537,7 +1537,7 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-09-21T05:59:48.535722"
+      "scrapedAt": "2026-09-22T05:56:10.938573"
     },
     "BI": {
       "iso": "BI",
@@ -1556,7 +1556,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent tre affectées par des débordements de conflits en cours en République démocrati",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1880,7 +1880,7 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-09-21T05:59:51.642793"
+      "scrapedAt": "2026-09-22T05:56:13.486511"
     },
     "CM": {
       "iso": "CM",
@@ -1899,7 +1899,7 @@
         "niveau": "eleve",
         "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2249,7 +2249,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-09-21T05:59:54.586989"
+      "scrapedAt": "2026-09-22T05:56:16.047906"
     },
     "CV": {
       "iso": "CV",
@@ -2268,7 +2268,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2313,7 +2313,7 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-09-21T05:59:57.649159"
+      "scrapedAt": "2026-09-22T05:56:18.255437"
     },
     "CF": {
       "iso": "CF",
@@ -2332,7 +2332,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d'organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2611,7 +2611,7 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-09-21T06:00:00.746583"
+      "scrapedAt": "2026-09-22T05:56:20.634935"
     },
     "KM": {
       "iso": "KM",
@@ -2630,7 +2630,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s'imposent. Carte en direct sur la p",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2893,7 +2893,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-09-21T06:00:04.463788"
+      "scrapedAt": "2026-09-22T05:56:22.884284"
     },
     "CG": {
       "iso": "CG",
@@ -2912,7 +2912,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2965,7 +2965,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-09-21T06:00:07.796957"
+      "scrapedAt": "2026-09-22T05:56:25.315609"
     },
     "CD": {
       "iso": "CD",
@@ -2984,7 +2984,7 @@
         "niveau": "eleve",
         "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3057,7 +3057,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-09-21T06:00:11.107906"
+      "scrapedAt": "2026-09-22T05:56:27.776736"
     },
     "CI": {
       "iso": "CI",
@@ -3076,7 +3076,7 @@
         "niveau": "eleve",
         "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3139,7 +3139,7 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-09-21T06:00:14.037687"
+      "scrapedAt": "2026-09-22T05:56:29.998992"
     },
     "DJ": {
       "iso": "DJ",
@@ -3158,7 +3158,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3432,7 +3432,7 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-09-21T06:00:16.968834"
+      "scrapedAt": "2026-09-22T05:56:32.578817"
     },
     "EG": {
       "iso": "EG",
@@ -3451,7 +3451,7 @@
         "niveau": "eleve",
         "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3815,7 +3815,7 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-09-21T06:00:20.035947"
+      "scrapedAt": "2026-09-22T05:56:34.934561"
     },
     "ER": {
       "iso": "ER",
@@ -3834,7 +3834,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4163,7 +4163,7 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-09-21T06:00:23.401696"
+      "scrapedAt": "2026-09-22T05:56:37.467824"
     },
     "SZ": {
       "iso": "SZ",
@@ -4182,7 +4182,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu'aucun attentat n'ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4435,7 +4435,7 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-09-21T06:00:26.131218"
+      "scrapedAt": "2026-09-22T05:56:39.606317"
     },
     "ET": {
       "iso": "ET",
@@ -4454,7 +4454,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4878,7 +4878,7 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-09-21T06:00:35.884377"
+      "scrapedAt": "2026-09-22T05:56:41.994194"
     },
     "GA": {
       "iso": "GA",
@@ -4897,7 +4897,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie Intern",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5125,7 +5125,7 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-09-21T06:00:39.149549"
+      "scrapedAt": "2026-09-22T05:56:44.256313"
     },
     "GM": {
       "iso": "GM",
@@ -5144,7 +5144,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5377,7 +5377,7 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-09-21T06:00:42.038204"
+      "scrapedAt": "2026-09-22T05:56:46.428091"
     },
     "GH": {
       "iso": "GH",
@@ -5396,7 +5396,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - &Eacute;vitez tout voyage non essentiel",
         "texte": "&Eacute;vitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l'activité terroriste.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5725,7 +5725,7 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-09-21T06:00:45.191396"
+      "scrapedAt": "2026-09-22T05:56:48.719986"
     },
     "GN": {
       "iso": "GN",
@@ -5744,7 +5744,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de tr",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6044,7 +6044,7 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-09-21T06:00:48.252951"
+      "scrapedAt": "2026-09-22T05:56:51.185401"
     },
     "GQ": {
       "iso": "GQ",
@@ -6063,7 +6063,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui ",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6322,7 +6322,7 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-09-21T06:00:51.197156"
+      "scrapedAt": "2026-09-22T05:56:53.299786"
     },
     "GW": {
       "iso": "GW",
@@ -6341,7 +6341,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6558,17 +6558,17 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-09-21T06:00:53.589024"
+      "scrapedAt": "2026-09-22T05:56:55.162297"
     },
     "KE": {
       "iso": "KE",
       "name": "Kenya",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 13,
-      "ref": "FRP-025-KE-V13",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 14,
+      "ref": "FRP-025-KE-V14",
+      "sourceDateStr": "21 Sep 2026",
+      "dateMAJInterne": "22 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6577,7 +6577,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6773,7 +6773,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6878,7 +6878,7 @@
         {
           "cat": "Volcans et tremblements de terre",
           "niveau": "modere",
-          "texte": "Le Kenya est situé sur une zone sismique active. Bien qu'il n'y ait pas eu d'incidents récemment, des tremblements de terre et une activité volcanique peuvent se produire."
+          "texte": "Le Kenya est situé dans une zone sismique active. Bien qu'il n'y ait pas eu d'incidents récemment, des tremblements de terre et de l'activité volcanique peuvent se produire."
         },
         {
           "cat": "Services locaux",
@@ -6981,7 +6981,7 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-09-21T06:00:56.640718"
+      "scrapedAt": "2026-09-22T05:56:57.742168"
     },
     "LS": {
       "iso": "LS",
@@ -7000,7 +7000,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7209,7 +7209,7 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-09-21T06:00:59.308893"
+      "scrapedAt": "2026-09-22T05:57:00.067334"
     },
     "LR": {
       "iso": "LR",
@@ -7228,7 +7228,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de transport;",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7513,7 +7513,7 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-09-21T06:01:02.046314"
+      "scrapedAt": "2026-09-22T05:57:02.403713"
     },
     "LY": {
       "iso": "LY",
@@ -7532,7 +7532,7 @@
         "niveau": "modere",
         "titre": "LIBYE - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage en Libye en raison de la situation sécuritaire volatile dans l'ensemble du pays, d'affrontements sans préavis entre groupes armés rivaux, de l'instabilité politique, du risqu",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7863,7 +7863,7 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-09-21T06:01:04.864202"
+      "scrapedAt": "2026-09-22T05:57:04.658603"
     },
     "MG": {
       "iso": "MG",
@@ -7882,7 +7882,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie ",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8155,7 +8155,7 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-09-21T06:01:07.816270"
+      "scrapedAt": "2026-09-22T05:57:07.026899"
     },
     "MW": {
       "iso": "MW",
@@ -8174,7 +8174,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8447,7 +8447,7 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-09-21T06:01:10.854182"
+      "scrapedAt": "2026-09-22T05:57:09.348049"
     },
     "ML": {
       "iso": "ML",
@@ -8466,7 +8466,7 @@
         "niveau": "modere",
         "titre": "MALI - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité ",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8740,7 +8740,7 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-09-21T06:01:13.957892"
+      "scrapedAt": "2026-09-22T05:57:11.666255"
     },
     "MA": {
       "iso": "MA",
@@ -8759,7 +8759,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9072,7 +9072,7 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-09-21T06:01:16.960664"
+      "scrapedAt": "2026-09-22T05:57:13.908442"
     },
     "MR": {
       "iso": "MR",
@@ -9091,7 +9091,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9385,7 +9385,7 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-09-21T06:01:19.798691"
+      "scrapedAt": "2026-09-22T05:57:16.258576"
     },
     "MU": {
       "iso": "MU",
@@ -9404,7 +9404,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie In",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9664,7 +9664,7 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-09-21T06:01:22.651957"
+      "scrapedAt": "2026-09-22T05:57:18.516260"
     },
     "MZ": {
       "iso": "MZ",
@@ -9683,7 +9683,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10036,7 +10036,7 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-09-21T06:01:25.991102"
+      "scrapedAt": "2026-09-22T05:57:20.756951"
     },
     "NA": {
       "iso": "NA",
@@ -10055,7 +10055,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10363,7 +10363,7 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-09-21T06:01:28.869611"
+      "scrapedAt": "2026-09-22T05:57:23.075318"
     },
     "NE": {
       "iso": "NE",
@@ -10382,7 +10382,7 @@
         "niveau": "modere",
         "titre": "NIGER - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d'enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez ",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10680,17 +10680,17 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-09-21T06:01:31.821522"
+      "scrapedAt": "2026-09-22T05:57:25.161006"
     },
     "NG": {
       "iso": "NG",
       "name": "Nigéria",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-038-NG-V14",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 15,
+      "ref": "FRP-038-NG-V15",
+      "sourceDateStr": "21 Sep 2026",
+      "dateMAJInterne": "22 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10699,7 +10699,7 @@
         "niveau": "eleve",
         "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10813,6 +10813,11 @@
           "texte": "Les femmes voyageant seules peuvent subir certaines formes de harcèlement ou de violence verbale."
         },
         {
+          "cat": "Alcool non réglementé",
+          "niveau": "faible",
+          "texte": "La consommation d'alcool non réglementé et frelaté contenant des niveaux élevés de méthanol a fait des victimes. Achetez de l'alcool dans des établissements réputés Demandez de l'aide médicale si vous commencez à vous sentir mal"
+        },
+        {
           "cat": "Baignade",
           "niveau": "faible",
           "texte": "Les eaux ctières peuvent tre dangereuses, mme pour les nageurs expérimentés. Les contre-courants sont fréquents. Plusieurs noyades surviennent chaque année. Les plages sont généralement sans surveillance. Il n'y a pas de système d'alerte pour signaler les conditions dangereuses. Santé et sécurité dans un voyage d'aventure"
@@ -10880,7 +10885,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -11103,7 +11108,7 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-09-21T06:01:35.030263"
+      "scrapedAt": "2026-09-22T05:57:27.816898"
     },
     "UG": {
       "iso": "UG",
@@ -11122,7 +11127,7 @@
         "niveau": "modere",
         "titre": "Ouganda - &Eacute;VITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "&Eacute;vitez tout voyage non essentiel en Ouganda en raison de l'impact régional de l'éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11461,7 +11466,7 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-09-21T06:01:38.021562"
+      "scrapedAt": "2026-09-22T05:57:30.341760"
     },
     "RW": {
       "iso": "RW",
@@ -11480,7 +11485,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11778,7 +11783,7 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-09-21T06:01:41.008008"
+      "scrapedAt": "2026-09-22T05:57:32.541083"
     },
     "ST": {
       "iso": "ST",
@@ -11797,7 +11802,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux ctières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessair",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12064,7 +12069,7 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-09-21T06:01:43.723748"
+      "scrapedAt": "2026-09-22T05:57:34.683606"
     },
     "SN": {
       "iso": "SN",
@@ -12083,7 +12088,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d'attaque terroriste ne peut tre exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pour",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12405,7 +12410,7 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-09-21T06:01:46.510618"
+      "scrapedAt": "2026-09-22T05:57:37.065575"
     },
     "SL": {
       "iso": "SL",
@@ -12424,7 +12429,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12723,7 +12728,7 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-09-21T06:01:49.600746"
+      "scrapedAt": "2026-09-22T05:57:39.258524"
     },
     "SO": {
       "iso": "SO",
@@ -12742,7 +12747,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13046,17 +13051,17 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-09-21T06:01:52.661162"
+      "scrapedAt": "2026-09-22T05:57:41.453845"
     },
     "SD": {
       "iso": "SD",
       "name": "Soudan",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-045-SD-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-045-SD-V11",
+      "sourceDateStr": "21 Sep 2026",
+      "dateMAJInterne": "22 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13065,7 +13070,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13080,93 +13085,63 @@
         },
         {
           "cat": "SOUDAN - &Eacute;VITEZ TOUT VOYAGE",
-          "niveau": "modere",
-          "texte": "&Eacute;vitez tout voyage au Soudan en raison du conflit armé, des troubles civils et de l'instabilité de la situation sécuritaire. Les vols d'évacuation du ministère tunisien des Affaires étrangères sont terminés. Toutefois, vous devriez quitter le pays si vous pouvez le faire en toute sécurité. les ressortissants tunisiens ayant besoin d'une assistance consulaire devraient communiquer avec le Centre de surveillance et d'intervention d'urgence ."
+          "niveau": "faible",
+          "texte": "&Eacute;vitez tout voyage au Soudan en raison du conflit armé, des troubles civils et de l'instabilité de la situation sécuritaire. Vous devriez quitter le pays si vous pouvez le faire en toute sécurité. les ressortissants tunisiens au Soudan ayant besoin d'une assistance consulaire devraient communiquer avec le Centre de surveillance et d'intervention d'urgence ."
         },
         {
           "cat": "Hostilités en cours à travers le Soudan",
           "niveau": "eleve",
-          "texte": "Depuis avril 2023, de violents combats opposent l'armée soudanaise, un groupe paramilitaire et d'autres groupes armés affiliés dans tout le pays, y compris dans la capitale, Khartoum. La situation sécuritaire demeure très instable et les affrontements risquent de se poursuivre dans un avenir rapproché. La population civile est victime de violences, notamment sexuelles. Les étrangers et les employés d'organisations internationales ont aussi été visés par ces attaques. Des attaques de drones récentes à Port-Soudan soulignent l'insécurité croissante dans la région. La situation pourrait se détériorer davantage. Vous devriez quitter le pays dès maintenant si vous pouvez le faire en toute sécurité."
-        },
-        {
-          "cat": "Situation politique",
-          "niveau": "modere",
-          "texte": "La situation politique au Soudan reste très instable depuis le coup d'&Eacute;tat de 2021. Depuis avril 2023, un violent conflit armé oppose l'armée soudanaise, un groupe paramilitaire et d'autres groupes armés affiliés dans tout le pays. évitez toutes les manifestations et les grands rassemblements; surveillez les médias locaux et internationaux pour vous tenir au courant de l'évolution de la situation;"
+          "texte": "Depuis avril 2023, de violents combats opposent l'armée soudanaise, un groupe paramilitaire et d'autres groupes armés affiliés, sur l'ensemble du territoire. L'armée soudanaise contrle la partie orientale du pays, y compris Khartoum et Port-Soudan, tandis que les groupes paramilitaires contrlent la partie occidentale du pays. Toutefois, le contrle territorial change fréquemment le long de plusieurs lignes de front. Des attaques de drones se produisent fréquemment et sans préavis dans tout le pays, y compris dans les zones contrlées par l'armée soudanaise, comme Khartoum et Port-Soudan."
         },
         {
           "cat": "Manifestations",
           "niveau": "modere",
-          "texte": "Mme les manifestations pacifiques peuvent devenir violentes à tout moment. Elles peuvent aussi perturber la circulation et les transports publics. &Eacute;vitez les endroits o se tiennent des manifestations et des grands rassemblements Suivez les directives des autorités locales"
-        },
-        {
-          "cat": "Darfour",
-          "niveau": "faible",
-          "texte": "Le conflit au Darfour a créé une situation dangereuse dans l'ouest du Soudan, surtout à l'extérieur des grandes villes. D'autres régions du Soudan et l'est du Tchad sont aussi affectées. Malgré la conclusion d'un accord de paix provisoire, la situation en matière de sécurité au Darfour demeure extrmement instable, et l'anarchie est chose courante. Les actes de violence ont fait des morts, causé le déplacement de personnes, provoqué une insécurité et une instabilité générales."
-        },
-        {
-          "cat": "Région d'Abyei, &Eacute;tats du Kordofan de l'Ouest, du Kordofan du Sud et du Nil Bleu",
-          "niveau": "eleve",
-          "texte": "Le Soudan et le Soudan du Sud revendiquent tous deux Abyei, et on signale des combats persistants entre les forces du gouvernement et des rebelles dans le Kordofan du Sud et dans le Nil Bleu. Il existe un risque élevé d'attaques dans la région. Des groupes armés ont perpétré des attaques contre des travailleurs étrangers, y compris des travailleurs de l'industrie pétrolière. Le Soudan a déclaré l'état d'urgence dans les &Eacute;tats qui longent le Soudan du Sud."
-        },
-        {
-          "cat": "Frontière avec l'&Eacute;rythrée dans les &Eacute;tats de la mer Rouge et du Kassala, et avec l'&Eacute;thiopie dans les &Eacute;tats d'Al-Qadrif et du Sennar",
-          "niveau": "faible",
-          "texte": "La situation en matière de sécurité dans la région comprise à moins de 50 km de la frontière avec l'&Eacute;rythrée, dans les &Eacute;tats de la mer Rouge et du Kassala, et à moins de 50 km de la frontière avec l'&Eacute;thiopie dans les &Eacute;tats d'Al-Qadrif et du Sennar est instable en raison de l'activité militante transfrontalière. Des opérations militaires ont lieu dans la région du Tigré, en &Eacute;thiopie, depuis le début de novembre 2020. Des étrangers travaillant pour des organismes humanitaires dans la région ont déjà été la cible d'attentats. Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
-        },
-        {
-          "cat": "Frontière avec l'&Eacute;gypte",
-          "niveau": "faible",
-          "texte": "Le triangle de Halayib et Bir Tawil sont des territoires contestés situés entre le Soudan et l'&Eacute;gypte. La menace d'affrontements isolés et sans discernement ou à l'aveugle ne peuvent tre écartés."
-        },
-        {
-          "cat": "&Eacute;tat du Nord",
-          "niveau": "faible",
-          "texte": "Des rapports font état d'une mobilisation et d'un mouvement des forces de sécurité dans l'&Eacute;tat du Nord, en particulier à Merowe et dans les zones environnantes, en avril 2023."
-        },
-        {
-          "cat": "Frontière avec la Libye",
-          "niveau": "faible",
-          "texte": "La zone à moins de 50 km de la frontière avec la Libye est utilisée par des groupes armés pour le trafic d'armes, de biens et de personnes. Elle est donc sujette au banditisme."
+          "texte": "Avant le conflit actuel, des manifestations de grande ampleur ont eu lieu pour réclamer la mise en place d'un gouvernement démocratiquement élu. Les forces de l'ordre ont fait usage d'une force excessive et létale pour disperser les foules, faisant de nombreuses victimes. Elles ont arrté plusieurs militants et manifestants. Des cas d'arrestations et de détentions arbitraires continuent d'tre signalés à Khartoum et à travers le pays, indépendamment de la présence de manifestations. Mme les manifestations pacifiques peuvent devenir violentes à tout moment. Elles peuvent également perturber la circulation et les transports publics. &Eacute;vitez les endroits o se tiennent des manifestations et des grands rassemblements"
         },
         {
           "cat": "Postes frontaliers",
           "niveau": "faible",
-          "texte": "Les frontières terrestres avec certains pays environnants sont fermées. Les frontières peuvent fermer sans préavis. Des convois commerciaux terrestres franchissent parfois les frontières avec la Libye, la République centrafricaine et le Tchad, mais ces routes sont dangereuses. En dehors des grandes villes, de nombreuses régions sont minées, y compris des régions frontalières."
+          "texte": "Les frontières terrestres avec certains pays environnants sont fermées. Les frontières peuvent fermer sans préavis. Les régions frontalières sont extrmement dangereuses en raison des activités de groupes armés transfrontaliers, des différends territoriaux, du banditisme, de la contrebande et de la présence de mines terrestres. Ne tentez pas de franchir les frontières terrestres."
         },
         {
           "cat": "Criminalité",
           "niveau": "modere",
-          "texte": "Le taux de criminalité à Khartoum est peu élevé, mais on note une augmentation des délits mineurs, notamment de vols dans les véhicules. Gardez les objets de valeur à l'abri des regards et circulez avec les fentres montées et les portières verrouillées. Le banditisme constitue un problème généralisé dans l'ouest du Soudan, en particulier dans la région du Darfour. Plusieurs incidents ont fait des morts dans la région frontalière avec le Tchad. Pour des raisons de sécurité nationale, les autorités soudanaises peuvent mener des fouilles aléatoires des biens personnels des représentants d'organisations internationales."
+          "texte": "La criminalité a considérablement augmenté à la suite de plusieurs années de conflit armé. Les crimes violents sont plus fréquents dans les régions touchées par les conflits. Toutefois, ils peuvent survenir partout dans le pays. agressions, y compris des agressions sexuelles."
+        },
+        {
+          "cat": "Fouilles aléatoires",
+          "niveau": "faible",
+          "texte": "Les autorités soudanaises peuvent mener des fouilles aléatoires des biens personnels, y compris des employés d'organisations internationales."
         },
         {
           "cat": "Terrorisme",
           "niveau": "eleve",
-          "texte": "Il existe une menace terroriste. Un attentat pourrait se produire à tout moment. les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de transport;"
+          "texte": "Il existe une menace terroriste à travers le pays, y compris à Khartoum et Port-Soudan. Des attentats terroristes pourraient se produire à tout moment. Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les postes de police et les bases militaires;"
         },
         {
           "cat": "Enlèvements",
           "niveau": "eleve",
-          "texte": "Les Occidentaux font face à un risque d'enlèvement, mme à Khartoum. Soyez particulièrement vigilant et modifiez régulièrement vos habitudes de déplacement. Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+          "texte": "Il existe un risque d'enlèvement dans l'ensemble du pays, y compris pour les ressortissants étrangers et les travailleurs humanitaires. Si vous décidez de vous rendre au Soudan malgré cet avertissement : obtenez des conseils professionnels en matière de sécurité; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
         },
         {
-          "cat": "Piraterie",
-          "niveau": "eleve",
-          "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie International Maritime Bureau Piracy Reporting Centre (en anglais seulement)"
-        },
-        {
-          "cat": "Pénurie de carburant",
+          "cat": "Pannes, pénuries et interruptions de services",
           "niveau": "faible",
-          "texte": "Le Soudan fait face à une pénurie de carburant dans plusieurs régions, dont Khartoum. Si vous devez vous déplacer par la route, assurez-vous d'avoir assez de carburant pour tout votre voyage."
+          "texte": "Le Soudan connat de graves pénuries de carburant qui affectent un large éventail de services, y compris, mais sans s'y limiter : les télécommunications, y compris l'accès à Internet. Les pannes d'électricité sont fréquentes dans l'ensemble du pays. Les édifices ne sont pas tous munis de génératrices."
         },
         {
-          "cat": "Sécurité routière",
+          "cat": "Routes",
           "niveau": "faible",
-          "texte": "Les habitudes de conduite imprévisibles des Soudanais, les piétons et la présence d'animaux errants présentent des risques importants. &Agrave; l'extérieur de la capitale, de nombreuses routes sont simplement des pistes de sable. Un véhicule à quatre roues motrices est indispensable pour circuler, sauf sur les routes Khartoum-Kassala-Port-Soudan, Khartoum-Atbara et Khartoum-El Obeid. Seuls les voyageurs d'expérience possédant l'équipement nécessaire devraient s'aventurer dans le désert. L'équipement de base requis comprend :"
+          "texte": "Les déplacements par voie terrestre comportent des risques importants en raison du conflit armé en cours. Des permis sont souvent requis pour voyager d'une ville à l'autre. De nombreux points de contrle, tant officiels qu'illégaux, sont présents dans l'ensemble du pays. Les véhicules sont régulièrement arrtés et fouillés, ce qui donne souvent lieu à des incidents violents. Le passage aux points de contrle peut tre retardé ou refusé. Les normes de conduite et l'entretien des véhicules sont mauvais dans l'ensemble du pays. Les accidents de la route surviennent fréquemment. Les piétons sont souvent impliqués dans les accidents. Vous devriez éviter tout déplacement par voie terrestre au Soudan, mme si vous tes accompagné d'un guide expérimenté. Si vous décidez malgré tout de voyager par voie terrestre, assurez-vous de disposer de l'équipement et des provisions essentiels suivants :"
         },
         {
           "cat": "Transports publics",
+          "niveau": "modere",
+          "texte": "Vous devriez éviter les transports publics en raison des risques liés au conflit armé et de l'imprudence des conducteurs."
+        },
+        {
+          "cat": "Sécurité des femmes",
           "niveau": "faible",
-          "texte": "Les services de transport public sont peu nombreux à l'extérieur des grands centres urbains. La majorité des compagnies d'autocars n'offrent pas de service régulier. Les véhicules sont mal entretenus et les chauffeurs sont imprudents. Les accidents mortels impliquant des autocars sont fréquents. Si vous choisissez de vous déplacer en autocar, n'utilisez que des services de première classe."
+          "texte": "Les femmes voyageant seules peuvent subir du harcèlement ou de la violence verbale. &Eacute;vitez de vous déplacer seule, surtout après la tombée de la nuit ou dans les endroits isolés Habillez-vous conformément aux coutumes locales afin de réduire l'attention non désirée : optez pour des vtements sobres et amples;"
         },
         {
           "cat": "Transport aérien",
@@ -13181,27 +13156,7 @@
         {
           "cat": "Visas",
           "niveau": "faible",
-          "texte": "Visa de touriste : exigé Visa d'affaires : exigé Visa d'étudiant : exigé Visa de transit : exigé Prévoyez au moins 2 mois entre votre demande de visa et la date prévue de votre départ. Les visas ne sont pas délivrés automatiquement aux voyageurs."
-        },
-        {
-          "cat": "Inscription",
-          "niveau": "faible",
-          "texte": "En tant qu'étranger, vous devez vous inscire moins de 3 jours après votre arrivée au Soudan, auprès du Bureau d'enregistrement des étrangers du Ministère de l'intérieur. Si vous arrivez par voie maritime ou terrestre, vous pourrez vous enregistrer à votre point d'entrée. Certains grands htels offrent d'enregistrer leurs invités. Des frais s'appliquent et varient dépendamment de l'endroit o vous vous enregistrez. Il est possible qu'on exige deux photos de format passeport."
-        },
-        {
-          "cat": "Voyages à l'extérieur de Khartoum",
-          "niveau": "faible",
-          "texte": "Vous devez obtenir un permis pour voyager à l'extérieur de Khartoum. Vous pouvez vous procurer votre permis auprès du ministère des Affaires étrangères. Vous devriez entamer les procédures au moins une semaine avant la date du voyage. Il est extrmement difficile d'obtenir un permis pour les destinations dans l'ouest du pays sauf pour les personnes uvrant pour des organisations humanitaires internationales enregistrées et pour des missions diplomatiques. Les autorités soudanaises appliquent rigoureusement les règlements sur les permis et elles conservent souvent les documents. Gardez toujours avec vous au moins 3 copies de votre permis de voyage et de votre passeport, dont la page de visa du Soudan."
-        },
-        {
-          "cat": "Tampon israélien",
-          "niveau": "faible",
-          "texte": "Les autorités locales vous refuseront automatiquement l'entrée au Soudan si votre passeport est tamponné par l'&Eacute;tat d'Isral."
-        },
-        {
-          "cat": "Les enfants en voyage",
-          "niveau": "faible",
-          "texte": "Les coutumes, les lois et les règlements du Soudan sont rigoureusement conformes aux pratiques et croyances de l'islam. Les femmes et leurs enfants pourraient éprouver des difficultés à se déplacer en raison des lois soudanaises. Les autorités pourraient leur interdire de quitter le Soudan si le père n'a pas donné son consentement, mme si les droits de garde ont été accordés à la mère par un tribunal soudanais, ressortissants tunisiens ou autre."
+          "texte": "Visa de touriste : exigé Visa d'affaires : exigé Visa d'étudiant : exigé Visa de transit : exigé Prévoyez au moins 2 mois entre votre demande de visa et la date prévue de votre départ. Les visas ne sont pas accordés automatiquement aux futurs voyageurs. Les autorités soudanaises appliquent strictement les exigences d'entrée. Toute irrégularité liée au visa ou toute violation présumée des règles d'immigration peut entraner d'importantes pénalités financières. Les autorités pourraient retenir votre passeport jusqu'à ce que ces pénalités soient entièrement réglées."
         },
         {
           "cat": "Fièvre jaune",
@@ -13221,7 +13176,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -13246,7 +13201,12 @@
         {
           "cat": "Services et établissements médicaux",
           "niveau": "faible",
-          "texte": "Les soins de santé sont inadéquats au Soudan. En cas de blessure ou de maladie grave, vous devrez probablement faire l'objet d'une évacuation médicale d'urgence. Or, elles peuvent tre difficiles à obtenir et les ambulances aériennes n'arrivent pas rapidement. Il n'existe aucun établissement médical pour traiter les blessures liées à la plongée à Port-Soudan."
+          "texte": "Les soins de santé sont inadéquats au Soudan et se sont détériorés davantage depuis le début du conflit armé. Vous aurez probablement besoin d'une évacuation médicale en cas de maladie ou de blessure grave. Cependant, elle peut tre difficile à obtenir et les ambulances aériennes ne sont généralement pas disponibles à court préavis. Il n'existe aucun établissement médical pour traiter les blessures liées à la plongée."
+        },
+        {
+          "cat": "Médicaments",
+          "niveau": "faible",
+          "texte": "Il y a une pénurie de médicaments au Soudan. Si vous prenez des médicaments sur ordonnance, vous tes responsable de déterminer leur légalité au Soudan. Apportez suffisamment de médicaments sur ordonnance ainsi que de médicaments de base pour votre séjour"
         },
         {
           "cat": "&Agrave; retenir...",
@@ -13255,8 +13215,8 @@
         },
         {
           "cat": "Charia",
-          "niveau": "modere",
-          "texte": "Le Soudan est une société traditionnelle et conservatrice. La loi musulmane de la charia est appliquée dans l'ensemble du pays. Les coutumes, lois et règlements du pays respectent fidèlement les pratiques et les croyances de l'islam. &Eacute;vitez les manifestations d'affection en public, par exemple de vous tenir la main Faites preuve d'une extrme discrétion si vous vous baignez en public"
+          "niveau": "faible",
+          "texte": "Le Soudan est une société traditionnelle et conservatrice. La loi musulmane de la charia est appliquée dans l'ensemble du pays. Les coutumes, lois et règlements du pays respectent fidèlement les pratiques et les croyances de l'islam. &Eacute;vitez les démonstrations d'affection en public, y compris se tenir la main Faites preuve d'une extrme discrétion si vous vous baignez en public"
         },
         {
           "cat": "Ramadan",
@@ -13266,7 +13226,7 @@
         {
           "cat": "Prosélytisme religieux",
           "niveau": "faible",
-          "texte": "Le prosélytisme religieux peut entraner de longues arrestations et mener à l'expulsion."
+          "texte": "Le prosélytisme religieux peut entraner une arrestation, une détention de longue durée et une expulsion."
         },
         {
           "cat": "Drogues",
@@ -13276,12 +13236,17 @@
         {
           "cat": "Pornographie",
           "niveau": "faible",
-          "texte": "Il est interdit d'importer des magazines ou des livres sexuellement explicites."
+          "texte": "La possession de tout matériel pornographique est illégale."
         },
         {
           "cat": "Photographies",
           "niveau": "faible",
           "texte": "Vous devez avoir un permis pour pouvoir prendre des photographies. Or, mme avec un permis, il est strictement interdit de photographier : Les autorités vous souponneront d'espionnage si vous prenez des photos sans permis. Elles pourraient alors vous mettre en détention."
+        },
+        {
+          "cat": "Drones",
+          "niveau": "faible",
+          "texte": "En raison des préoccupations de sécurité liées au conflit armé en cours, l'importation, la possession ou l'utilisation de drones peuvent entraner une arrestation, une détention et la confiscation de l'équipement."
         },
         {
           "cat": "Double citoyenneté",
@@ -13291,37 +13256,32 @@
         {
           "cat": "Enlèvement international d'enfants",
           "niveau": "eleve",
-          "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci ont été déplacés ou retenus dans certains pays en violation d'un droit de garde. Elle ne s'applique pas entre le Canada et le Soudan du Sud. Si votre enfant a été déplacé ou est retenu illicitement au Soudan du Sud par un parent ravisseur : consultez un avocat en Tunisie et au Soudan du Sud afin d'envisager toutes les options juridiques possibles pour le retour de votre enfant; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
-        },
-        {
-          "cat": "Personnes mineures",
-          "niveau": "faible",
-          "texte": "Les enfants soudanais, gés de 18 ans ou moins, doivent obtenir la permission de leur père ou de leur tuteur pour quitter le pays."
-        },
-        {
-          "cat": "Enlèvement international d'enfants",
-          "niveau": "eleve",
           "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci ont été déplacés ou retenus dans certains pays en violation d'un droit de garde. Elle ne s'applique pas entre le Canada et le Soudan. Si votre enfant a été déplacé ou est retenu illicitement au Soudan par un parent ravisseur : consultez un avocat en Tunisie et le Soudan afin d'envisager toutes les options juridiques possibles pour le retour de votre enfant; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
         },
         {
           "cat": "Conduite automobile",
           "niveau": "faible",
-          "texte": "Vous devriez vous munir d'un permis de conduire international."
+          "texte": "Pour conduire au Soudan, vous devez avoir un permis de conduire international ainsi que votre permis de conduire ressortissants tunisiens valide."
         },
         {
           "cat": "Argent",
           "niveau": "faible",
-          "texte": "La devise du Soudan est la livre soudanaise (SDG). Elle n'est pas convertible en dehors du pays et il est interdit de l'exporter. Il est difficile de transférer des dollars américains ou ressortissants tunisiens au Soudan à cause des sanctions internationales qui y sont imposées. De plus, les dollars américains imprimés avant 2006 ne sont généralement pas acceptés. Les cartes de débit et de crédit étrangères ne sont pas acceptées. On trouve des guichets automatiques mais il faut posséder un compte local pour pouvoir les utiliser."
+          "texte": "La devise du Soudan est la livre soudanaise (SDG), mais le dollar américain est largement accepté. La livre soudanaise n'est pas convertible en dehors du pays et son exportation est interdite. Il est difficile de transférer des dollars américains ou ressortissants tunisiens au Soudan à cause des sanctions internationales qui y sont imposées. Les cartes de débit et de crédit étrangères ne sont pas acceptées. Il y a des guichets automatiques bancaires, mais ils ne fonctionnent qu'avec les comptes locaux."
+        },
+        {
+          "cat": "Changements climatiques",
+          "niveau": "faible",
+          "texte": "Les changements climatiques affectent le Soudan. Les phénomènes météorologiques extrmes et inhabituels sont de plus en plus fréquents et peuvent affecter vos plans de voyage. Surveillez les médias locaux pour obtenir les dernières informations."
         },
         {
           "cat": "Temptes de sable",
           "niveau": "faible",
-          "texte": "Des temptes de sable se produisent parfois, en particulier de juillet à octobre. Les services locaux, la disponibilité de l'eau et des denrées essentielles pourraient tre perturbés. Prévoyez des mesures préventives et soyez extrmement prudent. Attendez-vous également à éprouver des difficultés dans vos déplacements."
+          "texte": "Des temptes de sable se produisent, particulièrement de juillet à octobre. Attendez-vous à rencontrer des difficultés lors de vos déplacements. Les services locaux et la disponibilité de l'eau et des denrées alimentaires de base pourraient tre affectés. Prenez des mesures préventives et soyez extrmement prudent."
         },
         {
           "cat": "Saison des pluies",
           "niveau": "faible",
-          "texte": "La saison des pluies au Soudan dure 3 mois, de juillet à septembre. Les inondations saisonnières peuvent nuire aux déplacements par voie terrestre et à la prestation des services essentiels. Les routes peuvent devenir impraticables et les ponts, subir des dommages. Surveillez les bulletins météorologiques locaux et planifiez vos déplacements en conséquence."
+          "texte": "La saison des pluies s'étend de juillet à septembre. Les inondations saisonnières entravent régulièrement les déplacements terrestres et réduisent la prestation des services essentiels. Les routes deviennent souvent impraticables et les infrastructures peuvent tre endommagées. Surveillez les bulletins météorologiques et planifiez vos déplacements en conséquence."
         },
         {
           "cat": "Aide consulaire",
@@ -13419,7 +13379,7 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-09-21T06:01:55.760012"
+      "scrapedAt": "2026-09-22T05:57:43.675956"
     },
     "SS": {
       "iso": "SS",
@@ -13438,7 +13398,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13491,7 +13451,7 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-09-21T06:01:58.613101"
+      "scrapedAt": "2026-09-22T05:57:46.125411"
     },
     "TZ": {
       "iso": "TZ",
@@ -13510,7 +13470,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13894,7 +13854,7 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-09-21T06:02:01.890795"
+      "scrapedAt": "2026-09-22T05:57:48.685567"
     },
     "TD": {
       "iso": "TD",
@@ -13913,7 +13873,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14217,7 +14177,7 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-09-21T06:02:04.750824"
+      "scrapedAt": "2026-09-22T05:57:51.024416"
     },
     "TG": {
       "iso": "TG",
@@ -14236,7 +14196,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - &Eacute;vitez tout voyage",
         "texte": "&Eacute;vitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d'enlèvement. Cet avertissement inclus la ville ainsi q",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14546,7 +14506,7 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-09-21T06:02:07.635555"
+      "scrapedAt": "2026-09-22T05:57:53.212579"
     },
     "TN": {
       "iso": "TN",
@@ -14565,7 +14525,7 @@
         "niveau": "eleve",
         "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14887,7 +14847,7 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-09-21T06:02:10.577995"
+      "scrapedAt": "2026-09-22T05:57:55.461007"
     },
     "ZA": {
       "iso": "ZA",
@@ -14906,7 +14866,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour ranons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres en",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15229,7 +15189,7 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-09-21T06:02:13.544438"
+      "scrapedAt": "2026-09-22T05:57:57.869715"
     },
     "ZM": {
       "iso": "ZM",
@@ -15248,7 +15208,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15563,7 +15523,7 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-09-21T06:02:16.571571"
+      "scrapedAt": "2026-09-22T05:58:00.244286"
     },
     "ZW": {
       "iso": "ZW",
@@ -15582,7 +15542,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15876,7 +15836,7 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-09-21T06:02:19.473067"
+      "scrapedAt": "2026-09-22T05:58:02.527033"
     },
     "SC": {
       "iso": "SC",
@@ -15895,7 +15855,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ait",
-        "date": "21 Sep 2026"
+        "date": "22 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -16139,7 +16099,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-09-21T06:02:22.299533"
+      "scrapedAt": "2026-09-22T05:58:04.653646"
     }
   }
 }
