@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-24T05:59:38.498445",
-  "totalChanged": 0,
+  "generatedAt": "2026-09-25T06:01:03.029784",
+  "totalChanged": 49,
   "countries": {
     "DZ": {
       "iso": "DZ",
       "name": "Algérie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-001-DZ-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-001-DZ-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -145,7 +145,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -370,17 +370,17 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-09-24T05:56:07.176945"
+      "scrapedAt": "2026-09-25T05:57:30.414866"
     },
     "AO": {
       "iso": "AO",
       "name": "Angola",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-002-AO-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-002-AO-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -389,7 +389,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l'indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -520,7 +520,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La COVID-19 est une maladie infectieuse virale. La plupart du temps, elle se propage lorsque des gens sont en contact étroit avec des personnes infectées par le virus. Elle se propage par les particules respiratoires ou par une surface ou un objet infecté."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -668,17 +668,17 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-09-24T05:56:11.812368"
+      "scrapedAt": "2026-09-25T05:57:35.028156"
     },
     "BJ": {
       "iso": "BJ",
       "name": "Bénin",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-003-BJ-V11",
-      "sourceDateStr": "11 Sep 2026",
-      "dateMAJInterne": "12 Sep 2026",
+      "version": 12,
+      "ref": "FRP-003-BJ-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -687,7 +687,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -818,7 +818,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -996,17 +996,17 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-09-24T05:56:15.898801"
+      "scrapedAt": "2026-09-25T05:57:39.178144"
     },
     "BW": {
       "iso": "BW",
       "name": "Botswana",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-004-BW-V6",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 7,
+      "ref": "FRP-004-BW-V7",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1015,7 +1015,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1096,7 +1096,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La COVID-19 est une maladie infectieuse virale. La plupart du temps, elle se propage lorsque des gens sont en contact étroit avec des personnes infectées par le virus. Elle se propage par les particules respiratoires ou par une surface ou un objet infecté."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -1253,17 +1253,17 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-09-24T05:56:20.216054"
+      "scrapedAt": "2026-09-25T05:57:43.121533"
     },
     "BF": {
       "iso": "BF",
       "name": "Burkina Faso",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-005-BF-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-005-BF-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1272,7 +1272,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1368,7 +1368,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -1537,17 +1537,17 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-09-24T05:56:24.291051"
+      "scrapedAt": "2026-09-25T05:57:47.277066"
     },
     "BI": {
       "iso": "BI",
       "name": "Burundi",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-006-BI-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-006-BI-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1556,7 +1556,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent tre affectées par des débordements de conflits en cours en République démocrati",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1712,7 +1712,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -1880,17 +1880,17 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-09-24T05:56:28.348795"
+      "scrapedAt": "2026-09-25T05:57:51.571047"
     },
     "CM": {
       "iso": "CM",
       "name": "Cameroun",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-007-CM-V14",
-      "sourceDateStr": "15 Sep 2026",
-      "dateMAJInterne": "16 Sep 2026",
+      "version": 15,
+      "ref": "FRP-007-CM-V15",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -1899,7 +1899,7 @@
         "niveau": "eleve",
         "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2249,7 +2249,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-09-24T05:56:32.535016"
+      "scrapedAt": "2026-09-25T05:57:55.986253"
     },
     "CV": {
       "iso": "CV",
@@ -2268,7 +2268,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2313,17 +2313,17 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-09-24T05:56:36.183205"
+      "scrapedAt": "2026-09-25T05:57:59.710632"
     },
     "CF": {
       "iso": "CF",
       "name": "Centrafrique",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-009-CF-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-009-CF-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -2332,7 +2332,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d'organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2611,17 +2611,17 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-09-24T05:56:40.542107"
+      "scrapedAt": "2026-09-25T05:58:03.851523"
     },
     "KM": {
       "iso": "KM",
       "name": "Comores",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-010-KM-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-010-KM-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -2630,7 +2630,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s'imposent. Carte en direct sur la p",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2893,7 +2893,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-09-24T05:56:44.323227"
+      "scrapedAt": "2026-09-25T05:58:07.657179"
     },
     "CG": {
       "iso": "CG",
@@ -2912,7 +2912,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2965,7 +2965,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-09-24T05:56:48.586029"
+      "scrapedAt": "2026-09-25T05:58:12.000003"
     },
     "CD": {
       "iso": "CD",
@@ -2984,7 +2984,7 @@
         "niveau": "eleve",
         "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3057,7 +3057,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-09-24T05:56:53.126723"
+      "scrapedAt": "2026-09-25T05:58:16.656728"
     },
     "CI": {
       "iso": "CI",
@@ -3076,7 +3076,7 @@
         "niveau": "eleve",
         "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3139,17 +3139,17 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-09-24T05:56:57.328750"
+      "scrapedAt": "2026-09-25T05:58:20.767052"
     },
     "DJ": {
       "iso": "DJ",
       "name": "Djibouti",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-014-DJ-V7",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 8,
+      "ref": "FRP-014-DJ-V8",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3158,7 +3158,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3274,7 +3274,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -3432,17 +3432,17 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-09-24T05:57:01.090236"
+      "scrapedAt": "2026-09-25T05:58:24.759796"
     },
     "EG": {
       "iso": "EG",
       "name": "Égypte",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-015-EG-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-015-EG-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3451,7 +3451,7 @@
         "niveau": "eleve",
         "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3602,7 +3602,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -3815,17 +3815,17 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-09-24T05:57:05.232255"
+      "scrapedAt": "2026-09-25T05:58:28.930718"
     },
     "ER": {
       "iso": "ER",
       "name": "Érythrée",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-016-ER-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-016-ER-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -3834,7 +3834,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3975,7 +3975,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -4163,17 +4163,17 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-09-24T05:57:09.145193"
+      "scrapedAt": "2026-09-25T05:58:32.877345"
     },
     "SZ": {
       "iso": "SZ",
       "name": "Eswatini",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-017-SZ-V6",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 7,
+      "ref": "FRP-017-SZ-V7",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -4182,7 +4182,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu'aucun attentat n'ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4278,7 +4278,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -4435,17 +4435,17 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-09-24T05:57:12.598776"
+      "scrapedAt": "2026-09-25T05:58:36.412897"
     },
     "ET": {
       "iso": "ET",
       "name": "Éthiopie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-018-ET-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-018-ET-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -4454,7 +4454,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4470,7 +4470,7 @@
         {
           "cat": "&Eacute;THIOPIE - &Eacute;VITEZ TOUT VOYAGE NON ESSENTIEL",
           "niveau": "modere",
-          "texte": "&Eacute;vitez tout voyage non essentiel en &Eacute;thiopie en raison des troubles civils, de la violence, des pénuries de carburant, du conflit armé et de la criminalité. La situation en matière de sécurité peut se détériorer sans préavis. Cet avertissement exclut Addis-Abeba o vous devriez faire preuve d'une grande prudence. Des conseils et des avertissements régionaux additionnels sont en vigueur. Notre capacité à fournir une assistance consulaire est limitée dans certaines régions."
+          "texte": "&Eacute;vitez tout voyage non essentiel en &Eacute;thiopie en raison des troubles civils, de la violence, des pénuries de carburant, du conflit armé et de la criminalité. La situation en matière de sécurité peut se détériorer davantage et sans préavis. Cet avertissement exclut Addis-Abeba o vous devriez faire preuve d'une grande prudence. Notre capacité à fournir une assistance consulaire est limitée dans certaines régions."
         },
         {
           "cat": "Addis-Abeba - Faites preuve d'une grande prudence",
@@ -4480,7 +4480,7 @@
         {
           "cat": "Régions du nord - &Eacute;vitez tout voyage",
           "niveau": "faible",
-          "texte": "&Eacute;vitez tout voyage dans les régions suivantes, situées dans le nord du pays, en raison du conflit armé, des troubles civils et de la situation imprévisible en matière de sécurité : Amhara;"
+          "texte": "&Eacute;vitez tout voyage dans les régions suivantes, situées dans le nord du pays, en raison du conflit armé, des troubles civils et de la situation imprévisible en matière de sécurité : Afar;"
         },
         {
           "cat": "Régions centrales - &Eacute;vitez tout voyage",
@@ -4490,7 +4490,12 @@
         {
           "cat": "Régions frontalières - &Eacute;vitez tout voyage",
           "niveau": "eleve",
-          "texte": "&Eacute;vitez tout voyage dans les zones frontalières suivantes, en raison de l'instabilité chronique, de l'activité militaire, du banditisme, du risque élevé d'attaques terroristes et d'enlèvements, de la violence et de la présence de mines terrestres : 10 km de la frontière avec l'&Eacute;rythrée; 100 km de la frontière de la région Somali avec la Somalie et le Kenya; 30 km de la frontière avec la Somalie dans la zone de Fafan, excepté pour la route C104, la ville de Wajale et son poste frontalier o vous devriez éviter tout voyage non essentiel; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+          "texte": "&Eacute;vitez tout voyage dans les zones frontalières suivantes, en raison de l'instabilité chronique, de l'activité militaire, du banditisme, du risque élevé d'attaques terroristes et d'enlèvements, de la violence et de la présence de mines terrestres : 100 km de la frontière de la région Somali avec la Somalie et le Kenya; 30 km de la frontière avec la Somalie dans la zone de Fafan, excepté pour la route C104, la ville de Wajale et son poste frontalier o vous devriez éviter tout voyage non essentiel; 10 km de la frontière avec la Somalie dans la zone de Sitti; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+        },
+        {
+          "cat": "Situation en matière de sécurité dans le nord de l'&Eacute;thiopie",
+          "niveau": "modere",
+          "texte": "Des affrontements opposent actuellement des groupes armés et l'armée éthiopienne dans les régions du Tigré, de l'Afar et de l'Amhara. Les vols à destination et en provenance du Tigré sont suspendus jusqu'à nouvel ordre. La situation en matière de sécurité est imprévisible et pourrait se détériorer davantage."
         },
         {
           "cat": "Pénuries de carburant",
@@ -4535,7 +4540,7 @@
         {
           "cat": "Régions frontalières",
           "niveau": "modere",
-          "texte": "La plupart des régions frontalières, y compris les frontières régionales, sont affectées par des activités criminelles et des violences plus importantes, y compris dans les zones rurales. Les tensions régionales et les affrontements entre les groupes du crime organisé, les groupes ethniques et les autorités éthiopiennes constituent un risque. Conseils si vous tes dans une zone frontalière ou touché par un conflit armé Tous les postes frontaliers terrestres entre l'&Eacute;thiopie et l'&Eacute;rythrée sont fermés."
+          "texte": "La plupart des régions frontalières, y compris les frontières régionales, sont affectées par des activités criminelles et des violences plus importantes, y compris dans les zones rurales. Les tensions régionales et les affrontements entre les groupes du crime organisé, les groupes ethniques et les autorités éthiopiennes constituent un risque. Tous les postes frontaliers terrestres entre l'&Eacute;thiopie et l'&Eacute;rythrée sont fermés. Malgré l'accord de paix signé en 2018, la frontière avec l'&Eacute;rythrée est fortement militarisée. La situation à proximité de la frontière reste instable et les tensions politiques pourraient rapidement dégénérer en conflit armé. La présence de mines terrestres constitue également une menace pour votre sécurité."
         },
         {
           "cat": "Enlèvements",
@@ -4650,7 +4655,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -4878,17 +4883,17 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-09-24T05:57:16.730776"
+      "scrapedAt": "2026-09-25T05:58:40.609443"
     },
     "GA": {
       "iso": "GA",
       "name": "Gabon",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-019-GA-V8",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 9,
+      "ref": "FRP-019-GA-V9",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -4897,7 +4902,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux ctières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie Intern",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5125,17 +5130,17 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-09-24T05:57:20.463781"
+      "scrapedAt": "2026-09-25T05:58:44.495976"
     },
     "GM": {
       "iso": "GM",
       "name": "Gambie",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-020-GM-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-020-GM-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5144,7 +5149,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5225,7 +5230,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -5377,17 +5382,17 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-09-24T05:57:24.031099"
+      "scrapedAt": "2026-09-25T05:58:48.079005"
     },
     "GH": {
       "iso": "GH",
       "name": "Ghana",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-021-GH-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-021-GH-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5396,7 +5401,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - &Eacute;vitez tout voyage non essentiel",
         "texte": "&Eacute;vitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l'activité terroriste.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5527,7 +5532,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -5725,17 +5730,17 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-09-24T05:57:27.965385"
+      "scrapedAt": "2026-09-25T05:58:52.237437"
     },
     "GN": {
       "iso": "GN",
       "name": "Guinée",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-022-GN-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-022-GN-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -5744,7 +5749,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de tr",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5880,7 +5885,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6044,17 +6049,17 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-09-24T05:57:31.797745"
+      "scrapedAt": "2026-09-25T05:58:56.304978"
     },
     "GQ": {
       "iso": "GQ",
       "name": "Guinée Éq.",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-023-GQ-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-023-GQ-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6063,7 +6068,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui ",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6169,7 +6174,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6322,17 +6327,17 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-09-24T05:57:35.756848"
+      "scrapedAt": "2026-09-25T05:59:00.273720"
     },
     "GW": {
       "iso": "GW",
       "name": "Guinée-Bissau",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-024-GW-V7",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 8,
+      "ref": "FRP-024-GW-V8",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6341,7 +6346,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6437,7 +6442,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -6558,17 +6563,17 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-09-24T05:57:39.021973"
+      "scrapedAt": "2026-09-25T05:59:03.548613"
     },
     "KE": {
       "iso": "KE",
       "name": "Kenya",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-025-KE-V14",
-      "sourceDateStr": "21 Sep 2026",
-      "dateMAJInterne": "22 Sep 2026",
+      "version": 15,
+      "ref": "FRP-025-KE-V15",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -6577,7 +6582,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6981,17 +6986,17 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-09-24T05:57:43.351903"
+      "scrapedAt": "2026-09-25T05:59:07.833488"
     },
     "LS": {
       "iso": "LS",
       "name": "Lesotho",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 6,
-      "ref": "FRP-026-LS-V6",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 7,
+      "ref": "FRP-026-LS-V7",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7000,7 +7005,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7096,7 +7101,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -7209,17 +7214,17 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-09-24T05:57:47.463301"
+      "scrapedAt": "2026-09-25T05:59:11.450364"
     },
     "LR": {
       "iso": "LR",
       "name": "Libéria",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-027-LR-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-027-LR-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7228,7 +7233,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient tre ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d'autres plaques tournantes et réseaux de transport;",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7339,7 +7344,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -7513,17 +7518,17 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-09-24T05:57:51.886739"
+      "scrapedAt": "2026-09-25T05:59:15.420939"
     },
     "LY": {
       "iso": "LY",
       "name": "Libye",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-028-LY-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-028-LY-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7532,7 +7537,7 @@
         "niveau": "modere",
         "titre": "LIBYE - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage en Libye en raison de la situation sécuritaire volatile dans l'ensemble du pays, d'affrontements sans préavis entre groupes armés rivaux, de l'instabilité politique, du risqu",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7638,7 +7643,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -7863,17 +7868,17 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-09-24T05:57:56.039007"
+      "scrapedAt": "2026-09-25T05:59:19.318979"
     },
     "MG": {
       "iso": "MG",
       "name": "Madagascar",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-029-MG-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-029-MG-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -7882,7 +7887,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie ",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7978,7 +7983,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -8155,17 +8160,17 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-09-24T05:58:00.630888"
+      "scrapedAt": "2026-09-25T05:59:23.439842"
     },
     "MW": {
       "iso": "MW",
       "name": "Malawi",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-030-MW-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-030-MW-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8174,7 +8179,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8285,7 +8290,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -8447,17 +8452,17 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-09-24T05:58:04.490547"
+      "scrapedAt": "2026-09-25T05:59:27.078644"
     },
     "ML": {
       "iso": "ML",
       "name": "Mali",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-031-ML-V14",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 15,
+      "ref": "FRP-031-ML-V15",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8466,7 +8471,7 @@
         "niveau": "modere",
         "titre": "MALI - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité ",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8592,7 +8597,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Le paludisme est une maladie grave et parfois mortelle causée par des parasites transmis par les piqres de moustiques."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -8740,17 +8745,17 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-09-24T05:58:08.692956"
+      "scrapedAt": "2026-09-25T05:59:31.072935"
     },
     "MA": {
       "iso": "MA",
       "name": "Maroc",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-032-MA-V8",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 9,
+      "ref": "FRP-032-MA-V9",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -8759,7 +8764,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8885,7 +8890,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -9072,17 +9077,17 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-09-24T05:58:12.589515"
+      "scrapedAt": "2026-09-25T05:59:35.057867"
     },
     "MR": {
       "iso": "MR",
       "name": "Mauritanie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-033-MR-V14",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 15,
+      "ref": "FRP-033-MR-V15",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9091,7 +9096,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9202,7 +9207,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus qui se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -9385,17 +9390,17 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-09-24T05:58:16.372234"
+      "scrapedAt": "2026-09-25T05:59:38.873359"
     },
     "MU": {
       "iso": "MU",
       "name": "Maurice",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-034-MU-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-034-MU-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9404,7 +9409,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie In",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9505,7 +9510,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -9664,17 +9669,17 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-09-24T05:58:20.229148"
+      "scrapedAt": "2026-09-25T05:59:42.552034"
     },
     "MZ": {
       "iso": "MZ",
       "name": "Mozambique",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-035-MZ-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-035-MZ-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -9683,7 +9688,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9829,7 +9834,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -10036,17 +10041,17 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-09-24T05:58:24.500358"
+      "scrapedAt": "2026-09-25T05:59:46.866461"
     },
     "NA": {
       "iso": "NA",
       "name": "Namibie",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-036-NA-V7",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 8,
+      "ref": "FRP-036-NA-V8",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10055,7 +10060,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10186,7 +10191,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -10363,17 +10368,17 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-09-24T05:58:28.200726"
+      "scrapedAt": "2026-09-25T05:59:50.946030"
     },
     "NE": {
       "iso": "NE",
       "name": "Niger",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-037-NE-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-037-NE-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10382,7 +10387,7 @@
         "niveau": "modere",
         "titre": "NIGER - &Eacute;VITEZ TOUT VOYAGE",
         "texte": "&Eacute;vitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d'enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez ",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10498,7 +10503,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -10680,17 +10685,17 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-09-24T05:58:31.734387"
+      "scrapedAt": "2026-09-25T05:59:54.596085"
     },
     "NG": {
       "iso": "NG",
       "name": "Nigéria",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 15,
-      "ref": "FRP-038-NG-V15",
-      "sourceDateStr": "21 Sep 2026",
-      "dateMAJInterne": "22 Sep 2026",
+      "version": 16,
+      "ref": "FRP-038-NG-V16",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -10699,7 +10704,7 @@
         "niveau": "eleve",
         "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11108,17 +11113,17 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-09-24T05:58:36.010116"
+      "scrapedAt": "2026-09-25T05:59:58.741420"
     },
     "UG": {
       "iso": "UG",
       "name": "Ouganda",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 15,
-      "ref": "FRP-039-UG-V15",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 16,
+      "ref": "FRP-039-UG-V16",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11127,7 +11132,7 @@
         "niveau": "modere",
         "titre": "Ouganda - &Eacute;VITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "&Eacute;vitez tout voyage non essentiel en Ouganda en raison de l'impact régional de l'éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11273,7 +11278,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rougeole est une infection virale grave qui se propage facilement. Elle se propage dans l'air et peut y rester jusqu'à deux heures. On peut également contracter la rougeole par contact direct avec une personne infectée ou en touchant une surface infectée sur laquelle se trouve le virus, puis en se touchant les yeux, le nez ou la bouche avant de se laver les mains."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -11466,17 +11471,17 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-09-24T05:58:40.094340"
+      "scrapedAt": "2026-09-25T06:00:02.784095"
     },
     "RW": {
       "iso": "RW",
       "name": "Rwanda",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-040-RW-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-040-RW-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11485,7 +11490,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11606,7 +11611,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -11783,17 +11788,17 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-09-24T05:58:43.851316"
+      "scrapedAt": "2026-09-25T06:00:06.615841"
     },
     "ST": {
       "iso": "ST",
       "name": "São Tomé",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 7,
-      "ref": "FRP-041-ST-V7",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 8,
+      "ref": "FRP-041-ST-V8",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -11802,7 +11807,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux ctières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessair",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11913,7 +11918,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -12069,17 +12074,17 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-09-24T05:58:47.464560"
+      "scrapedAt": "2026-09-25T06:00:10.287317"
     },
     "SN": {
       "iso": "SN",
       "name": "Sénégal",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-042-SN-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-042-SN-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12088,7 +12093,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d'attaque terroriste ne peut tre exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pour",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12209,7 +12214,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -12410,17 +12415,17 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-09-24T05:58:51.177507"
+      "scrapedAt": "2026-09-25T06:00:14.147690"
     },
     "SL": {
       "iso": "SL",
       "name": "Sierra Leone",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-043-SL-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-043-SL-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12429,7 +12434,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12555,7 +12560,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -12728,17 +12733,17 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-09-24T05:58:54.779948"
+      "scrapedAt": "2026-09-25T06:00:17.791670"
     },
     "SO": {
       "iso": "SO",
       "name": "Somalie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-044-SO-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-044-SO-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -12747,7 +12752,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12868,7 +12873,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -13051,17 +13056,17 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-09-24T05:58:58.578455"
+      "scrapedAt": "2026-09-25T06:00:21.475135"
     },
     "SD": {
       "iso": "SD",
       "name": "Soudan",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-045-SD-V11",
-      "sourceDateStr": "21 Sep 2026",
-      "dateMAJInterne": "22 Sep 2026",
+      "version": 12,
+      "ref": "FRP-045-SD-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13070,7 +13075,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13379,7 +13384,7 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-09-24T05:59:02.466347"
+      "scrapedAt": "2026-09-25T06:00:25.434165"
     },
     "SS": {
       "iso": "SS",
@@ -13398,7 +13403,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13451,17 +13456,17 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-09-24T05:59:06.501927"
+      "scrapedAt": "2026-09-25T06:00:29.585839"
     },
     "TZ": {
       "iso": "TZ",
       "name": "Tanzanie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 15,
-      "ref": "FRP-047-TZ-V15",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 16,
+      "ref": "FRP-047-TZ-V16",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13470,7 +13475,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d'une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13646,7 +13651,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Cette destination se trouve dans la ceinture africaine de la méningite , une région qui présente les taux de méningococcie les plus élevés au monde. La méningococcie est une infection grave et parfois mortelle."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -13854,17 +13859,17 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-09-24T05:59:11.064996"
+      "scrapedAt": "2026-09-25T06:00:34.167601"
     },
     "TD": {
       "iso": "TD",
       "name": "Tchad",
       "region": "Afrique Centrale",
       "risk": "eleve",
-      "version": 11,
-      "ref": "FRP-048-TD-V11",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 12,
+      "ref": "FRP-048-TD-V12",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13873,7 +13878,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14177,17 +14182,17 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-09-24T05:59:14.883876"
+      "scrapedAt": "2026-09-25T06:00:38.066756"
     },
     "TG": {
       "iso": "TG",
       "name": "Togo",
       "region": "Afrique de l'Ouest",
       "risk": "eleve",
-      "version": 9,
-      "ref": "FRP-049-TG-V9",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 10,
+      "ref": "FRP-049-TG-V10",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -14196,7 +14201,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - &Eacute;vitez tout voyage",
         "texte": "&Eacute;vitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d'enlèvement. Cet avertissement inclus la ville ainsi q",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14327,7 +14332,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rage est présente dans cette destination et est transmise par les chiens et certains animaux sauvages, notamment les chauves-souris. La rage est une maladie grave qui est presque toujours mortelle une fois que les symptmes apparaissent. Elle se transmet aux humains par la salive d'animaux infectés, principalement par morsure, mais peut également se transmettre par des griffures."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -14506,17 +14511,17 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-09-24T05:59:18.767272"
+      "scrapedAt": "2026-09-25T06:00:42.086605"
     },
     "TN": {
       "iso": "TN",
       "name": "Tunisie",
       "region": "Afrique du Nord",
       "risk": "eleve",
-      "version": 8,
-      "ref": "FRP-050-TN-V8",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 9,
+      "ref": "FRP-050-TN-V9",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -14525,7 +14530,7 @@
         "niveau": "eleve",
         "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14656,7 +14661,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -14847,17 +14852,17 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-09-24T05:59:22.643822"
+      "scrapedAt": "2026-09-25T06:00:45.959009"
     },
     "ZA": {
       "iso": "ZA",
       "name": "Afrique du Sud",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 12,
-      "ref": "FRP-051-ZA-V12",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 13,
+      "ref": "FRP-051-ZA-V13",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -14866,7 +14871,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour ranons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres en",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15027,7 +15032,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -15189,17 +15194,17 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-09-24T05:59:26.926193"
+      "scrapedAt": "2026-09-25T06:00:50.330535"
     },
     "ZM": {
       "iso": "ZM",
       "name": "Zambie",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 14,
-      "ref": "FRP-052-ZM-V14",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 15,
+      "ref": "FRP-052-ZM-V15",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -15208,7 +15213,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15339,7 +15344,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La polio (poliomyélite) est une maladie infectieuse qui peut tre prévenue par la vaccination. Elle est causée par le poliovirus de type 1, 2 ou 3. Le poliovirus circulant dérivé d'une souche vaccinale 2 (cVDPV2) est présent dans ce pays. La polio se transmet d'une personne à l'autre et par l'intermédiaire d'aliments et d'eau contaminés. L'infection par le poliovirus peut provoquer la paralysie et la mort chez les personnes de tout ge qui ne sont pas immunisées. Recommandations :"
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -15523,17 +15528,17 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-09-24T05:59:30.944271"
+      "scrapedAt": "2026-09-25T06:00:54.785554"
     },
     "ZW": {
       "iso": "ZW",
       "name": "Zimbabwe",
       "region": "Afrique Australe",
       "risk": "eleve",
-      "version": 10,
-      "ref": "FRP-053-ZW-V10",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 11,
+      "ref": "FRP-053-ZW-V11",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -15542,7 +15547,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15638,7 +15643,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La rougeole est une infection virale grave qui se propage facilement. Elle se propage dans l'air et peut y rester jusqu'à deux heures. On peut également contracter la rougeole par contact direct avec une personne infectée ou en touchant une surface infectée sur laquelle se trouve le virus, puis en se touchant les yeux, le nez ou la bouche avant de se laver les mains."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -15836,17 +15841,17 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-09-24T05:59:34.815943"
+      "scrapedAt": "2026-09-25T06:00:59.018339"
     },
     "SC": {
       "iso": "SC",
       "name": "Seychelles",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 5,
-      "ref": "FRP-054-SC-V5",
-      "sourceDateStr": "09 Sep 2026",
-      "dateMAJInterne": "10 Sep 2026",
+      "version": 6,
+      "ref": "FRP-054-SC-V6",
+      "sourceDateStr": "24 Sep 2026",
+      "dateMAJInterne": "25 Sep 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -15855,7 +15860,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux ctières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ait",
-        "date": "24 Sep 2026"
+        "date": "25 Sep 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15951,7 +15956,7 @@
         {
           "cat": "Vaccins et médicaments pré-voyage",
           "niveau": "faible",
-          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La vaccination contre l'hépatite B est recommandée à tous les voyageurs. Prévenez l'infection par l'hépatite B en pratiquant des relations sexuelles protégées, en utilisant uniquement du matériel médical neuf et stérile et en vous faisant tatouer et percer uniquement dans des environnements qui respectent les réglementations et normes de santé publique."
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent tre évitées grce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. La fièvre jaune est une maladie causée par un flavivirus que se transmet par la piqre d'un moustique infecté."
         },
         {
           "cat": "Précautions pour la nourriture et l'eau",
@@ -16099,7 +16104,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-09-24T05:59:38.498405"
+      "scrapedAt": "2026-09-25T06:01:03.029745"
     }
   }
 }
