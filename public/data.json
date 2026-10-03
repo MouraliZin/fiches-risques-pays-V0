@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T06:53:23.934618",
-  "totalChanged": 45,
+  "generatedAt": "2026-10-03T06:14:21.741896",
+  "totalChanged": 1,
   "countries": {
     "DZ": {
       "iso": "DZ",
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -360,7 +360,7 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-10-02T06:48:36.389258"
+      "scrapedAt": "2026-10-03T06:11:03.865263"
     },
     "AO": {
       "iso": "AO",
@@ -379,7 +379,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l’indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -648,7 +648,7 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-10-02T06:48:41.385503"
+      "scrapedAt": "2026-10-03T06:11:07.084404"
     },
     "BJ": {
       "iso": "BJ",
@@ -667,7 +667,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -966,7 +966,7 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-10-02T06:48:47.753746"
+      "scrapedAt": "2026-10-03T06:11:12.999759"
     },
     "BW": {
       "iso": "BW",
@@ -985,7 +985,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1213,7 +1213,7 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-10-02T06:48:54.062022"
+      "scrapedAt": "2026-10-03T06:11:16.879815"
     },
     "BF": {
       "iso": "BF",
@@ -1232,7 +1232,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1487,7 +1487,7 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-10-02T06:49:00.338551"
+      "scrapedAt": "2026-10-03T06:11:19.865411"
     },
     "BI": {
       "iso": "BI",
@@ -1506,7 +1506,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent être affectées par des débordements de conflits en cours en République démocrat",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1820,7 +1820,7 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-10-02T06:49:06.488022"
+      "scrapedAt": "2026-10-03T06:11:22.880321"
     },
     "CM": {
       "iso": "CM",
@@ -1839,7 +1839,7 @@
         "niveau": "eleve",
         "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2179,7 +2179,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-10-02T06:49:11.724549"
+      "scrapedAt": "2026-10-03T06:11:26.098138"
     },
     "CV": {
       "iso": "CV",
@@ -2198,7 +2198,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2264,7 +2264,7 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-10-02T06:49:16.558374"
+      "scrapedAt": "2026-10-03T06:11:29.285355"
     },
     "CF": {
       "iso": "CF",
@@ -2283,7 +2283,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d’organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2547,7 +2547,7 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-10-02T06:49:21.408404"
+      "scrapedAt": "2026-10-03T06:11:33.812288"
     },
     "KM": {
       "iso": "KM",
@@ -2566,7 +2566,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s’imposent. Carte en direct sur la ",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2819,7 +2819,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-10-02T06:49:25.493269"
+      "scrapedAt": "2026-10-03T06:11:36.787999"
     },
     "CG": {
       "iso": "CG",
@@ -2838,7 +2838,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2912,7 +2912,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-10-02T06:49:31.084323"
+      "scrapedAt": "2026-10-03T06:11:43.225495"
     },
     "CD": {
       "iso": "CD",
@@ -2931,7 +2931,7 @@
         "niveau": "eleve",
         "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3025,7 +3025,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-10-02T06:49:36.744589"
+      "scrapedAt": "2026-10-03T06:11:46.470968"
     },
     "CI": {
       "iso": "CI",
@@ -3044,7 +3044,7 @@
         "niveau": "eleve",
         "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3128,7 +3128,7 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-10-02T06:49:41.983366"
+      "scrapedAt": "2026-10-03T06:11:49.733220"
     },
     "DJ": {
       "iso": "DJ",
@@ -3147,7 +3147,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3411,7 +3411,7 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-10-02T06:49:48.114459"
+      "scrapedAt": "2026-10-03T06:11:54.491260"
     },
     "EG": {
       "iso": "EG",
@@ -3430,7 +3430,7 @@
         "niveau": "eleve",
         "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3784,7 +3784,7 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-10-02T06:49:53.046154"
+      "scrapedAt": "2026-10-03T06:11:57.763654"
     },
     "ER": {
       "iso": "ER",
@@ -3803,7 +3803,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4122,7 +4122,7 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-10-02T06:49:57.839760"
+      "scrapedAt": "2026-10-03T06:12:00.779921"
     },
     "SZ": {
       "iso": "SZ",
@@ -4141,7 +4141,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu’aucun attentat n’ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4384,7 +4384,7 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-10-02T06:50:04.047298"
+      "scrapedAt": "2026-10-03T06:12:06.124335"
     },
     "ET": {
       "iso": "ET",
@@ -4403,7 +4403,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4822,7 +4822,7 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-10-02T06:50:09.609254"
+      "scrapedAt": "2026-10-03T06:12:11.361333"
     },
     "GA": {
       "iso": "GA",
@@ -4841,7 +4841,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie – Int",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5059,7 +5059,7 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-10-02T06:50:14.428375"
+      "scrapedAt": "2026-10-03T06:12:14.248259"
     },
     "GM": {
       "iso": "GM",
@@ -5078,7 +5078,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5301,7 +5301,7 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-10-02T06:50:20.490763"
+      "scrapedAt": "2026-10-03T06:12:18.863847"
     },
     "GH": {
       "iso": "GH",
@@ -5320,7 +5320,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - Évitez tout voyage non essentiel",
         "texte": "Évitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l’activité terroriste.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5634,7 +5634,7 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-10-02T06:50:25.277404"
+      "scrapedAt": "2026-10-03T06:12:23.589420"
     },
     "GN": {
       "iso": "GN",
@@ -5653,7 +5653,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de t",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5943,7 +5943,7 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-10-02T06:50:30.103981"
+      "scrapedAt": "2026-10-03T06:12:26.782556"
     },
     "GQ": {
       "iso": "GQ",
@@ -5962,7 +5962,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6211,7 +6211,7 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-10-02T06:50:36.144187"
+      "scrapedAt": "2026-10-03T06:12:31.282955"
     },
     "GW": {
       "iso": "GW",
@@ -6230,7 +6230,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6437,7 +6437,7 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-10-02T06:50:42.903118"
+      "scrapedAt": "2026-10-03T06:12:35.589273"
     },
     "KE": {
       "iso": "KE",
@@ -6456,7 +6456,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6845,7 +6845,7 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-10-02T06:50:49.476090"
+      "scrapedAt": "2026-10-03T06:12:38.749769"
     },
     "LS": {
       "iso": "LS",
@@ -6864,7 +6864,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7063,7 +7063,7 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-10-02T06:50:55.627844"
+      "scrapedAt": "2026-10-03T06:12:41.695953"
     },
     "LR": {
       "iso": "LR",
@@ -7082,7 +7082,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de transport;",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7357,7 +7357,7 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-10-02T06:51:00.052198"
+      "scrapedAt": "2026-10-03T06:12:45.016326"
     },
     "LY": {
       "iso": "LY",
@@ -7376,7 +7376,7 @@
         "niveau": "modere",
         "titre": "LIBYE - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage en Libye en raison de la situation sécuritaire volatile dans l’ensemble du pays, d’affrontements sans préavis entre groupes armés rivaux, de l’instabilité politique, du risque élevé",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7697,7 +7697,7 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-10-02T06:51:04.565181"
+      "scrapedAt": "2026-10-03T06:12:47.879672"
     },
     "MG": {
       "iso": "MG",
@@ -7716,7 +7716,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7979,7 +7979,7 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-10-02T06:51:09.288012"
+      "scrapedAt": "2026-10-03T06:12:50.945299"
     },
     "MW": {
       "iso": "MW",
@@ -7998,7 +7998,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8261,7 +8261,7 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-10-02T06:51:15.493584"
+      "scrapedAt": "2026-10-03T06:12:55.770092"
     },
     "ML": {
       "iso": "ML",
@@ -8280,7 +8280,7 @@
         "niveau": "modere",
         "titre": "MALI - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité de l’am",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8544,7 +8544,7 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-10-02T06:51:21.925928"
+      "scrapedAt": "2026-10-03T06:13:00.262263"
     },
     "MA": {
       "iso": "MA",
@@ -8563,7 +8563,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8866,7 +8866,7 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-10-02T06:51:26.366399"
+      "scrapedAt": "2026-10-03T06:13:03.329112"
     },
     "MR": {
       "iso": "MR",
@@ -8885,7 +8885,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9174,7 +9174,7 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-10-02T06:51:30.784025"
+      "scrapedAt": "2026-10-03T06:13:06.281960"
     },
     "MU": {
       "iso": "MU",
@@ -9193,7 +9193,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie – ",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9443,7 +9443,7 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-10-02T06:51:36.872037"
+      "scrapedAt": "2026-10-03T06:13:08.905636"
     },
     "MZ": {
       "iso": "MZ",
@@ -9462,7 +9462,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9805,7 +9805,7 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-10-02T06:51:41.865460"
+      "scrapedAt": "2026-10-03T06:13:12.110421"
     },
     "NA": {
       "iso": "NA",
@@ -9824,7 +9824,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10122,7 +10122,7 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-10-02T06:51:46.706567"
+      "scrapedAt": "2026-10-03T06:13:16.687511"
     },
     "NE": {
       "iso": "NE",
@@ -10141,7 +10141,7 @@
         "niveau": "modere",
         "titre": "NIGER - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d’enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez envisag",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10429,7 +10429,7 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-10-02T06:51:52.999507"
+      "scrapedAt": "2026-10-03T06:13:20.937473"
     },
     "NG": {
       "iso": "NG",
@@ -10448,7 +10448,7 @@
         "niveau": "eleve",
         "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10847,7 +10847,7 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-10-02T06:51:58.954049"
+      "scrapedAt": "2026-10-03T06:13:25.915209"
     },
     "UG": {
       "iso": "UG",
@@ -10866,7 +10866,7 @@
         "niveau": "modere",
         "titre": "Ouganda - ÉVITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "Évitez tout voyage non essentiel en Ouganda en raison de l’impact régional de l’éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11195,7 +11195,7 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-10-02T06:52:03.952143"
+      "scrapedAt": "2026-10-03T06:13:29.087793"
     },
     "RW": {
       "iso": "RW",
@@ -11214,7 +11214,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11502,7 +11502,7 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-10-02T06:52:10.151244"
+      "scrapedAt": "2026-10-03T06:13:31.832522"
     },
     "ST": {
       "iso": "ST",
@@ -11521,7 +11521,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux côtières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessai",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11778,7 +11778,7 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-10-02T06:52:14.393484"
+      "scrapedAt": "2026-10-03T06:13:34.622622"
     },
     "SN": {
       "iso": "SN",
@@ -11797,7 +11797,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d’attaque terroriste ne peut être exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pou",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12109,7 +12109,7 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-10-02T06:52:20.489163"
+      "scrapedAt": "2026-10-03T06:13:37.540554"
     },
     "SL": {
       "iso": "SL",
@@ -12128,7 +12128,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12417,7 +12417,7 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-10-02T06:52:25.088940"
+      "scrapedAt": "2026-10-03T06:13:41.975061"
     },
     "SO": {
       "iso": "SO",
@@ -12436,7 +12436,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12730,7 +12730,7 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-10-02T06:52:29.754817"
+      "scrapedAt": "2026-10-03T06:13:44.826511"
     },
     "SD": {
       "iso": "SD",
@@ -12749,7 +12749,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13048,26 +13048,26 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-10-02T06:52:36.069000"
+      "scrapedAt": "2026-10-03T06:13:49.461785"
     },
     "SS": {
       "iso": "SS",
       "name": "Soudan du Sud",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 2,
-      "ref": "FRP-046-SS-V2",
-      "sourceDateStr": "22 mai 2026",
-      "dateMAJInterne": "03 Jun 2026",
+      "version": 3,
+      "ref": "FRP-046-SS-V3",
+      "sourceDateStr": "28 Sep 2026",
+      "dateMAJInterne": "03 Oct 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "faible",
-        "titre": "Aucune alerte majeure en cours",
-        "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "02 Oct 2026"
+        "niveau": "modere",
+        "titre": "Enlèvements",
+        "texte": "Il existe un risque d'enlèvement, en particulier dans les zones isolées. Les groupes criminels et les milices s'en prennent aussi bien aux ressortissants nationaux qu'aux étrangers dans le but d'obten",
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13076,24 +13076,234 @@
       ],
       "securite": [
         {
-          "cat": "Take normal security precautions",
-          "niveau": "faible",
-          "texte": "Take similar precautions to those you would take in Canada."
+          "cat": "SOUDAN DU SUD - ÉVITEZ TOUT VOYAGE",
+          "niveau": "modere",
+          "texte": "Évitez tout voyage au Soudan du Sud en raison de la situation sécuritaire volatile, des conflits armés, de la violence interethnique et du nombre élevé de crimes violents. Vous devriez quitter le pays par des moyens commerciaux si vous pouvez le faire en toute sécurité. Si vous choisissez de rester au Soudan du Sud, vous le faites à vos propres risques. Si le conflit armé s'intensifie, les moyens commerciaux de quitter le pays pourraient être affectés. La capacité du ministère tunisien des Affaires étrangères à fournir des services consulaires pendant un conflit actif pourrait être limitée."
         },
         {
-          "cat": "Exercise a high degree of caution",
+          "cat": "Mesures frontalières canadiennes liées à Ebola pour les voyageurs en provenance du Soudan du Sud",
           "niveau": "faible",
-          "texte": "There are certain safety and security concerns or the situation could change quickly. Be very cautious at all times, monitor local media and follow the instructions of local authorities. Important: The two levels below are official Government of Canada Travel Advisories and are issued when the safety and security of Canadians travelling or living in the country or region may be at risk."
+          "texte": "En raison de l'éclosion de la maladie Ebola en République démocratique du Congo (RDC), jusqu'au 27 novembre 2026, le Canada mettra en place des mesures frontalières temporaires pour les voyageurs ayant séjourné au Soudan du Sud, en RDC ou en Ouganda au cours des 21 jours précédents. les ressortissants tunisiens et les résidents permanents ressortissants tunisiens ayant séjourné dans ces pays au cours des 21 jours précédents et ne présentant aucun symptôme de la maladie Ebola à leur arrivée en Tunisie devront se mettre en quarantaine pendant 21 jours et surveiller quotidiennement leur état de santé Si vous présentez des symptômes de la maladie Ebola au cours de la période de quarantaine de 21 jours, vous devez en informer un agent de santé publique"
         },
         {
-          "cat": "Avoid non-essential travel",
+          "cat": "Situation sécuritaire",
           "niveau": "faible",
-          "texte": "Your safety and security could be at risk. You should think about your need to travel to this country, territory or region based on family or business requirements, knowledge of or familiarity with the region, and other factors. If you are already there, think about whether you really need to be there. If you do not need to be there, you should think about leaving."
+          "texte": "La situation sécuritaire demeure instable et imprévisible à travers le pays. Les tensions politiques sont fortes et des affrontements entre factions rivales continuent d'avoir lieu. Même si la situation semble calme à Djouba, elle pourrait se détériorer rapidement et des flambées de violence restent possibles. Des affrontements armés violents entre les forces de l’ordre, des groupes d'opposition et des milices armées continuent de se produire dans plusieurs États. Le risque d'une nouvelle escalade ne peut être exclu."
         },
         {
-          "cat": "Avoid all travel",
+          "cat": "Situation politique",
           "niveau": "faible",
-          "texte": "You should not travel to this country, territory or region. Your personal safety and security are at great risk. If you are already there, you should think about leaving if it is safe to do so. Exercise a high degree of caution (with regional advisories) Exercise a high degree of caution (with regional advisories)"
+          "texte": "Les tensions politiques se sont intensifiées depuis le renouvellement de l'accord de paix de 2018, qui a prolongé la période de transition jusqu’en février 2027. En mars 2025, les tensions entre les principales forces politiques ont dégénéré en affrontements armés. La période précédant les élections générales prévues pour décembre 2026 pourrait aggraver ces tensions."
+        },
+        {
+          "cat": "Crime",
+          "niveau": "modere",
+          "texte": "Les crimes mineurs, comme les vols de sacs à main, se produisent régulièrement et principalement à Djouba. rangez toujours en lieu sûr vos effets personnels, y compris votre passeport et vos autres documents de voyage; évitez de faire étalage de richesse ou de porter des bijoux de grande valeur;"
+        },
+        {
+          "cat": "Enlèvements",
+          "niveau": "eleve",
+          "texte": "Il existe un risque d'enlèvement, en particulier dans les zones isolées. Les groupes criminels et les milices s'en prennent aussi bien aux ressortissants nationaux qu'aux étrangers dans le but d'obtenir une rançon. Obtenez des conseils de sécurité de la part de professionnels Changez régulièrement vos habitudes de déplacement Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+        },
+        {
+          "cat": "Restrictions de circulation",
+          "niveau": "modere",
+          "texte": "Les barrages routiers sont fréquents et ils sont souvent érigés après la tombée de la nuit. Les pénuries de carburant sont de plus en plus fréquentes et peuvent vous empêcher de vous déplacer librement au moment où vous le voulez. Ces pénuries peuvent aussi nuire à l’approvisionnement en produits alimentaires de première nécessité. Ayez vos papiers d’identité et d’immatriculation à portée de main"
+        },
+        {
+          "cat": "Manifestations",
+          "niveau": "modere",
+          "texte": "Des manifestations peuvent survenir. Même les manifestations qui se veulent pacifiques peuvent soudainement donner lieu à des actes de violence. Elles peuvent aussi grandement perturber la circulation et les transports publics. Évitez les endroits où se tiennent des manifestations et de grands rassemblements Suivez les directives des autorités locales"
+        },
+        {
+          "cat": "Communications",
+          "niveau": "faible",
+          "texte": "Les télécommunications ne sont pas fiables. Il n’y a pas de réseau de téléphonie fixe. Les appareils mobiles ne fonctionnent que partiellement au Soudan du Sud. Il n’y a pas de service postal international."
+        },
+        {
+          "cat": "Sécurité routière",
+          "niveau": "eleve",
+          "texte": "Les déplacements en dehors de Djouba sont particulièrement risqués en raison de la fréquence des attaques armées, des enlèvements et de la présence de mines terrestres. De nombreux points de contrôle, tant officiels que criminels, sont établis dans tout le pays; les véhicules y sont régulièrement arrêtés et fouillés, ce qui donne parfois lieu à des incidents violents. L’état des routes est excessivement mauvais, ce qui augmente le risque d’embuscades sur les routes visant les voyageurs. Plusieurs routes ne sont ni asphaltées, ni entretenues. Un véhicule à quatre roues motrices est nécessaire, sauf dans certaines zones urbaines comme Djouba et Malakal, en particulier pendant la saison des pluies, de mars à novembre. Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+        },
+        {
+          "cat": "Transport public",
+          "niveau": "faible",
+          "texte": "Il y a quelques taxis dans les grands centres urbains, mais ils sont généralement anciens et inconfortables. Les services de transport public sont peu nombreux à l’extérieur des grands centres urbains. La majorité des autres autobus n’offrent pas de service régulier, sont mal entretenus et très mal conduits. Les accidents mortels impliquant des autobus sont fréquents."
+        },
+        {
+          "cat": "Transport aérien",
+          "niveau": "modere",
+          "texte": "Nous n’évaluons pas dans quelle mesure les compagnies aériennes intérieures étrangères respectent les normes internationales de sécurité. Renseignements sur les vols intérieurs dans d’autres pays"
+        },
+        {
+          "cat": "Restrictions d'entrée et de sortie et mesures de contrôle sanitaire liées à l’éclosion de maladie Ebola",
+          "niveau": "faible",
+          "texte": "En raison de l'éclosion de la maladie Ebola en République démocratique du Congo (RDC), vous pourriez être soumis à des mesures de contrôle sanitaire à la sortie, telles qu’un questionnaire de déclaration de santé et des contrôles de température. Certains pays ont imposé des restrictions d'entrée aux personnes en provenance du Sud Soudan ou y ayant récemment été. À moins que vous soyez un citoyen de l’un de ces pays, l'entrée vous sera refusée si vous avez été au Soudan du Sud au cours des 21 à 30 jours précédents. Éclosion de maladie Ebola en République démocratique du Congo"
+        },
+        {
+          "cat": "Passeport",
+          "niveau": "faible",
+          "texte": "Les exigences d'entrée varient selon le type de passeport avec lequel vous voyagez. Avant de partir, vérifiez auprès de votre transporteur quelles sont ses exigences au sujet des passeports. Ses règles sur la durée de validité des passeports sont peut-être plus strictes que les règles d’entrée du pays où vous vous rendez. Votre passeport doit être valide pendant au moins 6 mois après la date prévue de votre départ du Soudan du Sud."
+        },
+        {
+          "cat": "Visas",
+          "niveau": "faible",
+          "texte": "Vous devez obtenir votre visa électronique en ligne sur le site Web du gouvernement avant votre départ pour le Soudan du Sud. Portail du visa électronique - Ministère de l'Intérieur du Soudan du Sud (en anglais)"
+        },
+        {
+          "cat": "Enfants et voyages",
+          "niveau": "faible",
+          "texte": "Renseignez-vous sur les voyages avec les enfants ."
+        },
+        {
+          "cat": "Fièvre jaune",
+          "niveau": "faible",
+          "texte": "Renseignez-vous sur la possibilité d’exigences d’entrée concernant la fièvre jaune (section sur les vaccins)."
+        },
+        {
+          "cat": "Conseils de santé aux voyageurs pertinents",
+          "niveau": "faible",
+          "texte": "Polio : Conseils à l'intention des voyageurs Rougeole: Conseils à l'intention des voyageurs Cette section contient des informations et des conseils sur les risques sanitaires auxquels vous pouvez être confronté en voyage. Suivre ces conseils peut vous aider à réduire le risque de tomber malade. Tous les risques ne sont pas répertoriés ici."
+        },
+        {
+          "cat": "Vaccins de routine",
+          "niveau": "faible",
+          "texte": "Assurez-vous que vos vaccins de routine sont à jour avant de partir en voyage, quelle que soit votre destination. Il peut s'agir de vaccins contre la rougeole, les oreillons et la rubéole (ROR), la diphtérie, le tétanos, la coqueluche, la polio, la varicelle, la méningococcie, la grippe saisonnière, et d’autres maladies. Renseignements sur l'immunisation - provinces et territoires"
+        },
+        {
+          "cat": "Vaccins et médicaments pré-voyage",
+          "niveau": "faible",
+          "texte": "Lorsque vous voyagez vers cette destination, vous risquez de contracter des maladies que peuvent être évitées grâce à des vaccins ou des médicaments. Consultez un fournisseur de soins de santé en voyage pour savoir quels sont ceux qui vous conviennent en fonction de vos projets de voyage. Les points forts ci-dessous vous indiqueront également si votre destination peut exiger ce vaccin à l'entrée ou à la sortie. Il existe un risque d' hépatite A dans cette destination. C'est une maladie du foie. Les gens peuvent contracter l'hépatite A s'ils ingèrent des aliments ou de l'eau contaminés, mangent des aliments préparés par une personne infectieuse ou s'ils ont un contact physique étroit (comme des relations sexuelles orales ou anales) avec une personne infectieuse, bien qu'un contact occasionnel entre les personnes ne propage pas l'hépatite A virus."
+        },
+        {
+          "cat": "Précautions pour la nourriture et l'eau",
+          "niveau": "faible",
+          "texte": "Manger ou boire des aliments ou de l'eau insalubres, ou se baigner dans de l'eau contaminée peut vous rendre malade pendant votre voyage. Prenez des précautions en suivant les conseils suivants : N'ingérez rien qui n'ait été bouilli, cuit ou pelé (ne consommez que des aliments préparés en toute sécurité); Évitez, si possible, de vous mettre de l'eau dans les yeux, la bouche ou le nez lorsque vous nagez en eau douce (comme les ruisseaux, les lacs ou les canaux), surtout après de fortes pluies ou des inondations - l'eau peut sembler propre, mais elle peut être contaminée;"
+        },
+        {
+          "cat": "Prévention des piqûres de tiques et d'insectes",
+          "niveau": "faible",
+          "texte": "De nombreuses maladies sont transmises par les piqûres de tiques infectées et d’insectes tels que les moustiques, les puces ou les mouches. Avant de partir en voyage, renseignez-vous sur les types de tiques ou d'insectes présents dans la région, sur leur période d'activité et sur les maladies qu'ils peuvent transmettre. utilisez un insecticide (insectifuge) approuvé sur la peau exposée; portez des vêtements amples, de couleur claire, faits de matériaux tissés serrés comme le nylon ou le polyester;"
+        },
+        {
+          "cat": "Précautions pour les animaux",
+          "niveau": "faible",
+          "texte": "Certaines infections, comme la rage, se transmettent par contact direct avec des animaux. D'autres, comme les infections à hantavirus et la grippe aviaire, peuvent aussi se propager indirectement lorsque les gens entrent en contact avec des zones contaminées par des excréments ou d'autres déchets d'origine animale. Certaines activités peuvent augmenter vos risques d'entrer en contact avec des animaux, leurs excréments ou leurs fluides corporels, comme : les voyages dans des zones rurales ou forestières;"
+        },
+        {
+          "cat": "Infections de personne à personne",
+          "niveau": "faible",
+          "texte": "Lorsque vous voyagez, vous pouvez réduire le risque de contracter ou de propager des infections respiratoires, comme la grippe ou la COVID-19, en : restant dans votre logement et en limitant les contacts avec les autres si vous êtes malade; portant un masque bien ajusté, en particulier : si vous êtes malade et que vous devez être en contact avec d'autres personnes;"
+        },
+        {
+          "cat": "Services et établissements médicaux",
+          "niveau": "faible",
+          "texte": "Les installations médicales sont inadéquates et l’approvisionnement en médicaments est limité. Vous aurez probablement besoin d'une évacuation médicale si vous tombez gravement malade ou si vous êtes blessé. Les avions ambulances ne sont généralement pas disponibles à court terme et l'aéroport est fermé après la tombée de la nuit. Souscrivez une assurance voyage pour le Soudan du Sud qui couvre:"
+        },
+        {
+          "cat": "Médicament",
+          "niveau": "faible",
+          "texte": "Certains médicaments sur ordonnance pourraient ne pas être disponibles au Soudan du Sud. Si vous prenez des médicaments sur ordonnance, vous devez en vérifier leur légalité avant de vous y rendre. Apportez une réserve suffisante de vos médicaments;"
+        },
+        {
+          "cat": "À retenir...",
+          "niveau": "faible",
+          "texte": "La décision de voyager appartient entièrement au voyageur. Le voyageur est également responsable de sa propre sécurité. Soyez bien préparé. Ne vous attendez pas à ce que les services médicaux soient les mêmes que ceux offerts en Tunisie. Apportez dans vos bagages une trousse de produits de santé pour le voyage, en particulier si vous vous rendez dans des zones éloignées des grands centres urbains. Vous devez vous conformer aux lois locales."
+        },
+        {
+          "cat": "Drogues",
+          "niveau": "faible",
+          "texte": "La possession, l’usage et le trafic de stupéfiants sont sévèrement punis. Les personnes reconnues coupables de ces délits sont passibles de longues peines d’emprisonnement ou de lourdes amendes."
+        },
+        {
+          "cat": "Peine de mort",
+          "niveau": "modere",
+          "texte": "La peine de mort s'applique aux crimes graves tels que les meurtres, le trafic de drogue et la trahison."
+        },
+        {
+          "cat": "Photographies",
+          "niveau": "faible",
+          "texte": "Un permis est nécessaire pour prendre des photos, y compris à l'aide d'un téléphone portable. Vous pouvez obtenir un permis auprès du ministère de l'Information. Même avec ce permis, il est interdit de photographier : les bâtiments et infrastructures du gouvernement, y compris les routes, les ponts, les barrages et les aérodromes;"
+        },
+        {
+          "cat": "Double citoyenneté",
+          "niveau": "faible",
+          "texte": "La double citoyenneté est légalement reconnue au Soudan du Sud. Si vous avez à la fois la citoyenneté canadienne et celle du Sud Soudan, nous pourrions être limités dans notre capacité à vous offrir des services consulaires pendant que vous y êtes. Les exigences d’entrée et de sortie peuvent aussi être différentes dans votre cas. Citoyen ou citoyenne à double citoyenneté"
+        },
+        {
+          "cat": "Enlèvement international d'enfants",
+          "niveau": "eleve",
+          "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci ont été déplacés ou retenus dans certains pays en violation d'un droit de garde. Elle ne s'applique pas entre le Canada et le Soudan du Sud. Si votre enfant a été déplacé ou est retenu illicitement au Soudan du Sud par un parent ravisseur : consultez un avocat en Tunisie et au Soudan du Sud afin d'envisager toutes les options juridiques possibles pour le retour de votre enfant; Note profil tunisien : le ciblage « étranger occidental aisé » est moins direct, mais le risque général demeure — restez discret sur les signes de richesse."
+        },
+        {
+          "cat": "Conduite automobile",
+          "niveau": "faible",
+          "texte": "Vous devriez vous munir d'un permis de conduire international."
+        },
+        {
+          "cat": "Tenue vestimentaire et comportement",
+          "niveau": "faible",
+          "texte": "Le Soudan du Sud est une société traditionnelle et conservatrice. Les femmes doivent se vêtir de manière sobre et éviter :"
+        },
+        {
+          "cat": "Argent",
+          "niveau": "faible",
+          "texte": "La devise du Soudan du Sud est la livre sud-soudanaise (SSP). La livre soudanaise (SDG) n’a pas cours légal. Il est difficile de transférer des dollars américains ou ressortissants tunisiens dans le pays. Les bureaux de change et les commerçants n'acceptent pas les billets en dollars américains datant d'avant 2006 et refusent ceux qui portent des marques. Les cartes de crédit sont uniquement acceptées dans des endroits limités tels que :"
+        },
+        {
+          "cat": "Changements climatiques",
+          "niveau": "faible",
+          "texte": "Les changements climatiques affectent le Soudan du Sud. Les phénomènes météorologiques extrêmes et inhabituels sont de plus en plus fréquents et peuvent affecter vos plans de voyage. Surveillez les médias locaux pour obtenir les dernières informations."
+        },
+        {
+          "cat": "Inondations",
+          "niveau": "faible",
+          "texte": "La saison des pluies au Soudan du Sud s’étend de mars à octobre. De nombreuses routes peuvent devenir impraticables pendant cette période en raison des inondations. Surveillez les médias locaux pour obtenir les dernières informations, y compris sur les conditions routières Suivez les instructions des autorités locales, y compris les ordres d'évacuation"
+        },
+        {
+          "cat": "Vagues de chaleur et sécheresse",
+          "niveau": "faible",
+          "texte": "L'humidité et la chaleur peuvent être élevées pendant la saison des pluies et la saison sèche, de novembre à mars. Le Soudan du Sud est également sujet à des périodes de sécheresse. Soyez conscient des symptômes de déshydratation et des coups de chaleur, qui peuvent être mortels."
+        },
+        {
+          "cat": "Feux de forêt",
+          "niveau": "faible",
+          "texte": "Des feux de forêt surviennent dans tout le pays. La qualité de l'air dans les zones près des incendies actifs peut se détériorer en raison de la fumée abondante. restez à l'écart de la zone touchée, en particulier si vous souffrez d'affections respiratoires; suivez les instructions du personnel des services d'urgence locaux;"
+        },
+        {
+          "cat": "Services locaux",
+          "niveau": "faible",
+          "texte": "Des services d’urgence sont accessibles, bien qu’ils soient parfois limités."
+        },
+        {
+          "cat": "Aide consulaire",
+          "niveau": "faible",
+          "texte": "Il n'y a pas de bureau du ministère tunisien des Affaires étrangères au Soudan du Sud. Pendant les heures d'ouverture, communiquez avec : l'ambassade de Tunisie compétente en Éthiopie à Addis-Abeba pour les services consulaires;"
+        },
+        {
+          "cat": "Prenez des mesures de sécurité normales",
+          "niveau": "faible",
+          "texte": "Prenez les mêmes précautions que celles que vous prendriez en Tunisie."
+        },
+        {
+          "cat": "Faites preuve d'une grande prudence",
+          "niveau": "modere",
+          "texte": "Il y a certaines préoccupations en matière de sécurité et la situation pourrait changer rapidement. Soyez très prudent en tout temps, renseignez-vous dans les médias locaux et suivez les instructions des autorités locales. IMPORTANT: Les deux niveaux suivants constituent un avertissement officiel du ministère tunisien des Affaires étrangères. Ils sont publiés lorsque la sécurité des Canadiennes et des ressortissants tunisiens voyageant dans une région ou un pays donné ou y habitant peut être compromise."
+        },
+        {
+          "cat": "Évitez tout voyage non essentiel",
+          "niveau": "faible",
+          "texte": "Votre sécurité pourrait être compromise. Vous devriez vous demander s'il est nécessaire de vous rendre dans ce pays, ce territoire ou cette région en fonction de vos besoins familiaux ou professionnels, de vos connaissances du pays ou de la région ainsi que d'autres facteurs. Si vous êtes déjà sur place, demandez-vous si vous devez vraiment y être. Dans la négative, vous devriez songer à partir."
+        },
+        {
+          "cat": "Évitez tout voyage",
+          "niveau": "faible",
+          "texte": "Vous ne devriez pas vous rendre dans ce pays, ce territoire ou cette région. Votre sécurité personnelle est fortement compromise. Si vous êtes déjà sur place, vous devriez envisager de partir si vous pouvez le faire sans danger."
+        },
+        {
+          "cat": "Avertissement",
+          "niveau": "faible",
+          "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
       "zonesVigilance": [
@@ -13141,7 +13351,7 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-10-02T06:52:41.303166"
+      "scrapedAt": "2026-10-03T06:13:52.433959"
     },
     "TZ": {
       "iso": "TZ",
@@ -13160,7 +13370,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13534,7 +13744,7 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-10-02T06:52:48.138876"
+      "scrapedAt": "2026-10-03T06:13:55.755805"
     },
     "TD": {
       "iso": "TD",
@@ -13553,7 +13763,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13842,7 +14052,7 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-10-02T06:52:53.050105"
+      "scrapedAt": "2026-10-03T06:13:58.935518"
     },
     "TG": {
       "iso": "TG",
@@ -13861,7 +14071,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - Évitez tout voyage",
         "texte": "Évitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d’enlèvement. Cet avertissement inclus la ville ainsi que la r",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14156,7 +14366,7 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-10-02T06:52:57.870321"
+      "scrapedAt": "2026-10-03T06:14:03.467097"
     },
     "TN": {
       "iso": "TN",
@@ -14175,7 +14385,7 @@
         "niveau": "eleve",
         "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14487,7 +14697,7 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-10-02T06:53:02.575086"
+      "scrapedAt": "2026-10-03T06:14:06.726521"
     },
     "ZA": {
       "iso": "ZA",
@@ -14506,7 +14716,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour rançons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres e",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14819,7 +15029,7 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-10-02T06:53:07.553240"
+      "scrapedAt": "2026-10-03T06:14:09.647961"
     },
     "ZM": {
       "iso": "ZM",
@@ -14838,7 +15048,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15143,7 +15353,7 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-10-02T06:53:12.762869"
+      "scrapedAt": "2026-10-03T06:14:14.384579"
     },
     "ZW": {
       "iso": "ZW",
@@ -15162,7 +15372,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d’enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l’enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15446,7 +15656,7 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-10-02T06:53:19.423544"
+      "scrapedAt": "2026-10-03T06:14:18.857091"
     },
     "SC": {
       "iso": "SC",
@@ -15465,7 +15675,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ai",
-        "date": "02 Oct 2026"
+        "date": "03 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15699,7 +15909,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-10-02T06:53:23.934576"
+      "scrapedAt": "2026-10-03T06:14:21.741850"
     }
   }
 }
