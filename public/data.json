@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T05:53:50.059501",
-  "totalChanged": 1,
+  "generatedAt": "2026-10-23T05:52:47.978565",
+  "totalChanged": 0,
   "countries": {
     "DZ": {
       "iso": "DZ",
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -365,7 +365,7 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-10-22T05:51:01.359009"
+      "scrapedAt": "2026-10-23T05:49:25.493167"
     },
     "AO": {
       "iso": "AO",
@@ -384,7 +384,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l’indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -618,11 +618,27 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(en orange) Lunda Sul et Lunda Norte Les déplacements dans les provinces diamantifères de Lunda Sul et Lunda Norte sont",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Faute de pouvoir justifier d’une couverture sociale, les voyageurs s’exposent au risque de ne pas avoir accès aux soins, y compris en cas d’urgence vitale. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Depuis le 30 septembre 2023, 98 nationalités, dont les Français, sont exemptées de visa de tourisme. Sont couvertes par le visa de tourisme : les visites pour raisons familiales, la prospection commerciale, la participation à des activités scientifiques et technologiques ou les visites à caractère récréatif, sportif ou culturel. Cette exemption permet de rester en Angola jusqu’à 30 jours par entrée, et ce pour un total cumulé de 90 jours par an. Les Français doivent présenter à la frontière un passeport dont la validité est supérieure à la durée du séjour prévu. Les touristes désirant rester plus de 30 jours d’affilée devront demander un visa de touri",
       "visaDetail": null,
@@ -647,7 +663,7 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-10-22T05:51:04.302413"
+      "scrapedAt": "2026-10-23T05:49:29.393754"
     },
     "BJ": {
       "iso": "BJ",
@@ -666,7 +682,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -944,8 +960,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "En cas d’incident de santé sérieux, il est vivement recommandé de rentrer en France pour les soins. Il est conseillé de consulter la liste de notoriété médicale publiée sur le site internet de l’ambassade de France à Cotonou, afin d’identifier un médecin ou un établissement local. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Les ressortissants français souhaitant se rendre au Bénin sont soumis à une obligation de visa. Ils doivent disposer d’un passeport d’une durée de validité d’au moins 6 mois après la date de retour en France, d’un billet retour et d’un carnet de vaccination attestant du vaccin contre la fièvre jaune. Le gouvernement béninois a mis en place le 23 avril 2018 un « visa électronique » (« e-Visa »). Les demandes de visas peuvent désormais être effectuées en ligne . Après validation du dossier, le voyageur reçoit son visa électronique par courriel, sous forme de co",
       "visaDetail": null,
@@ -970,7 +991,7 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-10-22T05:51:07.389117"
+      "scrapedAt": "2026-10-23T05:49:33.417858"
     },
     "BW": {
       "iso": "BW",
@@ -989,7 +1010,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1196,8 +1217,13 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Les rapatriements sont la plupart du temps effectués vers les installations hospitalières de Johannesburg. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Le visa n’est pas obligatoire pour les ressortissants français. Le passeport doit être valable au moins six mois après l’entrée au Botswana. Une autorisation de séjour dont la validité ne peut excéder trois mois est délivrée aux postes frontières sans paiement de droits. La durée de séjour autorisée est à l’entière discrétion de l’agent de l’immigration qui appose le tampon sur le passeport du voyageur. Il convient donc de vérifier que la durée de séjour octroyée est suffisante pour permettre d’effectuer son voyage. Si ce n’est pas le cas, il y a lieu d’expli",
       "visaDetail": null,
@@ -1222,7 +1248,7 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-10-22T05:51:10.519035"
+      "scrapedAt": "2026-10-23T05:49:38.721576"
     },
     "BF": {
       "iso": "BF",
@@ -1241,7 +1267,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1474,7 +1500,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Dans le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé. Les ressortissants français au Burkina Faso sont appelés à la plus grande vigilance : il est essentiel de se tenir à l’écart de tout rassemblement et de rester régulièrement informés de la situation. Depuis le 8 avril 2026, tous les passagers ont l’obligation, avant chaque voyage (entrée et sortie du territoire), d’effectuer les formalités d’immigration en ligne via la plateforme « fiche voyage » à l’adresse suivante : https://fichedevoyage.gov.bf/ Les voyageurs désirant entrer et séjourner au Burkina Faso doivent être titulaires d’un ",
@@ -1500,7 +1532,7 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-10-22T05:51:16.242089"
+      "scrapedAt": "2026-10-23T05:49:42.341261"
     },
     "BI": {
       "iso": "BI",
@@ -1519,7 +1551,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent être affectées par des débordements de conflits en cours en République démocrat",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1802,8 +1834,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "D’une façon générale, les infrastructures médicales et hospitalières du Burundi sont défaillantes. En conséquence aucune hospitalisation prolongée ni aucune opération chirurgicale ne peuvent être envisagées, hors urgence vitale. De la même façon, les possibilités de secours médical à domicile ou sur site (a fortiori en province) sont pratiquement inexistantes. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour A l’arrivée au Burundi , toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Préalablement à tout voyage (vers ou depuis le Burundi), il convient de renseigner les formulaires d’entrée et de sortie du territoire sur le site des autorités burundaises . Il est fortement recommandé d’avoir avec soi une édition papier du certificat qui est généré et adressé par mail à l’issue de chaque validation. Un visa est obligatoire pour entrer sur le territoire burundais. Les autorités burundaises octroient désormais les autorisations d’entrée à l’arrivée sur le territoire burundais. Il convient, à partir du même site burund",
       "visaDetail": null,
@@ -1828,7 +1865,7 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-10-22T05:51:19.401906"
+      "scrapedAt": "2026-10-23T05:49:46.002439"
     },
     "CM": {
       "iso": "CM",
@@ -1844,10 +1881,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "Extrême-Nord et département du Mayo-Louti - Évitez tout voyage",
-        "texte": "Évitez tout voyage dans la région de l’Extrême-Nord ainsi que dans le département du Mayo-Louti dans la région du Nord en raison des opérations militaires, du risque de terrorisme, d’attaques armées e",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2136,10 +2173,37 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "le golfe de Guinée, a fortiori le mouillage près des côtes, compte tenu des risques liés à la piraterie maritime",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(orange) Région du Nord et départements de la Vina et du Mbéré dans l’Adamaoua : dans les régions du Nord, à l’exceptio",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Les ressortissants français souhaitant séjourner au Cameroun doivent formuler une demande de visa avant leur départ. Les voyageurs doivent notamment disposer d’un passeport valide 6 mois après la date de retour prévue, d’un billet retour et d’un justificatif de lieu de séjour. Pour tout séjour supérieur à 30 jours ou à des fins professionnelles, un visa temporaire (valide jusqu’à 6 mois) ou de visa long séjour (validité supérieure à 6 mois) doit être obtenu. Les demandes de visa doivent être déposées en ligne, via la plateforme internet dédiée .",
@@ -2165,7 +2229,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-10-22T05:51:22.167714"
+      "scrapedAt": "2026-10-23T05:49:51.331839"
     },
     "CV": {
       "iso": "CV",
@@ -2184,7 +2248,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2195,8 +2259,12 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Paludisme",
+          "Dengue",
+          "Zika"
+        ],
+        "note": "Les capacités médicales locales sont faibles et l’accès aux médicaments peut être réduit. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les ressortissants français, y compris les binationaux (franco-capverdiens), doivent entrer sur le territoire capverdien munis d’un passeport français : à défaut, il est constaté que, dans la pratique, les autorités capverdiennes peuvent les empêcher de regagner la France à l’issue de leur séjour. Les autorités capverdiennes exigent que ce passeport ait une durée de validité au moins égale à trois mois après la fin prévue du séjour dans le pays. Les passeports d’urgence délivrés par la France sont reconnus. L’entrée et la sortie du territoire capverdien doivent s’effectuer à partir des postes-frontières suivants :",
       "visaDetail": null,
@@ -2221,7 +2289,7 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-10-22T05:51:24.295257"
+      "scrapedAt": "2026-10-23T05:49:54.048835"
     },
     "CF": {
       "iso": "CF",
@@ -2240,7 +2308,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d’organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2464,11 +2532,27 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(en orange) Les déplacements à Bangui et Bimbo sont déconseillés sauf raison impérative",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "À Bimbo, un nouvel hôpital a été construit mais le plateau technique demeure limité. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Le passeport en cours de validité et le visa sont obligatoires. Le passeport doit être valide pendant au moins 6 mois après la date prévue du départ de la République centrafricaine. Le certificat de vaccinations internationales doit pouvoir être présenté à l’entrée. Pour de plus amples informations, prendre l’attache de l’ambassade de la République centrafricaine à Paris (30, rue des Perchamps, 75016 Paris).",
       "visaDetail": null,
@@ -2493,7 +2577,7 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-10-22T05:51:27.100943"
+      "scrapedAt": "2026-10-23T05:49:57.497534"
     },
     "KM": {
       "iso": "KM",
@@ -2512,7 +2596,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s’imposent. Carte en direct sur la ",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2734,8 +2818,13 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "La faiblesse du système de soins sur les trois iles impose, dans la plupart des cas médicaux lorsqu’une hospitalisation est nécessaire, un rapatriement sanitaire vers des centres hospitaliers mieux équipés, en général à la Réunion et parfois à Mayotte ou en France métropolitaine. Il est donc impératif de vérifier son assurance rapatriement avant son départ pour les Comores. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour L’accès au territoire des Comores est soumis à l’obtention d’un visa. Il est délivré à l’arrivée à l’aéroport de Moroni et coûte environ 30 euros. Pour établir ce visa, les ressortissants français en séjour touristique doivent être munis d’un billet retour, d’un viatique de 30 euros/jour et de l’adresse du lieu de séjour.",
       "visaDetail": null,
@@ -2760,7 +2849,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-10-22T05:51:30.262832"
+      "scrapedAt": "2026-10-23T05:50:00.782135"
     },
     "CG": {
       "iso": "CG",
@@ -2779,7 +2868,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2801,8 +2890,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "En cas de nécessité, il est possible d’accéder au centre médico-social de l’ambassade de France à Brazzaville. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restriction sanitaire pour l’entrée sur le territoire ont été levées. L’obtention d’un visa avant le départ est obligatoire pour se rendre en République du Congo, sauf pour les passeports diplomatiques. Aucun visa n’est délivré à l’arrivée dans le pays. Le visa doit être impérativement sollicité auprès de l’ambassade du Congo à Paris. Les demandeurs de visas doivent soumettre et payer leur demande de visa uniquement en ligne.",
       "visaDetail": null,
@@ -2827,7 +2921,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-10-22T05:51:32.678079"
+      "scrapedAt": "2026-10-23T05:50:03.646834"
     },
     "CD": {
       "iso": "CD",
@@ -2843,10 +2937,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "faible",
-        "titre": "Aucune alerte majeure en cours",
-        "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2854,7 +2948,38 @@
         "Profil de risque criminel adapté : ciblage « occidental » moins direct, vigilance générale maintenue."
       ],
       "securite": [],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "dans les provinces du Kwilu et du Kwango en raison de la présence de milices armées",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "sur le territoire du Kwamouth dans la province du Maï-Ndombe",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "ces zones et dans les sites touristiques qui s’y trouvent",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(en orange) En raison de l’instabilité politique et de l’insécurité générale, le reste du pays est placé en zone décons",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "de se rendre dans les trois provinces du Kasaï où des affrontements peuvent opposer des milices armées encore présentes",
+          "desc": "Déconseillé sauf raison impérative"
+        }
+      ],
       "sante": {
         "vaccins": [],
         "risques": [
@@ -2888,7 +3013,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-10-22T05:51:35.552554"
+      "scrapedAt": "2026-10-23T05:50:06.552662"
     },
     "CI": {
       "iso": "CI",
@@ -2904,10 +3029,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "faible",
-        "titre": "Aucune alerte majeure en cours",
-        "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2915,11 +3040,37 @@
         "Profil de risque criminel adapté : ciblage « occidental » moins direct, vigilance générale maintenue."
       ],
       "securite": [],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(orange sur la carte) Régions frontalières du Libéria La zone située à la frontière libérienne, notamment les villes de",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "en raison de son accessibilité difficile et de son enclavement",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "L’admission dans les établissements de soins est en effet soumise au paiement préalable des soins et traitements (ou d’une caution). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les ressortissants français munis d’un passeport ordinaire avec une validité supérieure à 6 mois, d’un passeport de service ou d’un passeport diplomatique désireux de se rendre en Côte d’Ivoire sont soumis à l’obligation de visa biométrique et de vaccination contre la fièvre jaune (voir infra paragraphe Santé/vaccinations). La demande de visa biométrique peut être réalisée : par internet, sur le site : https://snedai.com/ . Après enregistrement et paiement en ligne des frais, un e-visa biométrique est délivré à l’arrivée à l’aéroport international d’Abidjan.",
       "visaDetail": null,
@@ -2944,7 +3095,7 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-10-22T05:51:37.654975"
+      "scrapedAt": "2026-10-23T05:50:09.478359"
     },
     "DJ": {
       "iso": "DJ",
@@ -2963,7 +3114,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3206,8 +3357,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "La loi N°201/AN/07 fixant les conditions d’entrée et de séjour en République de Djibouti oblige \"tout étranger à être muni des documents relatifs à ses moyens d’existence et aux garanties de rapatriement\" (art 5 al 4). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Les ressortissants français sont soumis à l’obligation de visa. Il peut être obtenu : en utilisant une procédure de e-visa : https://www.evisa.gouv.dj/ (pour les visas de transit et de court séjour).",
       "visaDetail": null,
@@ -3232,7 +3388,7 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-10-22T05:51:40.650679"
+      "scrapedAt": "2026-10-23T05:50:13.145135"
     },
     "EG": {
       "iso": "EG",
@@ -3248,10 +3404,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "Égypte - Faites preuve d'une grande prudence",
-        "texte": "Faites preuve d’une grande prudence en Égypte en raison des tensions qui persistent dans la région, du caractère imprévisible des conditions de sécurité et du risque de la menace terroriste.",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3550,7 +3706,28 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(orange sur la carte) La zone située entre d’une part, la zone désertique interdite aux civils, et d’autre part le sud",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "compte tenu d’un moindre maillage sécuritaire par les forces armées et de trafics",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
         "risques": [
@@ -3584,7 +3761,7 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-10-22T05:51:43.986892"
+      "scrapedAt": "2026-10-23T05:50:16.848124"
     },
     "ER": {
       "iso": "ER",
@@ -3603,7 +3780,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3896,7 +4073,12 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Un « Travel Permit » est obligatoire pour sortir à plus de 20 km de la capitale ou du lieu de résidence. Pour de plus amples informations, contacter l’ambassade d’Érythrée à Paris. Après avoir été brièvement ouverte entre le 11 septembre et le 26 décembre 2018, la frontière terrestre avec l’Éthiopie est de nouveau fermée. La frontière avec Djibouti demeure fermée et aucune liaison aérienne n’existe entre les deux pays. De même, la frontière avec le Soudan est fermée, sauf autorisation exceptionnelle.",
@@ -3922,7 +4104,7 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-10-22T05:51:48.735988"
+      "scrapedAt": "2026-10-23T05:50:20.284120"
     },
     "SZ": {
       "iso": "SZ",
@@ -3941,7 +4123,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu’aucun attentat n’ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4168,8 +4350,13 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "Les infrastructures de santé du pays disposent d’un équipement et d’un confort très limités et les médecins sont peu nombreux, notamment les spécialistes. Les ruptures de stock de médicaments ne sont pas rares et le coût des soins est élevé. Toute intervention médicale sérieuse doit si possible être réalisée à l’étranger. L’Afrique du Sud, qui dispose de structures privées d’excellente qualité, est la destination recommandée la plus proche (ville de Nelspruit notamment). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Les ressortissants français sont exemptés de visa pour un séjour touristique d’une durée maximale de 30 jours. Le passeport doit avoir une validité supérieure à 6 mois après la date du départ d’Eswatini. Les 13 postes frontières du pays (11 avec l’Afrique du Sud et 2 avec le Mozambique) ne sont pas ouverts 24h/24. Les horaires d’ouverture sont en général compris entre 07h00 et 18h00.",
       "visaDetail": null,
@@ -4194,7 +4381,7 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-10-22T05:51:57.043324"
+      "scrapedAt": "2026-10-23T05:50:23.511306"
     },
     "ET": {
       "iso": "ET",
@@ -4213,7 +4400,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4606,8 +4793,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Les structures médicales en Éthiopie disposent de moyens limités et l’offre de soin est globalement de qualité très insuffisante. En dehors de la capitale régionales, les structures médicales et les ambulances sont rares. Les cas médicaux sérieux nécessitent une évacuation sanitaire principalement vers le Kenya ou la France. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. L’obtention d’un visa est obligatoire pour visiter l’Éthiopie quel que soit le motif de la visite. Avant de partir, les visas doivent impérativement être obtenus par Internet avec la procédure d’e-Visa . Les voyageurs doivent être en possession d’une copie papier de leur e-Visa pour entrer sur le territoire éthiopien. L’obtention d’un visa à l’arrivée est aléatoire et ne peut être recommandée.",
       "visaDetail": null,
@@ -4632,7 +4824,7 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-10-22T05:52:00.409694"
+      "scrapedAt": "2026-10-23T05:50:29.642499"
     },
     "GA": {
       "iso": "GA",
@@ -4651,7 +4843,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie – Int",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4848,8 +5040,13 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Les coordonnées de médecins et des hôpitaux sont disponibles sur le site du consulat. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Tous les voyageurs doivent être munis d’un passeport d’une validité supérieure à 6 mois et d’un visa qui peut être sollicité sur le site de la Direction générale de la documentation et de l’immigration . Pour tout séjour supérieur à trois mois, une autorisation d’entrée à durée indéterminée sera demandée. Pour de plus amples informations, il convient de prendre l’attache de l’ambassade du Gabon à Paris .",
       "visaDetail": null,
@@ -4874,7 +5071,7 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-10-22T05:52:03.350993"
+      "scrapedAt": "2026-10-23T05:50:33.224902"
     },
     "GM": {
       "iso": "GM",
@@ -4893,7 +5090,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5095,7 +5292,12 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre jaune"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Le visa de court séjour est délivré à titre gratuit pour les ressortissants français à l’arrivée sur le territoire gambien y compris aux postes-frontières terrestres. Les autorités gambiennes apposent sur le passeport un visa gratuit ( free of charge ) de court séjour, d’une durée de quinze jours renouvelables. Les voyageurs circulant dans un véhicule immatriculé au Sénégal doivent, à l’entrée en Gambie, régler au service des douanes le montant du « passavant », soit 100 GMD (environ 2 €) qui donne lieu à un reçu. Toute autre demande de versement d’un montant en GMD ou en FCFA n’a aucune base légale.",
@@ -5121,7 +5323,7 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-10-22T05:52:06.214579"
+      "scrapedAt": "2026-10-23T05:50:36.664373"
     },
     "GH": {
       "iso": "GH",
@@ -5140,7 +5342,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - Évitez tout voyage non essentiel",
         "texte": "Évitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l’activité terroriste.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5423,7 +5625,12 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Depuis le 28 mars 2022, l’ensemble des frontières aériennes, terrestres et maritimes sont à nouveau ouvertes. Les horaires d’ouverture des postes-frontières sont : avec le Togo : ouverture permanente du poste-frontière, 24h/24 depuis le 31 juillet 2017. Toutes les mesures de restriction sanitaire pour l’entrée sur le territoire ont été levées.",
@@ -5449,7 +5656,7 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-10-22T05:52:09.214654"
+      "scrapedAt": "2026-10-23T05:50:40.299473"
     },
     "GN": {
       "iso": "GN",
@@ -5468,7 +5675,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de t",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5736,8 +5943,14 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "Il existe peu de structures hospitalières en Guinée. À Conakry, deux cliniques disposent de structures chirurgicales et d’ambulances : Ambroise Paré et Pasteur. Plus d’informations sur le site de l’ambassade de France en Guinée. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour La demande de visa se fait impérativement en ligne depuis le lieu de départ, sur le site de la Direction centrale de la police de l’air et des frontières de la République de Guinée . Les voyageurs qui ne disposent pas déjà d’un visa, sont invités à se rendre sur la plateforme Internet de la DCPAF guinéenne , où ils doivent télécharger : Une attestation de vaccination fièvre jaune (scan du carnet de vaccination) ; L’Ambassade de Guinée délivre ensuite, après un éventuel entretien avec le demandeur, un « visa volant » (c’est-à-dire une autorisation d’entrée sur le territoire guinéen).",
       "visaDetail": null,
@@ -5762,7 +5975,7 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-10-22T05:52:12.168339"
+      "scrapedAt": "2026-10-23T05:50:43.850814"
     },
     "GQ": {
       "iso": "GQ",
@@ -5781,7 +5994,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5998,8 +6211,14 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "A noter que, même avec une assurance rapatriement, indispensable, les évacuations sanitaires peuvent être complexes et difficiles à finaliser. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les ressortissants français doivent être munis d’un visa pour entrer en Guinée équatoriale. Il n’y a pas de possibilité d’obtention de visa à l’arrivée. En plus du formulaire de demande de visa de court séjour (90 jours), les documents suivants sont exigés par l’ambassade de Guinée équatoriale à Paris : un passeport d’une durée de validité d’au moins 6 mois ; un carnet international de vaccinations (vaccin contre la fièvre jaune obligatoire) ;",
       "visaDetail": null,
@@ -6024,7 +6243,7 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-10-22T05:52:14.992832"
+      "scrapedAt": "2026-10-23T05:50:47.334411"
     },
     "GW": {
       "iso": "GW",
@@ -6043,7 +6262,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6266,7 +6485,7 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-10-22T05:52:17.506000"
+      "scrapedAt": "2026-10-23T05:50:50.416867"
     },
     "KE": {
       "iso": "KE",
@@ -6285,7 +6504,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6658,7 +6877,12 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Fièvre de la vallée du Rift (FVR)"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour L’entrée au Kénya est soumise à l’obtention d’une autorisation électronique de voyage (eTA) sur le site suivant : https://etakenya.go.ke . L’eTA doit être présenté avant l’embarquement. Certaines exemptions sont mentionnées au lien suivant : https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf En cas de questions supplémentaires, il est possible de contacter l’ambassade du Kénya en France : https://kenyaembassyparis.fr",
@@ -6684,7 +6908,7 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-10-22T05:52:20.674914"
+      "scrapedAt": "2026-10-23T05:50:54.263239"
     },
     "LS": {
       "iso": "LS",
@@ -6703,7 +6927,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6880,8 +7104,14 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Fièvre typhoïde",
+          "Hépatite A",
+          "MPOX",
+          "Rage",
+          "Tuberculose"
+        ],
+        "note": "Il est impératif de s’assurer que l’assurance sanitaire et de rapatriement couvre les frais de transports du Lesotho vers l’Afrique du Sud, ainsi que les soins reçus dans ce pays. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Pour des séjours inférieurs à 14 jours, les titulaires d’un passeport français sont dispensés de visa. Un visa visiteur est délivré à l’arrivée dans le pays lors de l’accomplissement des formalités d’immigration. Le passeport doit être valable au moins 3 mois après la date de sortie du Lesotho et comporter deux pages vierges. Au-delà de 14 jours, il est possible, sous certaines conditions, de solliciter une prolongation de son autorisation de séjour d’une durée de 30 jours en contactant, avant l’expiration du visa, les services de l’immigration locaux (Home Affairs, Director of Immigration Services, P.O. Box 363, Maseru, 100, Lésotho , Tél. : + 266 22",
       "visaDetail": null,
@@ -6906,7 +7136,7 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-10-22T05:52:24.717564"
+      "scrapedAt": "2026-10-23T05:50:59.184162"
     },
     "LR": {
       "iso": "LR",
@@ -6925,7 +7155,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de transport;",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7210,7 +7440,7 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-10-22T05:52:28.128354"
+      "scrapedAt": "2026-10-23T05:51:04.748113"
     },
     "LY": {
       "iso": "LY",
@@ -7229,7 +7459,7 @@
         "niveau": "modere",
         "titre": "LIBYE - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage en Libye en raison de la situation sécuritaire volatile dans l’ensemble du pays, d’affrontements sans préavis entre groupes armés rivaux, de l’instabilité politique, du risque élevé",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7498,7 +7728,23 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(zone orange) Les déplacements dans les villes de Misrata et Benghazi sont déconseillés sauf raison impérative",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": ") en raison des risques élevés auxquels s’exposent les voyageurs",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
         "risques": [
@@ -7534,7 +7780,7 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-10-22T05:52:33.333253"
+      "scrapedAt": "2026-10-23T05:51:08.117342"
     },
     "MG": {
       "iso": "MG",
@@ -7553,7 +7799,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7821,7 +8067,7 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-10-22T05:52:36.968294"
+      "scrapedAt": "2026-10-23T05:51:11.671842"
     },
     "MW": {
       "iso": "MW",
@@ -7840,7 +8086,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8087,7 +8333,12 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Une nouvelle réglementation , en vigueur depuis le 3 janvier 2026, impose un visa d’entrée aux ressortissants français se rendant au Malawi. Le Malawi propose un visa électronique (e-Visa), dont la demande peut s’effectuer en ligne via le portail officiel : evisa.gov.mw . Étape 1 : se connecter à evisa.gov.mw et créer un compte",
@@ -8113,7 +8364,7 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-10-22T05:52:39.889234"
+      "scrapedAt": "2026-10-23T05:51:15.212510"
     },
     "ML": {
       "iso": "ML",
@@ -8132,7 +8383,7 @@
         "niveau": "modere",
         "titre": "MALI - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité de l’am",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8379,8 +8630,14 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "L’avance des frais médicaux est de règle au Mali. La carte vitale n’y est pas prise en compte. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour De nouvelles mesures réglementaires en frontière au Mali sont mises en place depuis le 14 janvier 2024 pour les ressortissants binationaux franco-maliens n’ayant pas de visa apposé sur leur passeport national français, seul le passeport malien en cours de validité est accepté. La tolérance accordée sur les passeports maliens expirés n’est plus en vigueur. Les ressortissants français sont soumis à une obligation de visa. Le visa est délivré par les consulats généraux du Mali à Paris ou à Lyon, pour une durée de trente jours, renouvelable sur place. Les voyageurs doivent disposer d’un passeport en cours de validité, d’un carnet de vaccination attestant ",
       "visaDetail": null,
@@ -8405,7 +8662,7 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-10-22T05:52:43.259227"
+      "scrapedAt": "2026-10-23T05:51:18.804133"
     },
     "MA": {
       "iso": "MA",
@@ -8424,7 +8681,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8727,7 +8984,7 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-10-22T05:52:46.703695"
+      "scrapedAt": "2026-10-23T05:51:24.174226"
     },
     "MR": {
       "iso": "MR",
@@ -8746,7 +9003,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9014,8 +9271,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre Hémorragique de Crimée Congo"
+        ],
+        "note": "Il existe à Nouakchott quelques pharmacies de qualité mais la disponibilité des médicaments est globalement irrégulière dans le pays. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restriction sanitaire pour l’entrée sur le territoire ont été levées. Pour les Français se rendant en Mauritanie, la procédure visa se décline comme suit, à compter du 5 janvier 2025 : 1/ obtention d’un visa électronique à l’adresse suivante : anrpts.gov.mr . Ce visa électronique devra être présenté avant l’embarquement.",
       "visaDetail": null,
@@ -9040,7 +9302,7 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-10-22T05:52:49.660036"
+      "scrapedAt": "2026-10-23T05:51:27.671980"
     },
     "MU": {
       "iso": "MU",
@@ -9059,7 +9321,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie – ",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9286,7 +9548,14 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Zika",
+          "Fièvre typhoïde",
+          "Hépatite A",
+          "MPOX"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les ressortissants français souhaitant séjourner moins de 3 mois à Maurice ne sont pas soumis à une obligation de visa. Un tampon autorisant l’entrée sur le territoire est apposé à l’arrivée sur le passeport par les services d’immigration. Les voyageurs doivent être en possession d’un passeport valide pour toute la durée du séjour et d’un billet retour. Des justificatifs attestant du lieu de séjour et de la capacité financière (100 USD par jour) peuvent aussi être exigés. La durée du séjour accordée (maximum de 3 mois) est à la discrétion des autorités chargées de l’immigration. Elle peut être réduite, notamment dans le cas d’un séjour chez l’habitant",
@@ -9312,7 +9581,7 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-10-22T05:52:52.160347"
+      "scrapedAt": "2026-10-23T05:51:30.883642"
     },
     "MZ": {
       "iso": "MZ",
@@ -9328,10 +9597,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "Mozambique - Faites preuve d'une grande prudence",
-        "texte": "Faites preuve d’une grande prudence au Mozambique en raison de la criminalité, du risque accru de manifestations et de débordements violents, des enlèvements et du terrorisme. Note profil tunisien : l",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9610,11 +9879,48 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "les îles au large de ces districts (Ibo et Quirimbas)",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "dans les districts de Memba, Errâti, Mecuburi, Lalaua et Nacaroa ainsi que la partie nord des districts de Nampula, Mon",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(en orange sur la carte) Des incursions djihadistes ont eu lieu dans les provinces limitrophes de Niassa et de Nampula",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "la partie occidentale de la province du Niassa ; les districts de Nacala (Sud), Monapo (Sud), Mossuril, Muecate (Nord",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "Les infrastructures de santé du pays sont très pauvres, surtout en province, et les médecins sont peu nombreux. Toute intervention médicale sérieuse doit, si possible, être réalisée à l’étranger (l’Afrique du Sud est la destination conseillée la plus proche). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Le passeport doit être valide 6 mois au-delà de la date de fin de séjour et disposer d’ au moins 2 pages vierges à la demande des autorités mozambicaines. Les autorités mozambicaines sont intransigeantes sur ce point. Pour les courts séjours, touristiques et affaires (réunion/conférence/stage..), de moins 30 jours au maximum au Mozambique, il est fait obligation de solliciter une autorisation en ligne via le portail evisa.gov.mz , choisir « visa de turismo » ou « visto de negócio » (« tourist Visa » ou « Business Visa » en anglais). Cette démarche est à initier entre 5 à 7 jours avant le voyage, son accusé de réception peut être demandé à l’embarqueme",
       "visaDetail": null,
@@ -9647,7 +9953,7 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-10-22T05:52:54.909972"
+      "scrapedAt": "2026-10-23T05:51:36.141999"
     },
     "NA": {
       "iso": "NA",
@@ -9666,7 +9972,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9969,7 +10275,7 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-10-22T05:52:58.230080"
+      "scrapedAt": "2026-10-23T05:51:39.600884"
     },
     "NE": {
       "iso": "NE",
@@ -9988,7 +10294,7 @@
         "niveau": "modere",
         "titre": "NIGER - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d’enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez envisag",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10281,7 +10587,7 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-10-22T05:53:01.614586"
+      "scrapedAt": "2026-10-23T05:51:43.011973"
     },
     "NG": {
       "iso": "NG",
@@ -10297,10 +10603,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "NIGÉRIA - ÉVITEZ TOUT VOYAGE NON ESSENTIEL",
-        "texte": "Évitez tout voyage non essentiel au Nigéria, y compris à Abuja, en raison des conditions de sécurité imprévisibles dans l’ensemble du pays et de l’important risque d’actes terroristes et criminels, d’",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10649,11 +10955,42 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": ") ; dans le Nord-Ouest, la zone frontalière avec le Niger et le Bénin, ainsi que l’intégralité des Etats de Kebbi, Zamfa",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "), Sokoto",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "), du Delta et d’Akwa Ibom ; dans la zone frontalière avec le Cameroun",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Les risques sanitaires sont importants au Nigéria et le système de soin est précaire. Outre les risques liés aux maladies et à l’insécurité générale, les accidents de la route sont nombreux en raison de l’état des routes et des véhicules ainsi que des habitudes de conduite locales. En dehors d’Abuja et de Lagos, les possibilités de soins d’urgence et d’hospitalisation dans des conditions convenables sont incertaines. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Le visa de tourisme ou d’affaires est obligatoire. Le passeport doit avoir une durée de validité de six mois au minimum après la date de retour. Les demandeurs doivent remplir leur dossier de demande de visa sur le portail de l’immigration nigérian et l’imprimer. Ils doivent ensuite se rendre au centre Online Integrated Solution (OIS) au 7, rue Daru 75008 Paris pour y déposer le dossier de demande de visa et s’acquitter des frais en vigueur. Pour de plus amples informations, prendre l’attache de l’ ambassade du Nigéria à Paris.",
       "visaDetail": null,
@@ -10678,7 +11015,7 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-10-22T05:53:04.540194"
+      "scrapedAt": "2026-10-23T05:51:47.013123"
     },
     "UG": {
       "iso": "UG",
@@ -10697,7 +11034,7 @@
         "niveau": "modere",
         "titre": "Ouganda - ÉVITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "Évitez tout voyage non essentiel en Ouganda en raison de l’impact régional de l’éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11000,7 +11337,12 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre Hémorragique de Crimée Congo"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les autorités ougandaises ont suspendu toutes les mesures de contrôle liées à la Covid-19. De nouvelles mesures sont toutefois susceptibles d’être mises en œuvre en cas de nouvelle épidémie. Il est donc fortement conseillé de suivre les recommandations des autorités locales et de consulter régulièrement le site de l’ambassade de France. La présentation d’un certificat de vaccination contre la fièvre jaune reste obligatoire pour l’entrée sur le territoire ougandais. Le visa d’entrée, au prix de 50 USD pour une entrée simple, est obligatoire pour les ressortissants français. Depuis 2016, un système de visa électronique a été mis en place. Il convient de",
@@ -11026,7 +11368,7 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-10-22T05:53:07.593426"
+      "scrapedAt": "2026-10-23T05:51:50.861536"
     },
     "RW": {
       "iso": "RW",
@@ -11045,7 +11387,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11302,7 +11644,12 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Au départ de Kigali , aucun test à la COVID n’est nécessaire sauf conditions d’entrée du pays de destination. Les tests COVID peuvent être fait sur demande sur le site du Rwanda biomedical centre (RBC) . Le Help Desk du RBC est joignable au (+250) 787 243 836, (+250) 788 793 446, ou (+250) 784 026 239. Toutes ces informations sont disponibles sur cette notice (PDF - 320 Ko). Conformément aux instructions des autorités rwandaises, tous les ressortissants rwandais doivent être en mesure de présenter un schéma vaccinal complet (double doses de vaccin + dose de rappel) pour voyager à l’extérieur du pays. Cette mesure s’applique à tous les ressortissants r",
@@ -11328,7 +11675,7 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-10-22T05:53:10.116798"
+      "scrapedAt": "2026-10-23T05:51:54.252714"
     },
     "ST": {
       "iso": "ST",
@@ -11347,7 +11694,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux côtières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessai",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11569,8 +11916,17 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Paludisme",
+          "Zika",
+          "Fièvre typhoïde",
+          "Hépatite A",
+          "Rage",
+          "Tuberculose"
+        ],
+        "note": "Le système de santé à Sao Tomé-et-Principe est très peu développé. Les hôpitaux sont rustiques et mal équipés. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les ressortissants français sont exemptés de visa d’entrée pour un séjour d’une durée inférieure à 15 jours. Il est néanmoins nécessaire de voyager avec un passeport valable 6 mois après la date de retour. Les voyageurs transitant par le Gabon pour se rendre à Sao Tomé-et-Principe, sont invités à vérifier qu’ils disposent d’un visa à plusieurs entrées pour le Gabon (une pour l’entrée sur le territoire gabonais, avant de rejoindre Sao Tomé-et-Principe, et une seconde pour le retour au Gabon, après le séjour à Sao Tomé-et-Principe). Pour un séjour de plus de 15 jours à Sao Tomé-et-Principe, un passeport valable 6 mois après la date de retour et un visa ",
       "visaDetail": null,
@@ -11595,7 +11951,7 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-10-22T05:53:12.525717"
+      "scrapedAt": "2026-10-23T05:51:57.611376"
     },
     "SN": {
       "iso": "SN",
@@ -11614,7 +11970,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d’attaque terroriste ne peut être exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pou",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11873,10 +12229,31 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(en orange sur la carte) Les zones frontalières avec le Mali et une partie de la Mauritanie (dans le département de Mat",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "en raison de plusieurs incidents sécuritaires signalés dans ces zones",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre jaune"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Toutes les mesures de restrictions sanitaires pour l’entrée sur le territoire ont été levées. Les ressortissants français désirant se rendre au Sénégal pour un séjour de moins de 3 mois doivent obligatoirement être munis de leur passeport avec une validité supérieure à 6 mois. Ils sont exemptés de visa. Pour un séjour de plus de 3 mois , une carte de résident est obligatoire et doit être demandée à la préfecture du domicile, aux services de la direction de la Police des étrangers et des titres de voyage. Il n’existe officiellement aucune restriction des déplacements par voie terrestre entre le Sénégal et le Mali. Toutefois, vous êtes invité(e) à consu",
@@ -11910,7 +12287,7 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-10-22T05:53:15.137812"
+      "scrapedAt": "2026-10-23T05:52:01.141724"
     },
     "SL": {
       "iso": "SL",
@@ -11929,7 +12306,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12218,7 +12595,7 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-10-22T05:53:18.554780"
+      "scrapedAt": "2026-10-23T05:52:04.848197"
     },
     "SO": {
       "iso": "SO",
@@ -12237,7 +12614,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12505,8 +12882,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre jaune"
+        ],
+        "note": "Le système de santé en Somalie est désorganisé et peu performant. L’accès à des soins de qualité est loin d’être garanti et l’approvisionnement en médicaments, même courants, n’est pas assuré. Les conditions locales de conservation des médicaments peuvent compromettre leur pleine efficacité et de nombreuses contrefaçons de médicaments sont en circulation. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour L’obtention d’un visa est nécessaire afin d’entrer sur le territoire somalien. Celui-ci peut être obtenu auprès de l’ambassade de Somalie en France. Un visa à entrée unique, d’une validité d’un mois, peut être demandé à l’arrivée à l’aéroport international de Mogadiscio moyennant la somme de 60 USD en espèces. Une procédure de visa à l’arrivée spécifique est également ouverte pour les ressortissants français lors de leur entrée sur le territoire du Somaliland.",
       "visaDetail": null,
@@ -12531,7 +12913,7 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-10-22T05:53:21.471732"
+      "scrapedAt": "2026-10-23T05:52:08.390983"
     },
     "SD": {
       "iso": "SD",
@@ -12547,10 +12929,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "Hostilités en cours à travers le Soudan",
-        "texte": "Depuis avril 2023, de violents combats opposent l'armée soudanaise, un groupe paramilitaire et d'autres groupes armés affiliés, sur l’ensemble du territoire. L’armée soudanaise contrôle la partie orie",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12794,10 +13176,41 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "dans les cinq États fédérés du Darfour, où la situation sécuritaire reste très instable",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "au Kordofan où le conflit s’est récemment étendu",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "rouge",
+          "nom": "la zone contestée du Triangle d’el Fashaga",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Paludisme"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour L’accès au territoire du Soudan est soumis à l’obtention préalable d’un visa, y compris pour les passeports officiels. Depuis le déclenchement du conflit en avril 2023, les services de l’État soudanais sont cependant affectés par les combats et il est fortement déconseillé de se rendre dans le pays. Avant le conflit, pour obtenir un visa d’entrée, il fallait s’adresser à l’ambassade du Soudan de son lieu de résidence et compter un délai pouvant aller jusqu’à 5 semaines. Le Soudan délivre rarement des visas valables pour plusieurs entrées. Il convient de disposer d’un passeport d’une validité minimale de 6 mois à la date d’entrée sur le territoire soud",
@@ -12823,7 +13236,7 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-10-22T05:53:24.150509"
+      "scrapedAt": "2026-10-23T05:52:12.100591"
     },
     "SS": {
       "iso": "SS",
@@ -12842,7 +13255,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Il existe un risque d'enlèvement, en particulier dans les zones isolées. Les groupes criminels et les milices s'en prennent aussi bien aux ressortissants nationaux qu'aux étrangers dans le but d'obten",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13095,8 +13508,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Fièvre jaune"
+        ],
+        "note": "Au Soudan du Sud, le système de santé est défaillant et l’offre de soins limitée. Il en va de même en matière d’accès aux traitements et produits pharmaceutiques. En cas de maladie, d’incident de santé ou d’accident, il y aura le plus souvent lieu de procéder dans les plus brefs délais à une évacuation, médicale ou non, sur une des destinations les plus proches (Nairobi ou Addis Abeba). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Pour entrer sur le territoire sud-soudanais, les ressortissants français doivent être en possession d’un visa, être vaccinés contre la fièvre jaune et munis d’un carnet de vaccination. Pour tout séjour de plus de trois jours, il est nécessaire de se faire enregistrer dès son arrivée sur le territoire sud-soudanais auprès du Département de l’immigration. Dans la mesure où la délivrance d’un visa à l’aéroport de Djouba est aléatoire, les compagnies aériennes peuvent refuser d’embarquer les personnes qui ne sont pas en possession d’un visa valide avant leur départ pour le Soudan du Sud. Pour les personnes résidant en France, la demande peut être faite au",
       "visaDetail": null,
@@ -13121,7 +13539,7 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-10-22T05:53:27.241166"
+      "scrapedAt": "2026-10-23T05:52:15.781384"
     },
     "TZ": {
       "iso": "TZ",
@@ -13140,7 +13558,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13469,11 +13887,32 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(en orange sur la carte) Régions occidentales frontalières avec le Burundi La présence potentielle de groupes armés ou",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "de se rendre dans ces parties du territoire",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre de la vallée du Rift (FVR)",
+          "Paludisme"
+        ],
+        "note": "En cas d’urgence médicale vitale en dehors de Dar-es-Salam et de sa région proche, il est vivement recommandé, si le patient est transportable, de le faire évacuer vers l’hôpital Aga Khan ou Saifee Hospital de Dar-es-Salam, NSK à Arusha ou Medexpress à Zansibar. Le patient peut également être directement évacué par avion au Kenya ou en Afrique du Sud (voir \"Contacts utiles\", dans le menu déroulant gauche de la présente fiche). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Les passeports temporaires sont reconnus par les autorités locales. Les demandes de visas s’effectuent en ligne sur le site du gouvernement . Les autorités tanzaniennes exigent un passeport dont la validité est supérieure à 6 mois à compter de la date d’arrivée en Tanzanie.",
       "visaDetail": null,
@@ -13498,7 +13937,7 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-10-22T05:53:30.200811"
+      "scrapedAt": "2026-10-23T05:52:19.580457"
     },
     "TD": {
       "iso": "TD",
@@ -13517,7 +13956,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13811,7 +14250,7 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-10-22T05:53:33.587430"
+      "scrapedAt": "2026-10-23T05:52:24.992210"
     },
     "TG": {
       "iso": "TG",
@@ -13830,7 +14269,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - Évitez tout voyage",
         "texte": "Évitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d’enlèvement. Cet avertissement inclus la ville ainsi que la r",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14084,7 +14523,23 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(orange) Région des Savanes Décrété en 2022 pour lutter contre la menace terroriste, l’état d’urgence a été prorogé jus",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "tout comme les séjours à Dapaong",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
         "risques": [
@@ -14119,7 +14574,7 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-10-22T05:53:36.797747"
+      "scrapedAt": "2026-10-23T05:52:30.345389"
     },
     "TN": {
       "iso": "TN",
@@ -14135,10 +14590,10 @@
         "diplomatie.gouv.fr"
       ],
       "alertePrincipale": {
-        "niveau": "modere",
-        "titre": "Tunisie - Faites preuve d'une grande prudence",
-        "texte": "Faites preuve d’une grande prudence en Tunisie en raison du risque terroriste à l’échelle du pays.",
-        "date": "22 Oct 2026"
+        "niveau": "eleve",
+        "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
+        "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14402,10 +14857,34 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "rouge",
+          "nom": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente",
+          "desc": "Formellement déconseillé"
+        },
+        {
+          "couleur": "orange",
+          "nom": "(en orange sur la carte) Sud du pays Les déplacements sont déconseillés, sauf raison impérative, dans la zone désertiqu",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "orange",
+          "nom": "car ayant pu abriter différentes activités terroristes, et proches de zones militarisées ou minées",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
+        "risques": [
+          "Fièvre typhoïde",
+          "Rage"
+        ],
         "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Depuis le 1er janvier 2025, tous les visiteurs sont tenus de présenter un passeport d’une validité minimale de 3 mois à la date d’entrée sur le territoire. Le visa n’est pas nécessaire pour un séjour d’une durée inférieure ou égale à trois mois. Au-delà de trois mois, un visa et une carte de séjour doivent être obtenus auprès du ministère de l’Intérieur. En cas de séjour irrégulier, la sortie du territoire doit être autorisée par la Direction des frontières et des étrangers et elle est généralement subordonnée au paiement d’une amende dont le montant est proportionnel à la durée de dépassement constatée.",
@@ -14431,7 +14910,7 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-10-22T05:53:39.306258"
+      "scrapedAt": "2026-10-23T05:52:33.822853"
     },
     "ZA": {
       "iso": "ZA",
@@ -14450,7 +14929,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour rançons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres e",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14737,8 +15216,13 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme"
+        ],
+        "note": "Les soins prodigués dans les établissements hospitaliers privés sud-africains sont de bonne qualité mais très coûteux. Même en cas d’urgence, sans la présentation de garanties de paiement ou d’une assurance-santé, un patient étranger pourra se voir refuser l’accueil ainsi que toute prise en charge médicale. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Depuis le 23 juin 2022, l’obligation de vaccination contre le Covid-19 est supprimée pour les voyageurs se rendant en Afrique du Sud, que ce soit par voie aérienne, terrestre ou maritime. Pour toute question, il est recommandé de se rapprocher de la section consulaire de l’ ambassade d’Afrique du Sud à Paris . Pour des séjours touristiques en Afrique du Sud inférieurs à 90 jours, les titulaires d’un passeport français (ordinaire, diplomatique ou de service) sont dispensés de visa préalable . Un permis de séjour de 90 jours sera délivré à la frontière et à l’entrée sur le territoire sud-africain.",
       "visaDetail": null,
@@ -14763,7 +15247,7 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-10-22T05:53:41.990671"
+      "scrapedAt": "2026-10-23T05:52:37.664473"
     },
     "ZM": {
       "iso": "ZM",
@@ -14782,7 +15266,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15046,11 +15530,28 @@
           "texte": "La décision de voyager est un choix qui vous appartient et vous êtes responsable de votre sécurité personnelle à l'étranger. Nous prenons très au sérieux la sécurité des ressortissants tunisiens à l'étranger et fournissons des renseignements fiables et à jour dans nos Conseils aux voyageurs afin que vous puissiez prendre des décisions éclairées concernant vos voyages à l'étranger. Si vous avez besoin d'aide consulaire à l'étranger, nous ferons de notre mieux pour vous aider. Cependant, certaines contraintes peuvent limiter la capacité du ministère tunisien des Affaires étrangères à fournir des services. Renseignez-vous davantage sur les services consulaires ressortissants tunisiens ."
         }
       ],
-      "zonesVigilance": [],
+      "zonesVigilance": [
+        {
+          "couleur": "orange",
+          "nom": "(en orange sur la carte) Frontières nord Globalement calme, la Zambie est exposée sporadiquement à des mouvements de pe",
+          "desc": "Déconseillé sauf raison impérative"
+        },
+        {
+          "couleur": "jaune",
+          "nom": "Reste du pays",
+          "desc": "Vigilance renforcée"
+        }
+      ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "Si les premiers soins sont accessibles à Lusaka, certaines affections et certains traumatismes ne peuvent être pris en charge qu’en Afrique du Sud (ou en France si l’état du patient le permet). Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour En cas de dépassement de séjour sans prolongation du visa, les autorités zambiennes considèrent qu’il s’agit d’un dépassement illégal soumis à incarcération, le temps de s’acquitter d’une amende de 18 000 ZMW. Les autorités locales sont particulièrement strictes en la matière. Courriels : pro@zambiaimmigration.gov.zm , zambiavisa@zambiaimmigration.gov.zm",
       "visaDetail": null,
@@ -15075,7 +15576,7 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-10-22T05:53:44.644067"
+      "scrapedAt": "2026-10-23T05:52:41.323336"
     },
     "ZW": {
       "iso": "ZW",
@@ -15094,7 +15595,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d’enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l’enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15357,8 +15858,13 @@
       ],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Dengue",
+          "Fièvre jaune",
+          "Paludisme",
+          "Zika"
+        ],
+        "note": "Les établissements publics ou privés au Zimbabwé n’admettent aucun patient qui n’ait acquitté dès l’entrée une provision – parfois substantielle – en argent liquide (USD), même si l’on présente une carte d’assurance. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conseils aux voyageurs - Entrée / séjour Un visa d’entrée est nécessaire pour les ressortissants français et peut être délivré soit avant le départ sur evisa.gov.zw soit à l’arrivée (à titre indicatif, entrée simple : 30 dollars US ; double entrée : 45 dollars US ; règlement en dollars et en espèces, ces tarifs étant susceptibles d’évolution à tout moment). A noter que le pré-enregistrement sur evisa.gov.zw est fortement recommandé avant le départ.",
       "visaDetail": null,
@@ -15383,7 +15889,7 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-10-22T05:53:47.552754"
+      "scrapedAt": "2026-10-23T05:52:44.720852"
     },
     "SC": {
       "iso": "SC",
@@ -15402,7 +15908,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ai",
-        "date": "22 Oct 2026"
+        "date": "23 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15604,8 +16110,14 @@
       "zonesVigilance": [],
       "sante": {
         "vaccins": [],
-        "risques": [],
-        "note": "Vérifier la couverture santé/rapatriement avant le départ ; infrastructures locales variables selon les régions."
+        "risques": [
+          "Chikungunya",
+          "Dengue",
+          "Zika",
+          "Hépatite A",
+          "Leptospirose"
+        ],
+        "note": "L’état sanitaire du pays est satisfaisant pour les soins primaires (un hôpital à Victoria et centres de santé dans quelques districts) ; les prises en charge plus spécialisées nécessitent le plus souvent, notamment en cas d’accident, l’organisation d’une évacuation médicale vers l’étranger ou La Réunion. Assurance santé et rapatriement fortement recommandée."
       },
       "visa": "Conditions à vérifier auprès de la représentation du pays.",
       "visaDetail": null,
@@ -15630,7 +16142,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-10-22T05:53:50.059454"
+      "scrapedAt": "2026-10-23T05:52:47.978516"
     }
   }
 }
