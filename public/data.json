@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T07:00:04.382094",
-  "totalChanged": 2,
+  "generatedAt": "2026-10-31T06:51:26.955228",
+  "totalChanged": 1,
   "countries": {
     "DZ": {
       "iso": "DZ",
@@ -19,7 +19,7 @@
         "niveau": "eleve",
         "titre": "certains pays voisins : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -365,7 +365,7 @@
         }
       },
       "carteVigilance": "/maps/DZ.jpg",
-      "scrapedAt": "2026-10-30T06:53:17.807101"
+      "scrapedAt": "2026-10-31T06:46:31.435394"
     },
     "AO": {
       "iso": "AO",
@@ -384,7 +384,7 @@
         "niveau": "modere",
         "titre": "Province de Cabinda",
         "texte": "Des groupes militants revendiquant l’indépendance sont actifs dans la province de Cabinda, et des affrontements avec les forces de sécurité peuvent se produire. Des meurtres, des enlèvements et des ag",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -663,7 +663,7 @@
         }
       },
       "carteVigilance": "/maps/AO.jpg",
-      "scrapedAt": "2026-10-30T06:53:24.835028"
+      "scrapedAt": "2026-10-31T06:46:37.997243"
     },
     "BJ": {
       "iso": "BJ",
@@ -682,7 +682,7 @@
         "niveau": "eleve",
         "titre": "dans : les zones frontalières du Burkina Faso et du Niger ; la totalité des parcs nationaux de la Pendjari et du W, les : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -991,7 +991,7 @@
         }
       },
       "carteVigilance": "/maps/BJ.jpg",
-      "scrapedAt": "2026-10-30T06:53:39.785934"
+      "scrapedAt": "2026-10-31T06:46:44.805976"
     },
     "BW": {
       "iso": "BW",
@@ -1010,7 +1010,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1248,7 +1248,7 @@
         }
       },
       "carteVigilance": "/maps/BW.jpg",
-      "scrapedAt": "2026-10-30T06:53:48.661479"
+      "scrapedAt": "2026-10-31T06:46:51.668800"
     },
     "BF": {
       "iso": "BF",
@@ -1267,7 +1267,7 @@
         "niveau": "eleve",
         "titre": "le contexte actuel de fortes tensions régionales, tout déplacement au Burkina Faso est formellement déconseillé : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1532,7 +1532,7 @@
         }
       },
       "carteVigilance": "/maps/BF.jpg",
-      "scrapedAt": "2026-10-30T06:53:55.576709"
+      "scrapedAt": "2026-10-31T06:46:56.636251"
     },
     "BI": {
       "iso": "BI",
@@ -1551,7 +1551,7 @@
         "niveau": "modere",
         "titre": "Provinces de Bubanza et de Cibitoke et le parc de la Kibira",
         "texte": "Les zones frontalières dans les provinces de Bubanza et de Cibitoke, ainsi que celles dans le parc de la Kibira, peuvent être affectées par des débordements de conflits en cours en République démocrat",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -1865,7 +1865,7 @@
         }
       },
       "carteVigilance": "/maps/BI.jpg",
-      "scrapedAt": "2026-10-30T06:54:02.062315"
+      "scrapedAt": "2026-10-31T06:47:01.422431"
     },
     "CM": {
       "iso": "CM",
@@ -1884,7 +1884,7 @@
         "niveau": "eleve",
         "titre": "dans une bande de 30 km le long de la frontière du Cameroun, du lac Tchad jusqu’au sud de la RCA en raison de la situat : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2229,7 +2229,7 @@
         }
       },
       "carteVigilance": "/maps/CM.jpg",
-      "scrapedAt": "2026-10-30T06:54:07.248460"
+      "scrapedAt": "2026-10-31T06:47:06.053483"
     },
     "CV": {
       "iso": "CV",
@@ -2248,7 +2248,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2289,7 +2289,7 @@
         }
       },
       "carteVigilance": "/maps/CV.jpg",
-      "scrapedAt": "2026-10-30T06:54:12.749249"
+      "scrapedAt": "2026-10-31T06:47:11.976259"
     },
     "CF": {
       "iso": "CF",
@@ -2308,7 +2308,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des groupes armés et des criminels ciblent des étrangers, des employés d’organisations internationales, ainsi que des ressortissants centrafricains. Le risque est particulièrement élevé en dehors de B",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2577,7 +2577,7 @@
         }
       },
       "carteVigilance": "/maps/CF.jpg",
-      "scrapedAt": "2026-10-30T06:54:19.482718"
+      "scrapedAt": "2026-10-31T06:47:16.647410"
     },
     "KM": {
       "iso": "KM",
@@ -2596,7 +2596,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières comoriennes et parfois plus loin au large. On recommande aux navigateurs de prendre les précautions qui s’imposent. Carte en direct sur la ",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2849,7 +2849,7 @@
         }
       },
       "carteVigilance": "/maps/KM.jpg",
-      "scrapedAt": "2026-10-30T06:54:25.703141"
+      "scrapedAt": "2026-10-31T06:47:20.884131"
     },
     "CG": {
       "iso": "CG",
@@ -2868,7 +2868,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -2921,7 +2921,7 @@
         }
       },
       "carteVigilance": "/maps/CG.jpg",
-      "scrapedAt": "2026-10-30T06:54:31.116600"
+      "scrapedAt": "2026-10-31T06:47:24.800934"
     },
     "CD": {
       "iso": "CD",
@@ -2940,7 +2940,7 @@
         "niveau": "eleve",
         "titre": "dans le parc national des Virunga, le parc de Kahuzi-Biega et le parc de la Garamba, des enlèvements étant régulièremen : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3013,7 +3013,7 @@
         }
       },
       "carteVigilance": "/maps/CD.jpg",
-      "scrapedAt": "2026-10-30T06:54:40.069514"
+      "scrapedAt": "2026-10-31T06:47:28.902613"
     },
     "CI": {
       "iso": "CI",
@@ -3032,7 +3032,7 @@
         "niveau": "eleve",
         "titre": "quel que soit le motif dans le nord du district du Zanzan et l’est du district des Savanes ainsi que dans le parc natio : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3095,7 +3095,7 @@
         }
       },
       "carteVigilance": "/maps/CI.jpg",
-      "scrapedAt": "2026-10-30T06:54:48.168401"
+      "scrapedAt": "2026-10-31T06:47:32.615844"
     },
     "DJ": {
       "iso": "DJ",
@@ -3114,7 +3114,7 @@
         "niveau": "eleve",
         "titre": "le pays mais les frontières terrestres et maritimes sont à éviter : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3388,7 +3388,7 @@
         }
       },
       "carteVigilance": "/maps/DJ.jpg",
-      "scrapedAt": "2026-10-30T06:54:58.042208"
+      "scrapedAt": "2026-10-31T06:47:37.066729"
     },
     "EG": {
       "iso": "EG",
@@ -3407,7 +3407,7 @@
         "niveau": "eleve",
         "titre": "la zone désertique, en direction de la frontière libyenne sont formellement déconseillés, à l’exception de ceux dans la : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -3761,7 +3761,7 @@
         }
       },
       "carteVigilance": "/maps/EG.jpg",
-      "scrapedAt": "2026-10-30T06:55:04.744567"
+      "scrapedAt": "2026-10-31T06:47:41.660825"
     },
     "ER": {
       "iso": "ER",
@@ -3780,7 +3780,7 @@
         "niveau": "eleve",
         "titre": "dans ces régions : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4104,7 +4104,7 @@
         }
       },
       "carteVigilance": "/maps/ER.jpg",
-      "scrapedAt": "2026-10-30T06:55:10.934828"
+      "scrapedAt": "2026-10-31T06:47:46.163470"
     },
     "SZ": {
       "iso": "SZ",
@@ -4123,7 +4123,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Bien qu’aucun attentat n’ait été perpétré récemment en Eswatini, il existe une menace terroriste.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4381,7 +4381,7 @@
         }
       },
       "carteVigilance": "/maps/SZ.jpg",
-      "scrapedAt": "2026-10-30T06:55:19.377724"
+      "scrapedAt": "2026-10-31T06:47:54.249168"
     },
     "ET": {
       "iso": "ET",
@@ -4400,7 +4400,7 @@
         "niveau": "eleve",
         "titre": "la région de la vallée de l’Omo, à l’exception du territoire des Mursi en raison d'incidents récents avec des touristes : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -4824,7 +4824,7 @@
         }
       },
       "carteVigilance": "/maps/ET.jpg",
-      "scrapedAt": "2026-10-30T06:55:26.474013"
+      "scrapedAt": "2026-10-31T06:48:01.189802"
     },
     "GA": {
       "iso": "GA",
@@ -4843,7 +4843,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates se livrent à des attaques dans les eaux côtières et parfois aussi plus loin au large. Les navigateurs doivent prendre les précautions qui s'imposent. Carte en direct sur la piraterie – Int",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5071,7 +5071,7 @@
         }
       },
       "carteVigilance": "/maps/GA.jpg",
-      "scrapedAt": "2026-10-30T06:55:38.808188"
+      "scrapedAt": "2026-10-31T06:48:07.804770"
     },
     "GM": {
       "iso": "GM",
@@ -5090,7 +5090,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5323,7 +5323,7 @@
         }
       },
       "carteVigilance": "/maps/GM.jpg",
-      "scrapedAt": "2026-10-30T06:55:45.179641"
+      "scrapedAt": "2026-10-31T06:48:14.215861"
     },
     "GH": {
       "iso": "GH",
@@ -5342,7 +5342,7 @@
         "niveau": "modere",
         "titre": "Zone frontalière avec le Burkina Faso - Évitez tout voyage non essentiel",
         "texte": "Évitez tout voyage non essentiel à moins de 25 km de la frontière avec le Burkina Faso en raison du risque de conflit intercommunautaire et de l’activité terroriste.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5656,7 +5656,7 @@
         }
       },
       "carteVigilance": "/maps/GH.jpg",
-      "scrapedAt": "2026-10-30T06:55:51.976408"
+      "scrapedAt": "2026-10-31T06:48:18.798782"
     },
     "GN": {
       "iso": "GN",
@@ -5675,7 +5675,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Il existe une menace terroriste. Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de t",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -5975,7 +5975,7 @@
         }
       },
       "carteVigilance": "/maps/GN.jpg",
-      "scrapedAt": "2026-10-30T06:55:58.317953"
+      "scrapedAt": "2026-10-31T06:48:24.907954"
     },
     "GQ": {
       "iso": "GQ",
@@ -5994,7 +5994,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, et dans certains cas, plus loin dans la mer. Les navigateurs doivent prendre les précautions qui",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6243,7 +6243,7 @@
         }
       },
       "carteVigilance": "/maps/GQ.jpg",
-      "scrapedAt": "2026-10-30T06:56:07.037295"
+      "scrapedAt": "2026-10-31T06:48:33.089223"
     },
     "GW": {
       "iso": "GW",
@@ -6262,7 +6262,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6485,7 +6485,7 @@
         }
       },
       "carteVigilance": "/maps/GW.jpg",
-      "scrapedAt": "2026-10-30T06:56:17.203068"
+      "scrapedAt": "2026-10-31T06:48:42.632156"
     },
     "KE": {
       "iso": "KE",
@@ -6504,7 +6504,7 @@
         "niveau": "eleve",
         "titre": "l’ensemble de la zone, les navires bas et lents sur l’eau étant les plus vulnérables à des actions d’abordage hostiles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -6908,7 +6908,7 @@
         }
       },
       "carteVigilance": "/maps/KE.jpg",
-      "scrapedAt": "2026-10-30T06:56:24.233753"
+      "scrapedAt": "2026-10-31T06:48:47.332856"
     },
     "LS": {
       "iso": "LS",
@@ -6927,7 +6927,7 @@
         "niveau": "faible",
         "titre": "Aucune alerte majeure en cours",
         "texte": "Aucun événement de sécurité majeur signalé récemment par les sources officielles. Vigilance habituelle recommandée.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7136,7 +7136,7 @@
         }
       },
       "carteVigilance": "/maps/LS.jpg",
-      "scrapedAt": "2026-10-30T06:56:30.765666"
+      "scrapedAt": "2026-10-31T06:48:51.440425"
     },
     "LR": {
       "iso": "LR",
@@ -7155,7 +7155,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Les endroits suivants pourraient être ciblés : les édifices gouvernementaux, y compris les écoles; les aéroports, ainsi que d’autres plaques tournantes et réseaux de transport;",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7440,7 +7440,7 @@
         }
       },
       "carteVigilance": "/maps/LR.jpg",
-      "scrapedAt": "2026-10-30T06:56:37.221099"
+      "scrapedAt": "2026-10-31T06:48:55.763381"
     },
     "LY": {
       "iso": "LY",
@@ -7459,7 +7459,7 @@
         "niveau": "modere",
         "titre": "LIBYE - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage en Libye en raison de la situation sécuritaire volatile dans l’ensemble du pays, d’affrontements sans préavis entre groupes armés rivaux, de l’instabilité politique, du risque élevé",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -7780,7 +7780,7 @@
         }
       },
       "carteVigilance": "/maps/LY.jpg",
-      "scrapedAt": "2026-10-30T06:56:45.407597"
+      "scrapedAt": "2026-10-31T06:49:00.217212"
     },
     "MG": {
       "iso": "MG",
@@ -7799,7 +7799,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8067,7 +8067,7 @@
         }
       },
       "carteVigilance": "/maps/MG.jpg",
-      "scrapedAt": "2026-10-30T06:56:51.843010"
+      "scrapedAt": "2026-10-31T06:49:04.871984"
     },
     "MW": {
       "iso": "MW",
@@ -8086,7 +8086,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8364,7 +8364,7 @@
         }
       },
       "carteVigilance": "/maps/MW.jpg",
-      "scrapedAt": "2026-10-30T06:56:58.232825"
+      "scrapedAt": "2026-10-31T06:49:09.147291"
     },
     "ML": {
       "iso": "ML",
@@ -8383,7 +8383,7 @@
         "niveau": "modere",
         "titre": "MALI - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Mali en raison du risque de terrorisme, d'enlèvement, de banditisme et des pénuries de carburant. Si la situation en matière de sécurité au Mali se détériore, la capacité de l’am",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8662,7 +8662,7 @@
         }
       },
       "carteVigilance": "/maps/ML.jpg",
-      "scrapedAt": "2026-10-30T06:57:04.587707"
+      "scrapedAt": "2026-10-31T06:49:13.744134"
     },
     "MA": {
       "iso": "MA",
@@ -8681,7 +8681,7 @@
         "niveau": "modere",
         "titre": "Maroc - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence au Maroc en raison de la menace que pose le terrorisme.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -8984,7 +8984,7 @@
         }
       },
       "carteVigilance": "/maps/MA.jpg",
-      "scrapedAt": "2026-10-30T06:57:11.241966"
+      "scrapedAt": "2026-10-31T06:49:21.495928"
     },
     "MR": {
       "iso": "MR",
@@ -9003,7 +9003,7 @@
         "niveau": "eleve",
         "titre": "dans les zones situées : au nord de la ville de Zouérate ; à l’est d’une ligne Ghallaouia – Akhrejit ; au nord-est d’un : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9302,7 +9302,7 @@
         }
       },
       "carteVigilance": "/maps/MR.jpg",
-      "scrapedAt": "2026-10-30T06:57:21.596218"
+      "scrapedAt": "2026-10-31T06:49:26.080916"
     },
     "MU": {
       "iso": "MU",
@@ -9321,7 +9321,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans l'Océan indien. Les navigateurs doivent prendre les précautions qui s’imposent. Carte en direct sur la piraterie – ",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9581,7 +9581,7 @@
         }
       },
       "carteVigilance": "/maps/MU.jpg",
-      "scrapedAt": "2026-10-30T06:57:27.473426"
+      "scrapedAt": "2026-10-31T06:49:30.305076"
     },
     "MZ": {
       "iso": "MZ",
@@ -9600,7 +9600,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble de la province du Cabo Delgado, y compris son chef-lieu Pemba, ainsi que dans le tiers Est de la provin : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -9953,7 +9953,7 @@
         }
       },
       "carteVigilance": "/maps/MZ.jpg",
-      "scrapedAt": "2026-10-30T06:57:36.772756"
+      "scrapedAt": "2026-10-31T06:49:37.326058"
     },
     "NA": {
       "iso": "NA",
@@ -9972,7 +9972,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10275,7 +10275,7 @@
         }
       },
       "carteVigilance": "/maps/NA.jpg",
-      "scrapedAt": "2026-10-30T06:57:43.019750"
+      "scrapedAt": "2026-10-31T06:49:43.931701"
     },
     "NE": {
       "iso": "NE",
@@ -10294,7 +10294,7 @@
         "niveau": "modere",
         "titre": "NIGER - ÉVITEZ TOUT VOYAGE",
         "texte": "Évitez tout voyage au Niger en raison de l'instabilité politique et des risques de terrorisme et d’enlèvement. La situation politique et sécuritaire au Niger demeure imprévisible. Vous devriez envisag",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -10587,7 +10587,7 @@
         }
       },
       "carteVigilance": "/maps/NE.jpg",
-      "scrapedAt": "2026-10-30T06:57:49.322741"
+      "scrapedAt": "2026-10-31T06:49:48.581472"
     },
     "NG": {
       "iso": "NG",
@@ -10606,7 +10606,7 @@
         "niveau": "eleve",
         "titre": "le Nord-Est, les États de Borno, Yobe, Gombe, Bauchi, Adamawa au nord de la Bénoué, Jigawa et Kano, (à l’exception de l : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11015,7 +11015,7 @@
         }
       },
       "carteVigilance": "/maps/NG.jpg",
-      "scrapedAt": "2026-10-30T06:57:57.174697"
+      "scrapedAt": "2026-10-31T06:49:53.242637"
     },
     "UG": {
       "iso": "UG",
@@ -11034,7 +11034,7 @@
         "niveau": "modere",
         "titre": "Ouganda - ÉVITEZ TOUT VOYAGE NON ESSENTIEL",
         "texte": "Évitez tout voyage non essentiel en Ouganda en raison de l’impact régional de l’éclosion de maladie Ebola, ainsi que de la menace terroriste et du taux de criminalité élevé.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11368,7 +11368,7 @@
         }
       },
       "carteVigilance": "/maps/UG.jpg",
-      "scrapedAt": "2026-10-30T06:58:05.212707"
+      "scrapedAt": "2026-10-31T06:49:58.139394"
     },
     "RW": {
       "iso": "RW",
@@ -11387,7 +11387,7 @@
         "niveau": "modere",
         "titre": "Cybercriminalité",
         "texte": "La cybercriminalité, les attaques de logiciels malveillants et l'extorsion en ligne surviennent au Rwanda. Les criminels peuvent compromettre les réseaux Wi-Fi publics afin de voler des données person",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11675,7 +11675,7 @@
         }
       },
       "carteVigilance": "/maps/RW.jpg",
-      "scrapedAt": "2026-10-30T06:58:11.461748"
+      "scrapedAt": "2026-10-31T06:50:04.743089"
     },
     "ST": {
       "iso": "ST",
@@ -11694,7 +11694,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des attaques de pirates et des vols à main armée contre des navires surviennent dans les eaux côtières et, dans certains cas, plus loin en mer. Les voyageurs devraient prendre les précautions nécessai",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -11951,7 +11951,7 @@
         }
       },
       "carteVigilance": "/maps/ST.jpg",
-      "scrapedAt": "2026-10-30T06:58:22.794477"
+      "scrapedAt": "2026-10-31T06:50:11.102785"
     },
     "SN": {
       "iso": "SN",
@@ -11970,7 +11970,7 @@
         "niveau": "modere",
         "titre": "Terrorisme",
         "texte": "Des attaques terroristes ont eu lieu dans certains pays frontaliers. La possibilité d’attaque terroriste ne peut être exclue, notamment dans la zone frontalière avec le Mali. Les endroits suivants pou",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12287,7 +12287,7 @@
         }
       },
       "carteVigilance": "/maps/SN.jpg",
-      "scrapedAt": "2026-10-30T06:58:29.154003"
+      "scrapedAt": "2026-10-31T06:50:15.411783"
     },
     "SL": {
       "iso": "SL",
@@ -12306,7 +12306,7 @@
         "niveau": "modere",
         "titre": "Régions frontalières",
         "texte": "Les zones frontalières sont mal surveillées par les autorités locales. Les zones frontalières avec la Guinée et le Libéria sont affectées par des conflits territoriaux en cours, des opérations militai",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12595,7 +12595,7 @@
         }
       },
       "carteVigilance": "/maps/SL.jpg",
-      "scrapedAt": "2026-10-30T06:58:35.772548"
+      "scrapedAt": "2026-10-31T06:50:22.060818"
     },
     "SO": {
       "iso": "SO",
@@ -12614,7 +12614,7 @@
         "niveau": "eleve",
         "titre": "la zone : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -12913,7 +12913,7 @@
         }
       },
       "carteVigilance": "/maps/SO.jpg",
-      "scrapedAt": "2026-10-30T06:58:42.602182"
+      "scrapedAt": "2026-10-31T06:50:28.643125"
     },
     "SD": {
       "iso": "SD",
@@ -12932,7 +12932,7 @@
         "niveau": "eleve",
         "titre": "dans l’ensemble du territoire soudanais, y compris à Khartoum et à Port-Soudan : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13236,7 +13236,7 @@
         }
       },
       "carteVigilance": "/maps/SD.jpg",
-      "scrapedAt": "2026-10-30T06:58:50.072021"
+      "scrapedAt": "2026-10-31T06:50:36.922621"
     },
     "SS": {
       "iso": "SS",
@@ -13255,7 +13255,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Il existe un risque d'enlèvement, en particulier dans les zones isolées. Les groupes criminels et les milices s'en prennent aussi bien aux ressortissants nationaux qu'aux étrangers dans le but d'obten",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13539,17 +13539,17 @@
         }
       },
       "carteVigilance": "/maps/SS.jpg",
-      "scrapedAt": "2026-10-30T06:59:02.419724"
+      "scrapedAt": "2026-10-31T06:50:41.510646"
     },
     "TZ": {
       "iso": "TZ",
       "name": "Tanzanie",
       "region": "Afrique de l'Est",
       "risk": "eleve",
-      "version": 22,
-      "ref": "FRP-047-TZ-V22",
-      "sourceDateStr": "29 Oct 2026",
-      "dateMAJInterne": "30 Oct 2026",
+      "version": 23,
+      "ref": "FRP-047-TZ-V23",
+      "sourceDateStr": "30 Oct 2026",
+      "dateMAJInterne": "31 Oct 2026",
       "sources": [
         "voyage.gc.ca",
         "diplomatie.gouv.fr"
@@ -13558,7 +13558,7 @@
         "niveau": "modere",
         "titre": "Tanzanie - Faites preuve d'une grande prudence",
         "texte": "Faites preuve d’une grande prudence en Tanzanie en raison du taux de criminalité et du risque que représente le terrorisme.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -13937,7 +13937,7 @@
         }
       },
       "carteVigilance": "/maps/TZ.jpg",
-      "scrapedAt": "2026-10-30T06:59:09.043427"
+      "scrapedAt": "2026-10-31T06:50:46.529956"
     },
     "TD": {
       "iso": "TD",
@@ -13956,7 +13956,7 @@
         "niveau": "eleve",
         "titre": "ces zones frontalières de la Libye, depuis août 2018, en vue de contrôler les incursions armées de groupes rebelles : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14250,7 +14250,7 @@
         }
       },
       "carteVigilance": "/maps/TD.jpg",
-      "scrapedAt": "2026-10-30T06:59:15.328586"
+      "scrapedAt": "2026-10-31T06:50:54.010772"
     },
     "TG": {
       "iso": "TG",
@@ -14269,7 +14269,7 @@
         "niveau": "modere",
         "titre": "Frontière avec le Burkina Faso - Évitez tout voyage",
         "texte": "Évitez tout voyage à 30km de la frontière avec le Burkina Faso, en raison des opérations militaires, de la menace terroriste et du risque d’enlèvement. Cet avertissement inclus la ville ainsi que la r",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14574,7 +14574,7 @@
         }
       },
       "carteVigilance": "/maps/TG.jpg",
-      "scrapedAt": "2026-10-30T06:59:24.046329"
+      "scrapedAt": "2026-10-31T06:51:00.739557"
     },
     "TN": {
       "iso": "TN",
@@ -14593,7 +14593,7 @@
         "niveau": "eleve",
         "titre": "dans la zone montagneuse de l’Ouest (monts d’Orbata, Selloum, Semema, Chambi et Mghila), car pouvant abriter différente : formellement déconseillé",
         "texte": "Zone à risque majeur identifiée par les sources officielles. Déplacement à proscrire dans cette zone.",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -14910,7 +14910,7 @@
         }
       },
       "carteVigilance": "/maps/TN.jpg",
-      "scrapedAt": "2026-10-30T06:59:30.595713"
+      "scrapedAt": "2026-10-31T06:51:05.037919"
     },
     "ZA": {
       "iso": "ZA",
@@ -14929,7 +14929,7 @@
         "niveau": "modere",
         "titre": "Enlèvements",
         "texte": "Des enlèvements pour rançons surviennent fréquemment et des ressortissants étrangers ont été enlevés par le passé. Dans certains cas, les victimes ont été attirées via des applications de rencontres e",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15252,7 +15252,7 @@
         }
       },
       "carteVigilance": "/maps/ZA.jpg",
-      "scrapedAt": "2026-10-30T06:59:39.162454"
+      "scrapedAt": "2026-10-31T06:51:11.324937"
     },
     "ZM": {
       "iso": "ZM",
@@ -15271,7 +15271,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d'enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l'enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15581,7 +15581,7 @@
         }
       },
       "carteVigilance": "/maps/ZM.jpg",
-      "scrapedAt": "2026-10-30T06:59:51.636674"
+      "scrapedAt": "2026-10-31T06:51:18.042602"
     },
     "ZW": {
       "iso": "ZW",
@@ -15600,7 +15600,7 @@
         "niveau": "modere",
         "titre": "Enlèvement international d’enfants",
         "texte": "La Convention de La Haye sur les aspects civils de l’enlèvement international d'enfants est un traité international. Elle peut aider les parents à obtenir le retour de leurs enfants lorsque ceux-ci on",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -15894,7 +15894,7 @@
         }
       },
       "carteVigilance": "/maps/ZW.jpg",
-      "scrapedAt": "2026-10-30T06:59:57.847673"
+      "scrapedAt": "2026-10-31T06:51:22.496460"
     },
     "SC": {
       "iso": "SC",
@@ -15913,7 +15913,7 @@
         "niveau": "modere",
         "titre": "Piraterie",
         "texte": "Des pirates commettent des attaques et des vols à main armée contre des navires dans les eaux côtières, en particulier dans le golfe d'Aden et l'océan Indien. Bien que le nombre de cas de piraterie ai",
-        "date": "30 Oct 2026"
+        "date": "31 Oct 2026"
       },
       "autresAlertes": [],
       "angleTN": [
@@ -16147,7 +16147,7 @@
         }
       },
       "carteVigilance": "/maps/SC.jpg",
-      "scrapedAt": "2026-10-30T07:00:04.382022"
+      "scrapedAt": "2026-10-31T06:51:26.955192"
     }
   }
 }
